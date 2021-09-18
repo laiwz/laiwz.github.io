@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
-title: GitHub pages template
-description: A simple template based on minimal jekyll theme
+title: Weizheng Lai
+description:
 show_downloads: True
 navigation:
-  - title: Home
+  - title: Research
     url: /
-  - title: Setup
+  - title: Resources
     url: setup
