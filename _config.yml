@@ -7,6 +7,6 @@ navigation:
   - title: Research
     url: /
   - title: Resources
-    url: /resources.md
+    url: resources
   - title: CV
     url: /assets/pdfs/CV.pdf
