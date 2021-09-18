@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: Weizheng Lai
 description: Ph.D. Candidate in Economics <br> University of Maryland
 logo: /assets/img/me.jpg
-show_downloads: true
+show_downloads: false
 navigation:
   - title: Research
     url: /
