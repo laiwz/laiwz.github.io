@@ -3,12 +3,14 @@ layout: default
 ---
 
 # Welcome!
+-------------------------------------------
 * I’m a Ph.D. Candidate in economics at the [University of Maryland](https://www.umd.edu/). Prior to Maryland, I studied economics and mathematics at [Wuhan University](https://www.whu.edu.cn/). I'm interested in political economy, with focus on issues about China.
 * Email: [laiwz@umd.edu](mailto:laiwz@umd.edu)
 * [Google Scholar](https://scholar.google.com/citations?user=6rN7IhEAAAAJ&hl=en)
 
 
 # Research
+------------------------------------------
 ## _Publications_
 1. ["Housing Market Regulations and Strategic Divorce Propensity in China"](https://link.springer.com/article/10.1007/s00148-021-00853-2), with [James Alm](https://liberalarts.tulane.edu/departments/economics/people/james-alm) and [Xun Li](https://sites.google.com/site/xlihomepage/), forthcoming, ***Journal of Population Economics***
     - [Working Paper Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3480934)
