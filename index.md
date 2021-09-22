@@ -19,4 +19,4 @@ layout: default
 ## _Working Papers_
 1. ["Role of Professional Bureaucracy in the Policy Response to COVID-19: Does a Public Health or Medical Background Help?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713238), with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, [Xi Chen](https://sites.google.com/site/xichennj/), R&R, ***China Economic Review***
    - [IZA Discussion Paper](https://ftp.iza.org/dp14710.pdf)
-2. ["Is the Bureaucracy Still Attractive? The Role of China’s Anti-Corruption Campaign in Reshaping Occupational Preference"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406), with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, [Xi Chen](https://sites.google.com/site/xichennj/)
+2. ["Is the Bureaucracy Still Attractive? The Role of China’s Anti-Corruption Campaign in Reshaping Occupational Preference"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406), with [Xun Li](https://sites.google.com/site/xlihomepage/)
