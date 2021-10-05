@@ -13,3 +13,4 @@
 - [Avraham Ebenstein's webpage](https://scholars.huji.ac.il/avrahamebenstein/links?page=1)
 - [Stata color palettes](http://repec.sowi.unibe.ch/stata/palettes/getting-started.html)
 - [Stata graph scheme](https://www.stata.com/meeting/uk18/slides/uk18_Jann.pdf)
+- [Stata ftools](https://github.com/sergiocorreia/ftools)
