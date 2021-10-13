@@ -14,3 +14,4 @@
 - [Stata color palettes](http://repec.sowi.unibe.ch/stata/palettes/getting-started.html)
 - [Stata graph scheme](https://www.stata.com/meeting/uk18/slides/uk18_Jann.pdf)
 - [Stata ftools](https://github.com/sergiocorreia/ftools)
+- [Game trees in LaTeX](http://mirrors.ibiblio.org/CTAN/graphics/pgf/contrib/istgame/istgame-doc.pdf)
