@@ -18,5 +18,5 @@ layout: default
 # Working Papers
 ------------------------------------------
 1. ["Role of Professional Bureaucracy in the Policy Response to COVID-19: Does a Public Health or Medical Background Help?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713238), with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, [Xi Chen](https://sites.google.com/site/xichennj/), R&R, ***China Economic Review***
-   - [IZA Discussion Paper](https://www.iza.org/publications/dp/14710)
+   - [IZA DP No. 14710](https://www.iza.org/publications/dp/14710)
 2. ["China’s Anti-Corruption Campaign and Civil Servant Fever"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406), with [Xun Li](https://sites.google.com/site/xlihomepage/), submitted
