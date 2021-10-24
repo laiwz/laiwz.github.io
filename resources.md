@@ -5,6 +5,7 @@
 - [China Gearnal Social Survey (CGSS)](http://cgss.ruc.edu.cn/)
 - [China Data Access Project (by Northwestern Kellogg)](https://www.kellogg.northwestern.edu/research/global-poverty-research-lab/research/projects/china-data-access.aspx)
 - [Survey Research Data Archive (Taiwan)](https://srda.sinica.edu.tw/index.php)
+- [Lee-Campbell Group](https://www.shss.ust.hk/lee-campbell-group/)
 
 ## _Global Data_
 - [UN Comtrade Database](https://comtrade.un.org/data/)
