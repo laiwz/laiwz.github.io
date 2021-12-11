@@ -13,7 +13,7 @@ layout: default
 # Publications
 ------------------------------------------
 1. ["Housing Market Regulations and Strategic Divorce Propensity in China"](https://link.springer.com/article/10.1007/s00148-021-00853-2), with [James Alm](https://liberalarts.tulane.edu/departments/economics/people/james-alm) and [Xun Li](https://sites.google.com/site/xlihomepage/), forthcoming, ***Journal of Population Economics***
-    - [Working Paper Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3480934)
+    - [Working Paper Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3480934), [Slides](/assets/pdfs/Divorce_Renmin-GLO_20211212.pdf)
 
 
 # Working Papers
