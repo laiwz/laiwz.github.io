@@ -28,7 +28,6 @@ layout: default
    - [Slides](/assets/pdfs/CR_slides_708_handout.pdf)
 
 
-
 # Work in Progress
 ------------------------------------------
 1. Political Participation in China
