@@ -24,7 +24,8 @@ layout: default
 ------------------------------------------
 1. ["China’s Anti-Corruption Campaign and Civil Servant Fever"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406), with [Xun Li](https://sites.google.com/site/xlihomepage/), ***Journal of Law and Economics***, R&R
 
-1. "The Legacy of Cultural Revolution on Occupational Choice", [Slides](/assets/pdfs/CR_slides_708_handout.pdf)
+1. "The Legacy of Cultural Revolution on Occupational Choice"
+    - [Slides](/assets/pdfs/CR_slides_708_handout.pdf)
 
 
 # Work in Progress
