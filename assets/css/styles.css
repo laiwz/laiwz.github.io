@@ -8,7 +8,7 @@ body {
 
 /*code from https://github.com/adam-p/markdown-here/issues/579*/
 li {
-  margin: 0.5em 0;
+  margin: 0 0;
 }
 
 /* Space paragraphs in a list the same as the list itself. */
