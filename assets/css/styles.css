@@ -14,12 +14,12 @@ li {
 /* Space paragraphs in a list the same as the list itself. */
 li p {
   /* Needs !important to override rule above. */
-  margin: 1em 0 !important;
+  margin: 0.5em 0 !important;
 }
 
 /* Smaller spacing for sub-lists */
 ul ul, ul ol, ol ul, ol ol {
-  margin: 1em;
+  margin: 0.5em 0 !important;
 }
 
 /*Original code below*/
