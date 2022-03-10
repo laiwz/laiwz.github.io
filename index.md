@@ -19,13 +19,9 @@ layout: default
 2. ["Housing Market Regulations and Strategic Divorce Propensity in China"](https://link.springer.com/article/10.1007/s00148-021-00853-2), with [James Alm](https://liberalarts.tulane.edu/departments/economics/people/james-alm) and [Xun Li](https://sites.google.com/site/xlihomepage/), ***Journal of Population Economics***, forthcoming
     * [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3480934), [Slides](/assets/pdfs/Divorce_Renmin-GLO_20211212.pdf)
 
-
-# Working Papers
-------------------------------------------
 1. ["China’s Anti-Corruption Campaign and Civil Servant Fever"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406), with [Xun Li](https://sites.google.com/site/xlihomepage/), ***Journal of Law and Economics***, R&R
 
-2. "The Legacy of Cultural Revolution on Occupational Choice" xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-    * [Slides](/assets/pdfs/CR_slides_708_handout.pdf)
+2. "The Legacy of Cultural Revolution on Occupational Choice"
 
 
 # Work in Progress
