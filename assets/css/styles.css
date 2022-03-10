@@ -6,6 +6,11 @@ body {
   font-weight:400;
 }
 
+/*code from https://github.com/adam-p/markdown-here/issues/579*/
+li {
+  margin: 0.5em 0;
+}
+
 /* Space paragraphs in a list the same as the list itself. */
 li p {
   /* Needs !important to override rule above. */
