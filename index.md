@@ -24,8 +24,9 @@ layout: default
 1. ["China’s Anti-Corruption Campaign and Civil Servant Fever"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406), with [Xun Li](https://sites.google.com/site/xlihomepage/), ***Journal of Law and Economics***, R&R
 
 2. "The Legacy of Cultural Revolution on Occupational Choice"
-   * [Slides](/assets/pdfs/CR_slides_708_handout.pdf)
-
+   ```
+   [Slides](/assets/pdfs/CR_slides_708_handout.pdf)
+   ```
 
 ## _Work in Progress_
 1. Political Participation in China
