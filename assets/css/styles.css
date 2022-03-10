@@ -20,8 +20,46 @@ li p {
 /* Smaller spacing for sub-lists */
 ul ul, ul ol, ol ul, ol ol {
   margin: 0 0 !important;
-  font-size: 1em;
 }
+
+
+/**
+ * added css blocks
+ */
+
+ul li {
+  color: #3c3c3c; 
+  /* set color of list item text */
+
+  list-style: none; 
+  margin: 0 0 16px 1.1225em;
+  /* Give the bullet room on the left hand side */
+
+  padding: 0;
+  position: relative;
+}
+
+ ul li::before {
+  color: #FF0000;  
+  /* color of bullet or square */
+
+  content: "\2764"; 
+  /* Unicode of character to precede the list item */
+
+  font-size: 1em; 
+  /* use em or % */
+ 
+  left: -1.1225em; 
+  /* use em, line up bullet flush with left hand side */
+
+  position: absolute;
+  /* Set the bullet positioned absolutely top left */
+
+  top: 0em; 
+  /* use em or % */
+
+}
+
 
 /*Original code below*/
 h1, h2, h3, h4, h5, h6 {
