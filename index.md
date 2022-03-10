@@ -26,7 +26,6 @@ layout: default
 
 2. "The Legacy of Cultural Revolution on Occupational Choice"
    * [Slides](/assets/pdfs/CR_slides_708_handout.pdf)
-
 1. Political Participation in China
 2. Taiwanese Elections
 3. Citizens' Trust in the Government
