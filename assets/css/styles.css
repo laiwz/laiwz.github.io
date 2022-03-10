@@ -9,7 +9,7 @@ body {
 /* Space paragraphs in a list the same as the list itself. */
 li p {
   /* Needs !important to override rule above. */
-  margin: 0.5em 0 !important;
+  margin: 1em 0 !important;
 }
 
 /* Smaller spacing for sub-lists */
