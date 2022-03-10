@@ -289,13 +289,11 @@ footer {
 
 const styles = {
   paragraph_list: {
-    margin-Top: 0,
-    margin-Bottom: 0,
+    marginTop: 0,
+    marginBottom: 0,
   },
   bullet_list_icon: {
     lineHeight: 0,
-    margin-top: 0,
-    margin-bottom: 0,
   }
 };
 
