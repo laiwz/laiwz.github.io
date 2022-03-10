@@ -15,7 +15,6 @@ li p {
 /* Smaller spacing for sub-lists */
 ul ul, ul ol, ol ul, ol ol {
   margin: 0;
-  padding-left: 1em;
 }
 
 /*Original code below*/
