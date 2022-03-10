@@ -19,7 +19,7 @@ li p {
 
 /* Smaller spacing for sub-lists */
 ul ul, ul ol, ol ul, ol ol {
-  margin: 0.5em 0 !important;
+  margin: 0;
 }
 
 /*Original code below*/
