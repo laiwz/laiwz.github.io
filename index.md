@@ -14,6 +14,9 @@ layout: default
 -------------------------------------------
 ## _Publications_
 1. ["Role of Professional Bureaucracy in the Policy Response to COVID-19: Does a Public Health or Medical Background Help?"](https://www.sciencedirect.com/science/article/pii/S1043951X21001516?via%3Dihub), with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, [Xi Chen](https://ysph.yale.edu/profile/xi_chen/), ***China Economic Review***, Vol. 71, February 2022
+    <details><summary>Code example</summary><p>
+  ...
+</p></details>
     * [IZA DP No. 14710](https://www.iza.org/publications/dp/14710), [GLO DP 1002](https://ideas.repec.org/p/zbw/glodps/1002.html), [Early Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713238)
     * Coverage: [IZA Opinions](https://wol.iza.org/opinions/does-health-professionalism-among-bureaucrats-help-weather-covid-pandemic)
 
