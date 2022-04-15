@@ -14,7 +14,7 @@ layout: default
 -------------------------------------------
 ## _Publications_
 1. ["Role of Professional Bureaucracy in the Policy Response to COVID-19: Does a Public Health or Medical Background Help?"](https://www.sciencedirect.com/science/article/pii/S1043951X21001516?via%3Dihub), with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, [Xi Chen](https://ysph.yale.edu/profile/xi_chen/), ***China Economic Review***, Vol. 71, February 2022
-<details>
+    * <details>
 <summary><mark><font color=darkred>Android Node Tree</font></mark>
 </summary>
 <p>
