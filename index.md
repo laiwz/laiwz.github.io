@@ -27,5 +27,7 @@ layout: default
 2. ["Learn to Abstain: How Education Can Lower Voter Turnout in China's Grassroots Elections"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4062133), submitted
 
 2. "The Legacy of Cultural Revolution on Occupational Choice"
-2. Taiwanese Elections
-3. Citizens' Trust in the Government
+
+4. Taiwanese Elections
+
+6. Citizens' Trust in the Government
