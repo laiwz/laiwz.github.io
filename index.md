@@ -7,7 +7,7 @@ layout: default
 * I’m a Ph.D. Candidate in economics at the [University of Maryland](https://www.umd.edu/). Prior to Maryland, I studied economics and mathematics at [Wuhan University](https://www.whu.edu.cn/).
 * Interests: political economy, economic history, labor economics
 * Email: [laiwz@umd.edu](mailto:laiwz@umd.edu)
-* [Google Scholar](https://scholar.google.com/citations?user=6rN7IhEAAAAJ&hl=en)
+* [Google Scholar](https://scholar.google.com/citations?user=6rN7IhEAAAAJ&hl=en), [Twitter](https://twitter.com/weizheng_lai)
 
 
 # Research
