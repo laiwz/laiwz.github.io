@@ -26,8 +26,6 @@ layout: default
 
 2. ["Learn to Abstain: How Education Can Lower Voter Turnout in China's Grassroots Elections"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4062133), submitted
 
-2. "Exposure to Violence and Occupational Outcomes: Evidence from Children of the Cultural Revolution"
-
 4. Taiwanese Elections
 
 6. "Anti-Corruption and Political Trust: Evidence from China", with Ming Fang
