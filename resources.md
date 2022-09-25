@@ -7,6 +7,7 @@
 - [Survey Research Data Archive (Taiwan)](https://srda.sinica.edu.tw/index.php)
 - [Lee-Campbell Group](https://www.shss.ust.hk/lee-campbell-group/)
 - [NYU Shanghai Datasets](https://datascience.shanghai.nyu.edu/datasets)
+- [Modern China Biographical Database (MCBD)](https://bookdown.enpchina.eu/mcbd_usermanual/introduction.html)
 
 ## _Global Data_
 - [UN Comtrade Database](https://comtrade.un.org/data/)
