@@ -24,7 +24,7 @@ layout: default
 ## _Working Papers_
 1. ["China’s Anti-Corruption Campaign and Civil Servant Fever"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406), with [Xun Li](https://sites.google.com/site/xlihomepage/), ***Journal of Law and Economics***, R&R (_new draft coming soon!_)
 
-2. ["Learn to Abstain: The Effect of Education on Voter Turnout in China's Rural Elections"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4062133)
+2. ["Learn to Abstain: The Effect of Education on Voter Turnout in China's Rural Elections"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4062133), submitted
 
 4. Taiwanese Elections
 
