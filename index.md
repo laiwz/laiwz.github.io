@@ -28,4 +28,4 @@ layout: default
 
 4. Taiwanese Elections
 
-6. "Anti-Corruption and Political Trust: Evidence from China", with Ming Fang
+6. "Anti-Corruption and Political Trust: Evidence from China", with [Ming Fang](https://sites.google.com/umd.edu/ming-fang)
