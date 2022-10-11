@@ -26,6 +26,9 @@ layout: default
 
 2. ["Learn to Abstain: The Effect of Education on Voter Turnout in China's Rural Elections"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4062133), submitted
 
-4. Taiwanese Elections
+6. "Anti-Corruption and Political Trust: Evidence from China", with [Ming Fang](https://sites.google.com/umd.edu/ming-fang) (_draft coming soon!_)
 
-6. "Anti-Corruption and Political Trust: Evidence from China", with [Ming Fang](https://sites.google.com/umd.edu/ming-fang)
+7. Long-Term Effects of the Cultural Revolution
+
+
+4. Taiwanese Elections
