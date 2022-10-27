@@ -28,7 +28,7 @@ layout: default
 
 3. "Anti-Corruption and Political Trust: Evidence from China", with [Ming Fang](https://sites.google.com/umd.edu/ming-fang) (_draft coming soon!_)
 
-4. Long-Term Effects of the Cultural Revolution
+4. "Long-Term Effects of the Cultural Revolution" (_draft coming soon!_)
 
 5. Taiwanese Elections
 
