@@ -21,14 +21,15 @@ layout: default
     * Coverage: [IZA Opinions](https://wol.iza.org/opinions/does-health-professionalism-among-bureaucrats-help-weather-covid-pandemic)
 
 
-## _Working Papers_
+## _Working Papers & Work in Progress_
 1. ["China’s Anti-Corruption Campaign and Civil Servant Fever"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406), with [Xun Li](https://sites.google.com/site/xlihomepage/), ***Journal of Law and Economics***, R&R (_new draft coming soon!_)
 
 2. ["Learn to Abstain: The Effect of Education on Voter Turnout in China's Rural Elections"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4062133), submitted
 
-6. "Anti-Corruption and Political Trust: Evidence from China", with [Ming Fang](https://sites.google.com/umd.edu/ming-fang) (_draft coming soon!_)
+3. "Anti-Corruption and Political Trust: Evidence from China", with [Ming Fang](https://sites.google.com/umd.edu/ming-fang) (_draft coming soon!_)
 
-7. Long-Term Effects of the Cultural Revolution
+4. Long-Term Effects of the Cultural Revolution
 
+5. Taiwanese Elections
 
-4. Taiwanese Elections
+6. Long-Term Effects of the Taiping Rebellion, with [Colin Xu](https://www.worldbank.org/en/about/people/l/l-colin-xu)
