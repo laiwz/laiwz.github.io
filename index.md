@@ -26,7 +26,7 @@ layout: default
 
 2. ["Learn to Abstain: The Effect of Education on Voter Turnout in China's Rural Elections"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4062133), submitted
 
-3. "Anti-Corruption and Political Trust: Evidence from China", with [Ming Fang](https://sites.google.com/umd.edu/ming-fang) (_draft coming soon!_)
+3. ["Anti-Corruption and Political Trust: Evidence from China"](https://drive.google.com/file/d/1I4VdXnyRlvD1iXS94QTV5Xw3gOGPrh6G/view), with [Ming Fang](https://sites.google.com/umd.edu/ming-fang)
 
 4. "Long-Term Effects of the Cultural Revolution" (_draft coming soon!_)
 
