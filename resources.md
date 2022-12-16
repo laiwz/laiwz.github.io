@@ -9,6 +9,9 @@
 - [NYU Shanghai Datasets](https://datascience.shanghai.nyu.edu/datasets)
 - [Modern China Biographical Database (MCBD)](https://bookdown.enpchina.eu/mcbd_usermanual/introduction.html)
 
+## _Taiwan Data_
+- [Taiwan Social Change Survey (TSCS)](https://www2.ios.sinica.edu.tw/sc/cht/scDownload.php)
+
 ## _Global Data_
 - [UN Comtrade Database](https://comtrade.un.org/data/)
 
