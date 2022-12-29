@@ -3,6 +3,7 @@
 ## _Data Sources_
 - [China Family Panel Studies (CFPS)](http://www.isss.pku.edu.cn/cfps/)
 - [China Gearnal Social Survey (CGSS)](http://cgss.ruc.edu.cn/)
+- [China Private Enterprise Survey (CPES)](https://cpes.zkey.cc/index.jsp)
 - [China Data Access Project (by Northwestern Kellogg)](https://www.kellogg.northwestern.edu/research/global-poverty-research-lab/research/projects/china-data-access.aspx)
 - [Lee-Campbell Group](https://www.shss.ust.hk/lee-campbell-group/)
 - [NYU Shanghai Datasets](https://datascience.shanghai.nyu.edu/datasets)
