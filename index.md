@@ -28,8 +28,8 @@ layout: default
 
 3. ["Anti-Corruption and Political Trust: Evidence from China"](https://drive.google.com/file/d/1I4VdXnyRlvD1iXS94QTV5Xw3gOGPrh6G/view), with [Ming Fang](https://sites.google.com/umd.edu/ming-fang)
 
-4. "Long-Term Effects of the Cultural Revolution" (_draft coming soon!_)
+5. "The Impacts of Economic Statecraft: The Case of Taiwan" (_draft coming soon!_)
 
-5. Taiwanese Elections
+7. "Long-Term Effects of the Cultural Revolution" (_draft coming soon!_)
 
 6. Long-Term Effects of the Taiping Rebellion, with [Colin Xu](https://www.worldbank.org/en/about/people/l/l-colin-xu)
