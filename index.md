@@ -32,4 +32,3 @@ layout: default
 
 7. "Long-Term Effects of the Cultural Revolution" (_draft coming soon!_)
 
-6. Long-Term Effects of the Taiping Rebellion, with [Colin Xu](https://www.worldbank.org/en/about/people/l/l-colin-xu)
