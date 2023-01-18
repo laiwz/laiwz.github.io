@@ -19,3 +19,4 @@
 - [Stata ftools](https://github.com/sergiocorreia/ftools)
 - [Game trees in LaTeX](http://mirrors.ibiblio.org/CTAN/graphics/pgf/contrib/istgame/istgame-doc.pdf)
 - [Beamer tips and tricks](https://paulgp.github.io/beamer_tips.pdf)
+- [Nice templates](http://www.lukaspuettmann.com/2016/04/23/reasonable-latex-templates/)
