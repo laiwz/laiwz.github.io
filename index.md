@@ -22,7 +22,7 @@ layout: default
 
 
 ## _Working Papers & Work in Progress_
-1. ["China’s Anti-Corruption Campaign and Civil Servant Fever"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406), with [Xun Li](https://sites.google.com/site/xlihomepage/), r&r at ***Journal of Law and Economics*** (_new draft coming soon!_)
+1. ["China’s Anti-Corruption Campaign and Civil Servant Fever"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406), with [Xun Li](https://sites.google.com/site/xlihomepage/), revision requested by ***Journal of Law and Economics*** (_new draft coming soon!_)
 
 2. ["Learn to Abstain: The Effect of Education on Voter Turnout in China's Rural Elections"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4062133), submitted
 
