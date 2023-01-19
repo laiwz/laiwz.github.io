@@ -30,5 +30,5 @@ layout: default
 
 5. "The Impacts of Economic Statecraft: The Case of Taiwan" (_draft coming soon!_)
 
-7. "Long-Term Effects of the Cultural Revolution" (_draft coming soon!_)
+7. "Exposure to Violence and Occupational Choice: Evidence from Children of the Cultural Revolution" (_draft coming soon!_)
 
