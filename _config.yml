@@ -1,4 +1,4 @@
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 title: Weizheng Lai
 description: Ph.D. Candidate in Economics <br> University of Maryland
 logo: /assets/img/me2.jpg
@@ -10,7 +10,6 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-remote-theme
-remote_theme: BDHU/minimalist
 color-scheme: auto
 
 navigation:
