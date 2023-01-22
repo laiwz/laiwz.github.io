@@ -1,8 +1,10 @@
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 remote_theme: "godalming123/minimal"
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
-  
+
+color-scheme: ["auto"] #["dark", "light", "auto" or "auto-default-dark" auto is the default setting and changes theme based on device theme, auto-default-dark is the same except if you device does not support changing theme based on device theme it will default to dark and the others are fairly self explanetory.]
+
 title: Weizheng Lai
 description: Ph.D. Candidate in Economics <br> University of Maryland
 logo: /assets/img/me2.jpg
