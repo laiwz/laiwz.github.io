@@ -1,4 +1,10 @@
 #theme: jekyll-theme-minimal
+title: Weizheng Lai
+description: Ph.D. Candidate in Economics <br> University of Maryland
+logo: /assets/img/me2.jpg
+show_downloads: false
+
+favicon: true
 remote_theme: BDHU/minimalist
 color-scheme: auto
 plugins:
@@ -7,10 +13,6 @@ plugins:
   - jemoji
   - jekyll-remote-theme
 
-title: Weizheng Lai
-description: Ph.D. Candidate in Economics <br> University of Maryland
-logo: /assets/img/me2.jpg
-show_downloads: false
 navigation:
   - title: Curriculum Vitae
     url: /assets/pdfs/CV.pdf
