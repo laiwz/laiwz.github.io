@@ -1,1 +1,2 @@
-- Get estimators right
+- *Get estimators right*
+  - Can FE estimators be maintained?
