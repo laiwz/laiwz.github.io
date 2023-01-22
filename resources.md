@@ -20,3 +20,5 @@
 - [Game trees in LaTeX](http://mirrors.ibiblio.org/CTAN/graphics/pgf/contrib/istgame/istgame-doc.pdf)
 - [Beamer tips and tricks](https://paulgp.github.io/beamer_tips.pdf)
 
+## _Notes_
+- New DiD methods
