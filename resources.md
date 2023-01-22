@@ -21,4 +21,4 @@
 - [Beamer tips and tricks](https://paulgp.github.io/beamer_tips.pdf)
 
 ## _Notes_
-- New DiD methods
+- [New DiD methods](/assets/mds/notes_did.md)
