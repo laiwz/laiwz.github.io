@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<img class="profile-picture" src="/assets/img/me2.jpg">
 
 # Welcome!
 -------------------------------------------
