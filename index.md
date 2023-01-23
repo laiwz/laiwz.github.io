@@ -1,5 +1,4 @@
 ---
-title: "Weizheng Lai"
 layout: default
 ---
 
