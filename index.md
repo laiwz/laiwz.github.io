@@ -36,3 +36,15 @@ In China’s regulated housing markets, a married couple may choose strategicall
 
 7. "Exposure to Violence and Occupational Choice: Evidence from Children of the Cultural Revolution" (_draft coming soon!_)
 
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
