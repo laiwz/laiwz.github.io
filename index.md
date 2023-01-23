@@ -5,7 +5,7 @@ layout: default
 
 # Welcome!
 -------------------------------------------
-* I’m <img class="profile-picture" src="/assets/img/me2.png"> a fourth year Ph.D. student in economics at the [University of Maryland](https://www.umd.edu/). Prior to Maryland, I studied economics and mathematics at [Wuhan University](https://www.whu.edu.cn/).
+* I’m <img class="profile-picture" src="/assets/img/me2.jpg"> a fourth year Ph.D. student in economics at the [University of Maryland](https://www.umd.edu/). Prior to Maryland, I studied economics and mathematics at [Wuhan University](https://www.whu.edu.cn/).
 * Interests: political economy, Chinese economy, public economics
 * Email: [laiwz@umd.edu](mailto:laiwz@umd.edu)
 * [Google Scholar](https://scholar.google.com/citations?user=6rN7IhEAAAAJ&hl=en), [Twitter](https://twitter.com/weizheng_lai)
