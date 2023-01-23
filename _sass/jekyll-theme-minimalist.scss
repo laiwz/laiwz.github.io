@@ -1,34 +1,17 @@
 @import "fonts";
 @import "rouge-github";
 @import "colors";
+
 body {
-  background-color: #fff;
+  background-color: var(--clr-bg);
   padding:50px;
-  font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color:#595959;
+  font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: var(--clr-text);
   font-weight:400;
 }
 
-/*code from https://github.com/adam-p/markdown-here/issues/579*/
-li {
-  margin: 0 0;
-}
-
-/* Space paragraphs in a list the same as the list itself. */
-li p {
-  /* Needs !important to override rule above. */
-  margin: 0.5em 0 !important;
-}
-
-/* Smaller spacing for sub-lists */
-ul ul, ul ol, ol ul, ol ol {
-  margin: 0.5em;
-}
-
-
-/*Original code below*/
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color: var(--clr-h1-and-bold);
   margin:0 0 20px;
 }
 
@@ -42,46 +25,63 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
-  font-weight: 500;
 }
 
 h2 {
-  color:#393939;
-  font-weight: 500;
+  color: var(--clr-h2);
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
-  font-weight: 500;
+  color: var(--clr-h-3-6);
 }
 
 a {
-  color:#39c;
+  color:var(--clr-a-text);
   text-decoration:none;
 }
 
-a:hover {
-  color:#069;
+a:hover, a:focus {
+  color: var(--clr-a-text-hvr);
 }
 
 a small {
   font-size:11px;
-  color:#777;
+  color:var(--clr-small-in-a);
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  color:var(--clr-small-in-a);
+}
+
+// added
+p.link {
+  margin:0 0 4px;
+}
+
+// added
+ul.link {
+  list-style-type: none; /* Remove bullets */
+  margin: 0; /* To remove default bottom margin */ 
+  padding: 0.4px; /* To remove default left padding */
+}
+
+ul.link li + li {
+  margin-top: 6px;
+}
+
+ul.link:last-child {
+  margin-bottom: 6px;
 }
 
 .wrapper {
-  width:1080px;
-  margin:0 auto;
+  width:860px;
+  margin: 0 auto;
 }
 
 blockquote {
-  border-left:1px solid #e5e5e5;
+  border-left:1px solid var(--clr-splitter-blockquote-and-section);
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
@@ -89,14 +89,14 @@ blockquote {
 
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color:#333;
+  color: var(--clr-code-text);
 }
 
 pre {
   padding:8px 15px;
-  background: #f8f8f8;
+  background: var(--clr-code-bg);
   border-radius:5px;
-  border:1px solid #e5e5e5;
+  border:1px solid var(--clr-code-border);
   overflow-x: auto;
 }
 
@@ -108,92 +108,75 @@ table {
 th, td {
   text-align:left;
   padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
+  border-bottom:1px solid var(--clr-splitter-blockquote-and-section);
 }
 
 dt {
-  color:#444;
-  font-weight:500;
+  color:var(--clr-table-header-and-dt);
+  font-weight:700;
 }
 
 th {
-  color:#444;
+  color:var(--clr-table-header-and-dt);
 }
 
 img {
   max-width:100%;
 }
 
-header {
-  width:270px;
+kbd {
+  background-color: var(--clr-kbd-bg) ;
+  border: 1px solid var(--clr-kbd-border);
+  border-bottom-color: var(--clr-kbd-border-bottom-and-shadow);
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 var(--clr-kbd-border-bottom-and-shadow);
+  color: var(--clr-kbd-text);
+  display: inline-block;
+  font-size: 11px;
+  line-height: 10px;
+  padding: 3px 5px;
+  vertical-align: middle;
+}
+
+.sidebar {
+  width:185px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+  top: 0;
+  padding: 58px 0 50px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: calc(100vh - 108px);
+  overflow-x: hidden;
+  overflow-y: scroll;
+  -ms-overflow-style: -ms-autohiding-scrollbar; // IE10+
 }
 
-header ul {
-  list-style:none;
-  height:40px;
-  padding:0;
-  background: #f4f4f4;
-  border-radius:5px;
-  border:1px solid #e0e0e0;
-  width:270px;
+// Disables the scrollbar in Firefox
+// HTML-Proofer fails without "@-moz-document url-prefix()"
+// because scrollbar-width is still experimental in Firefox.
+@-moz-document url-prefix() {
+  .sidebar {
+    scrollbar-width: none;
+  }
 }
 
-header li {
-  width:89px;
-  float:left;
-  border-right:1px solid #e0e0e0;
-  height:40px;
-}
-
-header li:first-child a {
-  border-radius:5px 0 0 5px;
-}
-
-header li:last-child a {
-  border-radius:0 5px 5px 0;
-}
-
-header ul a {
-  line-height:1;
-  font-size:11px;
-  color:#999;
-  display:block;
-  text-align:center;
-  padding-top:6px;
-  height:34px;
-}
-
-header ul a:hover {
-  color:#999;
-}
-
-header ul a:active {
-  background-color:#f0f0f0;
+.sidebar::-webkit-scrollbar {
+  /* Chrome, Safari, Edge */
+  display: none;
 }
 
 strong {
-  color:#222;
-  font-weight:500;
-}
-
-header ul li + li + li {
-  border-right:none;
-  width:89px;
-}
-
-header ul a strong {
-  font-size:14px;
-  display:block;
-  color:#222;
+  color:var(--clr-h1-and-bold);
+  font-weight:700;
 }
 
 section {
-  width:750px;
+  width: 610px;
   float:right;
-  padding-bottom:50px;
+  padding-bottom:30px;
 }
 
 small {
@@ -202,27 +185,50 @@ small {
 
 hr {
   border:0;
-  background:#e5e5e5;
+  background:var(--clr-splitter-blockquote-and-section);
   height:1px;
-  margin:0 0 20px;
+  width:30%;
+  margin:10px auto 30px;
 }
 
-footer {
-  width:270px;
+footer, .sidebar-footer {
+  width:185px;
   float:left;
-  position:fixed;
-  bottom:50px;
+  bottom:30px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+footer {
+  display: none;
+}
+
+.sidebar-footer {
+  flex-basis: content;
+}
+
 @media print, screen and (max-width: 960px) {
+
+  .sidebar {
+    padding: initial;
+    display: initial;
+    height: initial;
+    overflow: initial;    
+  }
+
+  footer {
+    display: initial;
+  }
+
+  .sidebar-footer {
+    display: none;
+  }
 
   div.wrapper {
     width:auto;
     margin:0;
   }
 
-  header, section, footer {
+  .sidebar, section, footer {
     float:none;
     position:static;
     width:auto;
@@ -233,7 +239,7 @@ footer {
   }
 
   section {
-    border:1px solid #e5e5e5;
+    border:1px solid var(--clr-splitter-blockquote-and-section);
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
@@ -247,6 +253,14 @@ footer {
     position:absolute;
     right:50px;
     top:52px;
+  }
+  
+  .link-wrapper {
+    display: none !important;
+  }
+
+  .img-circle {
+    display: none !important;
   }
 }
 
@@ -268,18 +282,28 @@ footer {
   }
 }
 
+.link-wrapper-mobile {
+  margin-bottom: 20px;
+}
+
+@media print, screen and (min-width: 961px) {
+  .link-wrapper-mobile {
+    display: none !important;
+  }
+}
+
 @media print, screen and (max-width: 480px) {
   body {
     padding:15px;
   }
 
-  header ul {
-    width:99%;
-  }
+  // header ul {
+  //   width:99%;
+  // }
 
-  header li, header ul li + li + li {
-    width:33%;
-  }
+  // header li, header ul li + li + li {
+  //   width:33%;
+  // }
 }
 
 @media print {
@@ -289,54 +313,3 @@ footer {
     color:#444;
   }
 }
-
-
-const styles = {
-  paragraph_list: {
-    marginTop: 0,
-    marginBottom: 0,
-  },
-  bullet_list_icon: {
-    lineHeight: 0,
-  }
-};
-
-const rules = {
-  paragraph: (node, children, parent, styles) => {
-    if(parent[0].type === 'list_item') {
-      return (
-        <View key={node.key} style={styles._VIEW_SAFE_paragraph_list}>
-          {children}
-        </View>
-      );
-    }
-
-    return (
-      <View key={node.key} style={styles._VIEW_SAFE_paragraph}>
-        {children}
-      </View>
-    );
-  }
-}
-
-const App: () => React$Node = () => {
-  return (
-    <>
-      <SafeAreaView>
-        <ScrollView
-          contentInsetAdjustmentBehavior="automatic"
-          style={{height: '100%'}}>
-          <View style={{height: '100%', padding: 10}}>
-            <Markdown 
-              debugPrintTree
-              style={styles}
-              rules={rules}
-            >
-              {copy}
-            </Markdown>
-          </View>
-        </ScrollView>
-      </SafeAreaView>
-    </>
-  );
-};
