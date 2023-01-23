@@ -30,7 +30,8 @@
       <div class="sidebar">
         <header>
           {% if site.logo %}
-            <img class="img-circle" src="{{ site.logo | relative_url }}" alt="Logo">
+            <!--<img class="img-circle" src="{{ site.logo | relative_url }}" alt="Logo">-->
+            <img src="{{site.logo | relative_url}}" alt="Logo" style="max-width:75%;" />
           {% endif %}
 
           {% if site.blank_title %}
