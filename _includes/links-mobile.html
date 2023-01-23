@@ -9,6 +9,7 @@
         }
     </style> -->
     {%- for platform in site.sidebar %}
+    <img class="profile-picture" src="/assets/img/me2.jpg">
     <nobr><a href="{{ platform.link }}" rel="me">{{ platform.name }}</a>
     {%- unless forloop.last %} / {% endunless %}</nobr>
     {%- endfor %}
