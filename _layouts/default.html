@@ -30,11 +30,7 @@
       <div class="sidebar">
         <header>
           {% if site.logo %}
-            <!--{% if site.cdn.jsdelivr.enabled %}
-              <img class="img-circle" src="{{ assets_base_url }}{{ site.logo }}" alt="Logo">
-            {% else %}-->
-              <img class="img-circle" src="{{ site.logo | relative_url }}" alt="Logo">
-            <!--{% endif %}-->
+            <img class="img-circle" src="{{ site.logo | relative_url }}" alt="Logo">
           {% endif %}
 
           {% if site.blank_title %}
