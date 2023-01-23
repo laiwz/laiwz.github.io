@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img class="img-circle" src="/assets/img/me2.jpg">
+<img class="profile-picture" src="/assets/img/me2.jpg">
 
 # Welcome!
 -------------------------------------------
