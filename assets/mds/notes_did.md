@@ -1,4 +1,5 @@
 # Notes on New DiD Methods
+--------------------------------
 
 ## _Get Estimators for DiD Designs Right_
 - Can FE estimators be maintained?
