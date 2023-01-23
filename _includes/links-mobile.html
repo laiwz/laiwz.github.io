@@ -8,6 +8,10 @@
         color: var(--clr-a-text-hvr);
         }
     </style> -->
+    {% if site.logo %}
+        <img class="img-circle" src="{{ site.logo | relative_url }}" alt="Logo">
+    {% endif %}
+    
     {%- for platform in site.sidebar %}
     <nobr><a href="{{ platform.link }}" rel="me">{{ platform.name }}</a>
     {%- unless forloop.last %} / {% endunless %}</nobr>
