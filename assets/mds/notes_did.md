@@ -7,7 +7,7 @@ Assume that the assumptions of **parallel trends** and **no anticipation** hold.
 
 ### When can the commonly used FE estimators be maintained?
 
-- They are fine when ([dCDH 2022, p.4](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3980758)):
+- They are fine when ([de Chasemartion and D'Haultfœuille 2022, p.4](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3980758)):
     1. treatment increases over time and is an absorbing state (often the case);
     2. treatment is binary;
     3. there is no variation in adoption timing.
@@ -26,3 +26,7 @@ Assume that the assumptions of **parallel trends** and **no anticipation** hold.
 
 - To justify the use of FE estimators, one has to corroborate that
     1. the weighting scheme is not too bad: no negative weights so the no sign reversal porperty holds; it seems impossible to argue that the weights happen to be those forming an ATE...
+        - [Goodman-Bacon 2021](https://www.sciencedirect.com/science/article/abs/pii/S0304407621001445)
+        - [Jakiela 2021](https://arxiv.org/abs/2103.13229)
+        - [Sun and Abraham 2021](https://www.sciencedirect.com/science/article/abs/pii/S030440762030378X) (for event studies)
+        - [de Chasemartion and D'Haultfœuille 2022, p.4](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3980758)
