@@ -29,4 +29,9 @@ Assume that the assumptions of **parallel trends** and **no anticipation** hold.
         - [Goodman-Bacon 2021](https://www.sciencedirect.com/science/article/abs/pii/S0304407621001445)
         - [Jakiela 2021](https://arxiv.org/abs/2103.13229)
         - [Sun and Abraham 2021](https://www.sciencedirect.com/science/article/abs/pii/S030440762030378X) (for event studies)
-        - [de Chasemartion and D'Haultfœuille 2022, p.4](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3980758)
+        - [de Chasemartion and D'Haultfœuille 2022](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3980758)
+    2. TEs are homogenous
+        - [Jakiela 2021](https://arxiv.org/abs/2103.13229)
+        - [de Chasemartion and D'Haultfœuille 2020](https://www.aeaweb.org/articles?id=10.1257/aer.20181169): two statics to provide a sense on how heterogeneous TEs are so that FE estimators are not informative in presence of negative weights
+    
+    I guess even if these tests provide some support for maintaining FE estimators, the results would only be informative by in the directional/qualitative sense.
