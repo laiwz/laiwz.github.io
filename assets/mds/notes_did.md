@@ -16,7 +16,7 @@ Assume that the assumptions of **parallel trends** and **no anticipation** hold.
 
 - FE estimators can be problematic in other settings, because OLS places unreasonable weights on (likely) heterogeneous TEs, making FE estimators biased for usual causal parameters of interest (e.g., ATT, ATE). Examples for these settings include --
   1. Non-staggered, binary treatment, **with covariates/unbalanced panel**
-      - Ironically, FE estimators collapse when we include unit-specific trends for _robustness_.
+      - Ironically, FE estimators collapse when we include unit-specific trends for _robustness_.<br>
   2. Non-staggered, continuous treatment
   3. Staggered, binary/continuous treatment
 
