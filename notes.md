@@ -1,3 +1,5 @@
 # Notes
 --------------------------------------------------------
-- [New DiD methods](/assets/mds/notes_did.md)
+- New DiD methods
+- IV
+- Shift-share designs
