@@ -1,7 +1,9 @@
 # Notes on New DiD Methods
 --------------------------------
+[sunabraham2021]: https://www.sciencedirect.com/science/article/abs/pii/S030440762030378X
+[jakiela]: https://arxiv.org/abs/2103.13229
 
-## _Get Estimators for DiD Designs Right_
+## _Get estimators for DiD designs right_
 
 Assume that the assumptions of **parallel trends** and **no anticipation** hold. So, the problem is about interpretations rather than identificaiton.
 
@@ -28,7 +30,7 @@ Assume that the assumptions of **parallel trends** and **no anticipation** hold.
     1. the weighting scheme is not too bad: no negative weights so the no sign reversal porperty holds; it seems impossible to argue that the weights happen to be those forming an ATE...
         - [Goodman-Bacon 2021](https://www.sciencedirect.com/science/article/abs/pii/S0304407621001445)
         - [Jakiela 2021](https://arxiv.org/abs/2103.13229)
-        - [Sun and Abraham 2021](https://www.sciencedirect.com/science/article/abs/pii/S030440762030378X) (for event studies)
+        - [Sun and Abraham 2021][sunabraham2021] (for event studies)
         - [de Chasemartion and D'Haultfœuille 2022](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3980758)
     2. TEs are homogenous
         - [Jakiela 2021](https://arxiv.org/abs/2103.13229)
@@ -36,4 +38,5 @@ Assume that the assumptions of **parallel trends** and **no anticipation** hold.
     
     I guess even if these tests provide some support for maintaining FE estimators, the results would only be informative by in the directional/qualitative sense. So, alternative robust estimators are needed.
     
-### Robust Estimators
+### Robust estimators
+
