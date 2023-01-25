@@ -34,4 +34,6 @@ Assume that the assumptions of **parallel trends** and **no anticipation** hold.
         - [Jakiela 2021](https://arxiv.org/abs/2103.13229)
         - [de Chasemartion and D'Haultfœuille 2020](https://www.aeaweb.org/articles?id=10.1257/aer.20181169): two statics to provide a sense on how heterogeneous TEs are so that FE estimators are not informative in presence of negative weights
     
-    I guess even if these tests provide some support for maintaining FE estimators, the results would only be informative by in the directional/qualitative sense.
+    I guess even if these tests provide some support for maintaining FE estimators, the results would only be informative by in the directional/qualitative sense. So, alternative robust estimators are needed.
+    
+### Robust Estimators
