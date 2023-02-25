@@ -33,9 +33,9 @@ layout: default
 ## _Working Papers & Work in Progress_
 1. ["China’s Anti-Corruption Campaign and Civil Servant Fever"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406), with [Xun Li](https://sites.google.com/site/xlihomepage/), r&r at ***Journal of Law and Economics*** (_new draft coming soon!_)
 
-2. "Learn to Abstain: The Effect of Education on Voter Turnout in China's Rural Elections" (_new draft coming soon!_)
+2. "The Effect of Education on Voter Turnout in China's Rural Elections" (_new draft coming soon!_)
 
-3. ["Anti-Corruption and Political Trust: Evidence from China"](https://drive.google.com/file/d/1I4VdXnyRlvD1iXS94QTV5Xw3gOGPrh6G/view), with [Ming Fang](https://sites.google.com/umd.edu/ming-fang) <br>
+3. ["Anti-Corruption and Political Trust: Evidence from China"](https://drive.google.com/file/d/1I4VdXnyRlvD1iXS94QTV5Xw3gOGPrh6G/view), with [Ming Fang](https://sites.google.com/umd.edu/ming-fang) and Congling Xia <br>
 <small>[ <a href="#/" onclick="visib('anticorruption-trust')">Abstract</a> ]</small>
 
     <div id="anticorruption-trust" style="display: none; text-align: left; line-height: 1.5" >
