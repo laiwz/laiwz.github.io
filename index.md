@@ -13,7 +13,9 @@ layout: default
 # Research
 -------------------------------------------
 ## _Publications_
-1. ["Housing Market Regulations and Strategic Divorce Propensity in China"](https://link.springer.com/article/10.1007/s00148-021-00853-2), with [James Alm](https://liberalarts.tulane.edu/departments/economics/people/james-alm) and [Xun Li](https://sites.google.com/site/xlihomepage/), ***Journal of Population Economics***, Vol.35, July 2022 <br>
+1. ["Housing Market Regulations and Strategic Divorce Propensity in China"](https://link.springer.com/article/10.1007/s00148-021-00853-2) <br>
+with [James Alm](https://liberalarts.tulane.edu/departments/economics/people/james-alm) and [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
+***Journal of Population Economics***, Vol.35, July 2022 <br>
 <small>[ <a href="#/" onclick="visib('housing-market-divorce')">Abstract</a> | [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3480934) | [Slides](/assets/pdfs/Divorce_Renmin-GLO_20211212.pdf) ]</small>
 
     <div id="housing-market-divorce" style="display: none; text-align: left; line-height: 1.5" >
@@ -21,7 +23,9 @@ layout: default
     <br><br/></div>
 
 
-2. ["Role of Professional Bureaucracy in the Policy Response to COVID-19: Does a Public Health or Medical Background Help?"](https://www.sciencedirect.com/science/article/pii/S1043951X21001516?via%3Dihub), with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, and [Xi Chen](https://ysph.yale.edu/profile/xi_chen/), ***China Economic Review***, Vol.71, February 2022 <br>
+2. ["Role of Professional Bureaucracy in the Policy Response to COVID-19: Does a Public Health or Medical Background Help?"](https://www.sciencedirect.com/science/article/pii/S1043951X21001516?via%3Dihub) <br>
+with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, and [Xi Chen](https://ysph.yale.edu/profile/xi_chen/) <br>
+***China Economic Review***, Vol.71, February 2022 <br>
 <small>[ <a href="#/" onclick="visib('bureaucracy-covid')">Abstract</a> | [IZA DP No. 14710](https://www.iza.org/publications/dp/14710) | [GLO DP 1002](https://ideas.repec.org/p/zbw/glodps/1002.html) | [Early Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713238) | [IZA Opinions](https://wol.iza.org/opinions/does-health-professionalism-among-bureaucrats-help-weather-covid-pandemic) ]</small>
 
     <div id="bureaucracy-covid" style="display: none; text-align: left; line-height: 1.5" >
@@ -31,11 +35,14 @@ layout: default
 <br>
 
 ## _Working Papers & Work in Progress_
-1. ["China’s Anti-Corruption Campaign and Civil Servant Fever"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406), with [Xun Li](https://sites.google.com/site/xlihomepage/), r&r at ***Journal of Law and Economics*** (_new draft coming soon!_)
+1. ["China’s Anti-Corruption Campaign and Civil Servant Fever"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406) <br>
+with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
+r&r at ***Journal of Law and Economics*** (_new draft coming soon!_)
 
 2. "The Effect of Education on Voter Turnout in China's Rural Elections" (_new draft coming soon!_)
 
-3. ["Anti-Corruption and Political Trust: Evidence from China"](https://drive.google.com/file/d/1I4VdXnyRlvD1iXS94QTV5Xw3gOGPrh6G/view), with [Ming Fang](https://sites.google.com/umd.edu/ming-fang) and Congling Xia <br>
+3. ["Anti-Corruption and Political Trust: Evidence from China"](https://drive.google.com/file/d/1I4VdXnyRlvD1iXS94QTV5Xw3gOGPrh6G/view) <br>
+with [Ming Fang](https://sites.google.com/umd.edu/ming-fang) and Congling Xia <br>
 <small>[ <a href="#/" onclick="visib('anticorruption-trust')">Abstract</a> ]</small>
 
     <div id="anticorruption-trust" style="display: none; text-align: left; line-height: 1.5" >
