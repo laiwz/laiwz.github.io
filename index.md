@@ -4,9 +4,9 @@ layout: default
 
 # About Me
 -------------------------------------------
-* I’m a fourth year Ph.D. student in economics at the [University of Maryland](https://www.umd.edu/). Prior to Maryland, I studied economics and mathematics at [Wuhan University](https://www.whu.edu.cn/). My CV is [here](/assets/pdfs/CV.pdf).
-* Interests: political economy, Chinese economy, public economics
-* Email: [laiwz@umd.edu](mailto:laiwz@umd.edu)
+- I’m a fourth year Ph.D. student in economics at the [University of Maryland](https://www.umd.edu/). Prior to Maryland, I studied economics and mathematics at [Wuhan University](https://www.whu.edu.cn/). My CV is [here](/assets/pdfs/CV.pdf).
+- Interests: political economy, Chinese economy, public economics
+- Email: [laiwz@umd.edu](mailto:laiwz@umd.edu)
 
 <br>
 
