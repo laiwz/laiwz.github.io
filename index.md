@@ -10,7 +10,6 @@ layout: default
     - Political Economy, Chinese Economy
     - Public Economics
 
-<br>
 
 # Research
 -------------------------------------------
