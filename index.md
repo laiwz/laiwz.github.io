@@ -10,6 +10,7 @@ layout: default
     - Political Economy, Chinese Economy
     - Public Economics
 
+<br>
 
 # Research
 -------------------------------------------
@@ -33,7 +34,7 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, and [Xi
     In response to the outbreak of coronavirus disease 2019 (COVID-19), there have been substantial variations in policy response and performance for disease control and prevention within and across nations. It remains unclear to what extent these variations may be explained by bureaucrats' professionalism, as measured by their educational background or work experience in public health or medicine. To investigate the effects of officials' professionalism on their response to and performance in fighting the COVID-19 pandemic, we collect information from the résumés of government and Party officials in 294 Chinese cities, and integrate this information with other data sources, including weather conditions, city characteristics, COVID-19-related policy measures, and health outcomes. We show that, on average, cities whose top officials had public health or medical backgrounds (PHMBGs) had a significantly lower infection rate than cities whose top officials lacked such backgrounds. We test the mechanisms of these effects and find that cities whose officials had a PHMBG implemented community closure more rapidly than those lacked such backgrounds. Our findings highlight the importance of professionalism in combating the pandemic.
     <br><br/></div>
 
-<br>
+
 
 ## _Working Papers & Work in Progress_
 1. ["China’s Anti-Corruption Campaign and Civil Servant Fever"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406) <br>
