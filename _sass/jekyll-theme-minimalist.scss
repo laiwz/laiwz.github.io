@@ -17,7 +17,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p, ul, ol, table, pre, dl {
-  margin:20px 0 20px;
+  margin:10px 0 20px;
 }
 
 h1, h2, h3 {
@@ -64,7 +64,7 @@ p.link {
 // added
 ul.link {
   list-style-type: none; /* Remove bullets */
-  margin: 0; /* To remove default bottom margin */ 
+  margin: 20px; /* To remove default bottom margin */ 
   padding: 0.4px; /* To remove default left padding */
 }
 
