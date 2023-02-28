@@ -50,8 +50,12 @@ with [Ming Fang](https://sites.google.com/umd.edu/ming-fang) and Congling Xia <b
     <br><br/></div>
 
 4. "The Impacts of Economic Statecraft: The Case of Taiwan" (_draft coming soon!_) <br>
-<small> [ [Poster](/assets/pdfs/poster_taiwan.pdf) ] </small>
+<small> [ <a href="#/" onclick="visib('taiwan-exports')">Abstract</a> | [Poster](/assets/pdfs/poster_taiwan.pdf) ] </small>
 
+    <div id="taiwan-exports" style="display: none; text-align: left; line-height: 1.5" >
+    How do foreign economic influences shape domestic politics? I study this question leveraging the unique settings of Taiwan, where exports heavily rely on the Chinese market, and the major political cleavage is relations with mainland China. Using a shift-share design,  I find that townships with more exports to mainland China vote less for the Democratic Progressive Party, the major party that unequivocally supports Taiwanese independence. I offer suggestive evidence that interested voters may worry about losing economic benefits brought by exports to mainland China and so avoid choices likely to cause tensions. I do not detect impacts on party identification, identity, and attitudes toward unification or independence.
+    <br><br/></div>
+    
 5. "Exposure to Violence and Occupational Choice: Evidence from Children of the Cultural Revolution" (_draft coming soon!_)
 
 
