@@ -49,7 +49,7 @@ with [Ming Fang](https://sites.google.com/umd.edu/ming-fang) and Congling Xia <b
     How can anti-corruption influence political trust in government? We investigate this question through the lens of China's recent anti-corruption campaign since 2013, which has unprecedentedly disclosed many corruption investigations to the public. By analyzing a large individual panel dataset, we show that on average, the campaign significantly reduces political trust, and the drop is more pronounced among groups less informed of corruption before. We document strong heterogeneity in trust changes possibly driven by a pro- and anti-government cleavage, captured by unpleasant experiences with the government, pro-government indoctrination, and Confucian norms. Our results fit in a model where polarization is rationalized by differences in priors about the government. We also rule out several alternative explanations for our findings.
     <br><br/></div>
 
-4. "The Impacts of Economic Statecraft: The Case of Taiwan" (_draft coming soon!_) <br>
+4. "Foreign Economic Relations and Domestic Politics: The Case of Taiwan" (_draft coming soon!_) <br>
 <small> [ <a href="#/" onclick="visib('taiwan-exports')">Abstract</a> | [Poster](/assets/pdfs/poster_taiwan.pdf) ] </small>
 
     <div id="taiwan-exports" style="display: none; text-align: left; line-height: 1.5" >
