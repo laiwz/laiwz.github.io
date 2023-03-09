@@ -11,6 +11,7 @@
 - [Taiwan Social Change Survey (TSCS)](https://www2.ios.sinica.edu.tw/sc/cht/scDownload.php)
 - [Survey Research Data Archive (Taiwan)](https://srda.sinica.edu.tw/index.php)
 - [UN Comtrade Database](https://comtrade.un.org/data/)
+- [Chinese Statistical Year Books (@Zhengzhou University)](http://www7.zzu.edu.cn/udrc/sjk.htm)
 
 <br>
 
