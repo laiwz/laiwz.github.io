@@ -39,7 +39,12 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, and [Xi
 with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
 r&r at ***Journal of Law and Economics*** (_new draft coming soon!_)
 
-2. "The Effect of Education on Voter Turnout in China's Rural Elections" (_new draft coming soon!_)
+2. ["The Effect of Education on Voter Turnout in China's Rural Elections"](/assets/pdfs/turnout_draft.pdf) <br>
+<small>[ <a href="#/" onclick="visib('turnout')">Abstract</a> ]</small>
+
+    <div id="turnout" style="display: none; text-align: left; line-height: 1.5" >
+    Conventional wisdom and evidence from democracies suggest that more education should increase voter turnout. This paper revisits this issue by analyzing turnout in China's rural elections. Employing an instrumental variable strategy, I find that more education reduces turnout in rural elections. I provide suggestive evidence that more educated people may face higher opportunity costs of voting, which explain about 44% of cross-province variations in education-turnout links. I also discuss the role of other factors, including liberal attitudes, Confucian culture, and election stakes.
+    <br><br/></div>
 
 3. ["Anti-Corruption and Political Trust: Evidence from China"](https://drive.google.com/file/d/1I4VdXnyRlvD1iXS94QTV5Xw3gOGPrh6G/view) <br>
 with [Ming Fang](https://sites.google.com/umd.edu/ming-fang) and Congling Xia <br>
