@@ -28,7 +28,7 @@
 - [Stata graph scheme](https://www.stata.com/meeting/uk18/slides/uk18_Jann.pdf)
 - [Stata ftools](https://github.com/sergiocorreia/ftools)
 - [Game trees in LaTeX](http://mirrors.ibiblio.org/CTAN/graphics/pgf/contrib/istgame/istgame-doc.pdf)
-- [DAG ub LaTeX](https://dkumor.com/posts/technical/2018/08/15/causal-tikz/)
+- [DAG in LaTeX](https://dkumor.com/posts/technical/2018/08/15/causal-tikz/)
 - [Beamer tips and tricks](https://paulgp.github.io/beamer_tips.pdf)
 - [MIT International Trade](https://dave-donaldson.com/teaching/)
 - [Downloading UN Comtrade data on Stata](https://ideas.repec.org/c/boc/bocode/s458588.html)
