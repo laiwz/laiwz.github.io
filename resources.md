@@ -13,6 +13,7 @@
 - [Taiwan Social Change Survey (TSCS)](https://www2.ios.sinica.edu.tw/sc/cht/scDownload.php)
 - [Survey Research Data Archive (Taiwan)](https://srda.sinica.edu.tw/index.php)
 - [Chinese Statistical Year Books (@Zhengzhou University)](http://www7.zzu.edu.cn/udrc/sjk.htm)
+- [International Relations Resources @MSU](https://libguides.lib.msu.edu/ir)
 
 
 ### _Trade-Related Data_
