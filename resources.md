@@ -31,5 +31,5 @@
 - [Game trees in LaTeX](http://mirrors.ibiblio.org/CTAN/graphics/pgf/contrib/istgame/istgame-doc.pdf)
 - [DAG in LaTeX](https://dkumor.com/posts/technical/2018/08/15/causal-tikz/)
 - [Beamer tips and tricks](https://paulgp.github.io/beamer_tips.pdf)
-- [MIT International Trade](https://dave-donaldson.com/teaching/)
+- [MIT International Trade]([https://dave-donaldson.com/teaching/](https://dave-donaldson.com/2018-fall-international-economics-mit-14-581/))
 - [Downloading UN Comtrade data on Stata](https://ideas.repec.org/c/boc/bocode/s458588.html)
