@@ -38,6 +38,11 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, and [Xi
 1. ["China’s Anti-Corruption Campaign and Civil Servant Fever"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
 r&r at ***Journal of Law and Economics*** (_NEW DRAFT 2023!_)
+<small>[ <a href="#/" onclick="visib('civilservant')">Abstract</a> ]</small>
+
+    <div id="civilservant" style="display: none; text-align: left; line-height: 1.5" >
+    What is the impact of anti-corruption efforts on entry into bureaucratic jobs? This paper approaches this question theoretically and empirically through the lens of China's anti-corruption campaign since 2013. We leverage a novel dataset of national civil service exams. Exploiting assignment and timing variations in anti-corruption inspections on government departments, our difference-in-differences estimate shows that a department had significantly fewer applicants following the inspection. We provide evidence that the decline in bureaucratic entry has occurred since the campaign lowered the (expected) returns from bureaucratic jobs by (i) improving corruption detection and (ii) constraining their power likely to be abused. By contrast, we do not find evidence that the campaign affected legal income. Furthermore, simulation exercises suggest that after the anti-corruption campaign, incoming bureaucrats may have lower ability but higher prosociality.
+    <br><br/></div>
 
 2. ["The Effect of Education on Voter Turnout in China's Rural Elections"](/assets/pdfs/turnout_draft.pdf) <br>
 <small>[ <a href="#/" onclick="visib('turnout')">Abstract</a> ]</small>
