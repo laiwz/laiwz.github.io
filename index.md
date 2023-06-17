@@ -37,7 +37,7 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, and [Xi
 ## _Working Papers & Work in Progress_
 1. ["China’s Anti-Corruption Campaign and Civil Servant Fever"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
-r&r at ***Journal of Law and Economics*** (_NEW DRAFT 2023!_)
+r&r at ***Journal of Law and Economics*** (_NEW DRAFT 2023!_) <br>
 <small>[ <a href="#/" onclick="visib('civilservant')">Abstract</a> ]</small>
 
     <div id="civilservant" style="display: none; text-align: left; line-height: 1.5" >
