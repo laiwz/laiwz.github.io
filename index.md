@@ -37,7 +37,7 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, and [Xi
 ## _Working Papers & Work in Progress_
 1. ["China’s Anti-Corruption Campaign and Civil Servant Fever"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
-r&r at ***Journal of Law and Economics*** (_new draft coming soon!_)
+r&r at ***Journal of Law and Economics*** (_NEW DRAFT 2023_)
 
 2. ["The Effect of Education on Voter Turnout in China's Rural Elections"](/assets/pdfs/turnout_draft.pdf) <br>
 <small>[ <a href="#/" onclick="visib('turnout')">Abstract</a> ]</small>
