@@ -69,8 +69,8 @@ with [Ming Fang](https://sites.google.com/umd.edu/ming-fang) and Congling Xia <b
     
 2. "Exposure to Violence and Occupational Choice: Evidence from Children of the Cultural Revolution" (_draft coming soon!_)
 
-3. "The Legacy of the Taiping Rebellion" <br>
-with [Colin Xu](https://www.worldbank.org/en/about/people/l/l-colin-xu)
+3. "The Long-Run Effects of the Taiping Rebellion" <br>
+with [Li Yang](https://sites.google.com/view/lyang/) and [Colin Xu](https://www.worldbank.org/en/about/people/l/l-colin-xu)
 
 
 [//]: This java script is the button to show abstract
