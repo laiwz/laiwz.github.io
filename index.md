@@ -16,8 +16,8 @@ layout: default
 1. ["Housing Market Regulations and Strategic Divorce Propensity in China"](https://link.springer.com/article/10.1007/s00148-021-00853-2) <br>
 with [James Alm](https://liberalarts.tulane.edu/departments/economics/people/james-alm) and [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
 ***Journal of Population Economics***, Vol.35, July 2022 <br>
-<small>[ <a href="#/" onclick="visib('housing-market-divorce')">Abstract</a> | [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3480934) | [Slides](/assets/pdfs/Divorce_Renmin-GLO_20211212.pdf) ]</small>
-
+<small>[ <a href="#/" onclick="visib('housing-market-divorce')">Abstract</a> | [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3480934) | [Slides](/assets/pdfs/Divorce_Renmin-GLO_20211212.pdf) ]</small><br>
+<small>Media coverage: [ [Caixin](https://cec.blog.caixin.com/archives/262217) ]</small>
     <div id="housing-market-divorce" style="display: none; text-align: left; line-height: 1.5" >
     In China’s regulated housing markets, a married couple may choose strategically to divorce in order to purchase more houses and/or purchase with more favorable financial conditions. Our study examines the propensity for strategic divorce induced by housing market regulations in China. To overcome the difficulty of using conventional divorce data to distinguish between a “true” divorce and a strategic (or a “fake”) divorce, we design an identification strategy using data on internet searches for divorce- and marriage-related keywords in 32 Chinese major cities from 2009 through 2016. Our difference-in-differences estimates provide robust evidence that housing market regulations significantly increase the propensity for strategic divorce. Our results also show that the increase in the propensity for strategic divorce is weaker in cities with higher male–female ratios and with stronger Confucian ideologies. These findings point to the role that housing market regulations play in distorting a family’s choices, as well as to the importance for policymakers to consider unintended impacts of regulations.
     <br><br/></div>
