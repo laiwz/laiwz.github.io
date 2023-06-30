@@ -45,6 +45,7 @@ r&r at ***Journal of Law and Economics*** (_NEW DRAFT 2023!_) <br>
     <br><br/></div>
 
 2. ["The Effect of Education on Voter Turnout in China's Rural Elections"](/assets/pdfs/turnout_draft.pdf) <br>
+Submitted <br>
 <small>[ <a href="#/" onclick="visib('turnout')">Abstract</a> ]</small>
 
     <div id="turnout" style="display: none; text-align: left; line-height: 1.5" >
