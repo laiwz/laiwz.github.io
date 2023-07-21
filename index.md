@@ -54,6 +54,7 @@ Submitted <br>
 
 3. ["Anti-Corruption and Political Trust: Evidence from China"](https://drive.google.com/file/d/1I4VdXnyRlvD1iXS94QTV5Xw3gOGPrh6G/view) <br>
 with [Ming Fang](https://sites.google.com/umd.edu/ming-fang) and Congling Xia <br>
+Submitted <br>
 <small>[ <a href="#/" onclick="visib('anticorruption-trust')">Abstract</a> ]</small>
 
     <div id="anticorruption-trust" style="display: none; text-align: left; line-height: 1.5" >
