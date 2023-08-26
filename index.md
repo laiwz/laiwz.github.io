@@ -6,7 +6,7 @@ layout: default
 -------------------------------------------
 - I’m a fifth-year Ph.D. student in [economics](https://econ.umd.edu/) at the [University of Maryland](https://www.umd.edu/). Prior to Maryland, I studied economics and mathematics at [Wuhan University](https://www.whu.edu.cn/). My CV is [here](/assets/pdfs/CV.pdf). My email address is [laiwz@umd.edu](mailto:laiwz@umd.edu).
 
-- My research interest spans political economy, personnel economics of the state, Chinese economy, and public economics. I'm also broadly interested in other applied research topics.
+- My research interest spans political economy, personnel economics of the state, and Chinese economy. I'm also broadly interested in other applied research topics.
 
 <br>
 
