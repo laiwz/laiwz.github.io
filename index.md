@@ -45,7 +45,7 @@ accepted by ***Journal of Law and Economics*** <br>
     <br><br/></div>
     
 2. ["The Effect of Education on Voter Turnout in China's Rural Elections"](/assets/pdfs/turnout_draft.pdf) <br>
-Submitted <br>
+submitted <br>
 <small>[ <a href="#/" onclick="visib('turnout')">Abstract</a> ]</small>
 
     <div id="turnout" style="display: none; text-align: left; line-height: 1.5" >
@@ -54,7 +54,7 @@ Submitted <br>
 
 3. ["Anti-Corruption and Political Trust: Evidence from China"](https://drive.google.com/file/d/1I4VdXnyRlvD1iXS94QTV5Xw3gOGPrh6G/view) <br>
 with [Ming Fang](https://sites.google.com/umd.edu/ming-fang) and Congling Xia <br>
-Submitted <br>
+submitted <br>
 <small>[ <a href="#/" onclick="visib('anticorruption-trust')">Abstract</a> ]</small>
 
     <div id="anticorruption-trust" style="display: none; text-align: left; line-height: 1.5" >
