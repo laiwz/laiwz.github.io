@@ -12,7 +12,7 @@ layout: default
 
 # Research
 -------------------------------------------
-## _Publications_
+## _Published or Accepted for Publication_
 1. ["China’s Anti-Corruption Campaign and Civil Servant Fever"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
 accepted by ***Journal of Law and Economics*** <br>
