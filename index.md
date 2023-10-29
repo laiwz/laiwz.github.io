@@ -61,6 +61,9 @@ submitted <br>
     How can anti-corruption influence political trust in government? We investigate this question through the lens of China's recent anti-corruption campaign since 2013, which has unprecedentedly disclosed many corruption investigations to the public. By analyzing a large individual panel dataset, we show that on average, the campaign significantly reduces political trust, and the drop is more pronounced among groups less informed of corruption before. We document strong heterogeneity in trust changes possibly driven by a pro- and anti-government cleavage, captured by unpleasant experiences with the government, pro-government indoctrination, and Confucian norms. Our results fit in a model where polarization is rationalized by differences in priors about the government. We also rule out several alternative explanations for our findings.
     <br><br/></div>
 
+4. "Adverse Experience and Occupational Outcomes: Evidence from Children of the Cultural Revolution"
+submitted <br>
+
 
 ## _Work in Progress_
 1. "Foreign Economic Relations and Domestic Politics: The Case of Taiwan" (_draft coming soon!_) <br>
@@ -69,8 +72,6 @@ submitted <br>
     <div id="taiwan-exports" style="display: none; text-align: left; line-height: 1.5" >
     How do foreign economic influences shape domestic politics? I study this question leveraging the unique settings of Taiwan, where exports heavily rely on the Chinese market, and the major political cleavage is relations with mainland China. Using a shift-share design,  I find that townships with more exports to mainland China vote less for the Democratic Progressive Party, the major party that unequivocally supports Taiwanese independence. I offer suggestive evidence that interested voters may worry about losing economic benefits brought by exports to mainland China and so avoid choices likely to cause tensions. I do not detect impacts on party identification, identity, and attitudes toward unification or independence.
     <br><br/></div>
-    
-2. "Exposure to Violence and Occupational Choice: Evidence from Children of the Cultural Revolution" (_draft coming soon!_)
 
 3. "The Long-Run Effects of the Taiping Rebellion" <br>
 with [Li Yang](https://sites.google.com/view/lyang/) and [Colin Xu](https://www.worldbank.org/en/about/people/l/l-colin-xu)
