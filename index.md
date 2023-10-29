@@ -61,9 +61,14 @@ submitted <br>
     How can anti-corruption influence political trust in government? We investigate this question through the lens of China's recent anti-corruption campaign since 2013, which has unprecedentedly disclosed many corruption investigations to the public. By analyzing a large individual panel dataset, we show that on average, the campaign significantly reduces political trust, and the drop is more pronounced among groups less informed of corruption before. We document strong heterogeneity in trust changes possibly driven by a pro- and anti-government cleavage, captured by unpleasant experiences with the government, pro-government indoctrination, and Confucian norms. Our results fit in a model where polarization is rationalized by differences in priors about the government. We also rule out several alternative explanations for our findings.
     <br><br/></div>
 
-4. "Adverse Experience and Occupational Outcomes: Evidence from Children of the Cultural Revolution" <br>
+4. ["Adverse Experience and Occupational Outcomes: Evidence from Children of the Cultural Revolution"](/assets/pdfs/cr_draft.pdf) <br>
 submitted <br>
+<small>[ <a href="#/" onclick="visib('cultural_revolution')">Abstract</a> ]</small>
 
+    <div id="cultural_revolution" style="display: none; text-align: left; line-height: 1.5" >
+    This paper studies the long-term occupational effects of China's Cultural Revolution (1966--76, CR), which involved a strong sense of dislike towards professionals. Using a difference-in-differences design, I find that individuals whose fathers experienced higher levels of violence during the CR are less inclined to pursue professional occupations. However, I do not observe a significant impact of mothers' exposure. Furthermore, there is limited evidence that the CR led to constraints hindering access to professional jobs in terms of human capital, family environment, and local economic conditions. I find patterns consistent with a model of preference transmission within families. Additionally, I provide evidence indicating that the dislike towards professional occupations may persist in the third generation, especially in the patriarchal line.
+    <br><br/></div>
+    
 
 ## _Work in Progress_
 1. "Foreign Economic Relations and Domestic Politics: The Case of Taiwan" (_draft coming soon!_) <br>
