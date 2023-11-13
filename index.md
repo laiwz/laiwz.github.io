@@ -45,7 +45,7 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, and [Xi
 
 ## _Working Papers_
 2. ["The Effect of Education on Voter Turnout in China's Rural Elections"](/assets/pdfs/turnout_draft.pdf) <br>
-r&r at **Journal of Economic Behavior and Organization** <br>
+r&r at ***Journal of Economic Behavior and Organization*** <br>
 <small>[ <a href="#/" onclick="visib('turnout')">Abstract</a> ]</small>
 
     <div id="turnout" style="display: none; text-align: left; line-height: 1.5" >
