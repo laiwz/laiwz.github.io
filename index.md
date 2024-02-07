@@ -68,7 +68,15 @@ submitted <br>
     <div id="cultural_revolution" style="display: none; text-align: left; line-height: 1.5" >
     This paper studies the long-term occupational effects of China's Cultural Revolution (1966--76, CR), which involved a strong sense of dislike towards professionals. Using a difference-in-differences design, I find that individuals whose fathers experienced higher levels of violence during the CR are less inclined to pursue professional occupations. However, I do not observe a significant impact of mothers' exposure. Furthermore, there is limited evidence that the CR led to constraints hindering access to professional jobs in terms of human capital, family environment, and local economic conditions. I find patterns consistent with a model of preference transmission within families. Additionally, I provide evidence indicating that the dislike towards professional occupations may persist in the third generation, especially in the patriarchal line.
     <br><br/></div>
-    
+
+5. "Property Rights, State Capacity, and Social Capacity: The Lasting Impacts of the Taiping Rebellion" <br>
+reject & resubmit at **Journal of Economic Growth** <br>
+with [Li Yang](https://sites.google.com/view/lyang/) and [Colin Xu](https://www.worldbank.org/en/about/people/l/l-colin-xu)
+
+    <div id="taiping" style="display: none; text-align: left; line-height: 1.5" >
+    We study the impacts on development of the Taiping Rebellion (1850-1864), one of the deadliest civil wars in human history and a key turning point of China toward modernity. We find that the rebellion experience, on the margin, had positive impacts in some areas, as captured by a range of outcomes, including better land property rights, improved local fiscal capacity, enhanced social capacity, stronger political efficacy, as well as fewer deaths during the Great Famine (1959-1961). We also find empirical support for the complementarity between state capacity and social capacity. The results suggest that the effects of violent conflicts on local state capacity and social capacity could partly explain large within-country variation in development.
+    <br><br/></div>
+   
 
 ## _Work in Progress_
 1. "Foreign Economic Relations and Domestic Politics: The Case of Taiwan" (_draft coming soon!_) <br>
@@ -77,9 +85,6 @@ submitted <br>
     <div id="taiwan-exports" style="display: none; text-align: left; line-height: 1.5" >
     How do foreign economic influences shape domestic politics? I study this question leveraging the unique settings of Taiwan, where exports heavily rely on the Chinese market, and the major political cleavage is relations with mainland China. Using a shift-share design,  I find that townships with more exports to mainland China vote less for the Democratic Progressive Party, the major party that unequivocally supports Taiwanese independence. I offer suggestive evidence that interested voters may worry about losing economic benefits brought by exports to mainland China and so avoid choices likely to cause tensions. I do not detect impacts on party identification, identity, and attitudes toward unification or independence.
     <br><br/></div>
-
-3. "The Long-Run Effects of the Taiping Rebellion" <br>
-with [Li Yang](https://sites.google.com/view/lyang/) and [Colin Xu](https://www.worldbank.org/en/about/people/l/l-colin-xu)
 
 
 [//]: This java script is the button to show abstract
