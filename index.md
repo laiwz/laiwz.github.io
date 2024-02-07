@@ -69,7 +69,7 @@ submitted <br>
     This paper studies the long-term occupational effects of China's Cultural Revolution (1966--76, CR), which involved a strong sense of dislike towards professionals. Using a difference-in-differences design, I find that individuals whose fathers experienced higher levels of violence during the CR are less inclined to pursue professional occupations. However, I do not observe a significant impact of mothers' exposure. Furthermore, there is limited evidence that the CR led to constraints hindering access to professional jobs in terms of human capital, family environment, and local economic conditions. I find patterns consistent with a model of preference transmission within families. Additionally, I provide evidence indicating that the dislike towards professional occupations may persist in the third generation, especially in the patriarchal line.
     <br><br/></div>
 
-5. "Property Rights, State Capacity, and Social Capacity: The Lasting Impacts of the Taiping Rebellion" <br>
+5. ["Property Rights, State Capacity, and Social Capacity: The Lasting Impacts of the Taiping Rebellion"](/assets/pdfs/taiping_draft.pdf) <br>
 with [Li Yang](https://sites.google.com/view/lyang/) and [Colin Xu](https://www.worldbank.org/en/about/people/l/l-colin-xu) <br>
 reject & resubmit at **Journal of Economic Growth** <br>
 <small>[ <a href="#/" onclick="visib('taiping')">Abstract</a> ]</small>
