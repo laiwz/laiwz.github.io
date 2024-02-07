@@ -15,7 +15,7 @@ layout: default
 ## _Published or Accepted for Publication_
 1. ["China’s Anti-Corruption Campaign and Civil Servant Fever"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
-accepted by ***Journal of Law and Economics*** <br>
+accepted by **Journal of Law and Economics** <br>
 <small>[ <a href="#/" onclick="visib('civilservant')">Abstract</a> ]</small>
 
     <div id="civilservant" style="display: none; text-align: left; line-height: 1.5" >
@@ -24,7 +24,7 @@ accepted by ***Journal of Law and Economics*** <br>
     
 1. ["Housing Market Regulations and Strategic Divorce Propensity in China"](https://link.springer.com/article/10.1007/s00148-021-00853-2) <br>
 with [James Alm](https://liberalarts.tulane.edu/departments/economics/people/james-alm) and [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
-***Journal of Population Economics***, Vol.35, July 2022 <br>
+**Journal of Population Economics**, Vol.35, July 2022 <br>
 <small>[ <a href="#/" onclick="visib('housing-market-divorce')">Abstract</a> | [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3480934) | [Slides](/assets/pdfs/Divorce_Renmin-GLO_20211212.pdf) ]</small><br>
 <small>Media coverage: [ [Caixin](https://cec.blog.caixin.com/archives/262217) ]</small>
 
@@ -35,7 +35,7 @@ with [James Alm](https://liberalarts.tulane.edu/departments/economics/people/jam
 
 2. ["Role of Professional Bureaucracy in the Policy Response to COVID-19: Does a Public Health or Medical Background Help?"](https://www.sciencedirect.com/science/article/pii/S1043951X21001516?via%3Dihub) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, and [Xi Chen](https://ysph.yale.edu/profile/xi_chen/) <br>
-***China Economic Review***, Vol.71, February 2022 <br>
+**China Economic Review**, Vol.71, February 2022 <br>
 <small>[ <a href="#/" onclick="visib('bureaucracy-covid')">Abstract</a> | [IZA Opinions](https://wol.iza.org/opinions/does-health-professionalism-among-bureaucrats-help-weather-covid-pandemic) | [IZA DP 14710](https://www.iza.org/publications/dp/14710) | [GLO DP 1002](https://ideas.repec.org/p/zbw/glodps/1002.html) | [Early Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713238) ]</small>
 
     <div id="bureaucracy-covid" style="display: none; text-align: left; line-height: 1.5" >
@@ -45,7 +45,7 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, and [Xi
 
 ## _Working Papers_
 2. ["The Effect of Education on Voter Turnout in China's Rural Elections"](/assets/pdfs/turnout_draft.pdf) <br>
-revise & resubmit at ***Journal of Economic Behavior and Organization*** <br>
+revise & resubmit at **Journal of Economic Behavior and Organization** <br>
 <small>[ <a href="#/" onclick="visib('turnout')">Abstract</a> ]</small>
 
     <div id="turnout" style="display: none; text-align: left; line-height: 1.5" >
@@ -58,7 +58,7 @@ submitted <br>
 <small>[ <a href="#/" onclick="visib('anticorruption-trust')">Abstract</a> ]</small>
 
     <div id="anticorruption-trust" style="display: none; text-align: left; line-height: 1.5" >
-    How can anti-corruption influence political trust in government? We investigate this question through the lens of China's recent anti-corruption campaign since 2013, which has unprecedentedly disclosed many corruption investigations to the public. By analyzing a large individual panel dataset, we show that on average, the campaign significantly reduces political trust, and the drop is more pronounced among groups less informed of corruption before. We document strong heterogeneity in trust changes possibly driven by a pro- and anti-government cleavage, captured by unpleasant experiences with the government, pro-government indoctrination, and Confucian norms. Our results fit in a model where polarization is rationalized by differences in priors about the government. We also rule out several alternative explanations for our findings.
+    How can anti-corruption efforts influence political trust in government? We investigate this question through the lens of China's recent anti-corruption campaign, launched in 2013, which has disclosed many corruption investigations to the public for the first time. By analyzing a large individual panel dataset, we show that, on average, the campaign has significantly reduced political trust, particularly among groups less informed about corruption before the campaign. We document strong heterogeneity in changes in political trust, possibly driven by a pro-and-anti-government cleavage, as captured by previous unpleasant experiences with the government, pro-government indoctrination, and Confucian norms. Our results fit a model in which polarization is rationalized by different priors about the government. We also rule out several alternative explanations for our findings.
     <br><br/></div>
 
 4. ["Adverse Experience and Occupational Outcomes: Evidence from Children of the Cultural Revolution"](/assets/pdfs/cr_draft.pdf) <br>
@@ -72,6 +72,7 @@ submitted <br>
 5. "Property Rights, State Capacity, and Social Capacity: The Lasting Impacts of the Taiping Rebellion" <br>
 reject & resubmit at **Journal of Economic Growth** <br>
 with [Li Yang](https://sites.google.com/view/lyang/) and [Colin Xu](https://www.worldbank.org/en/about/people/l/l-colin-xu)
+<small>[ <a href="#/" onclick="visib('taiping')">Abstract</a> ]</small>
 
     <div id="taiping" style="display: none; text-align: left; line-height: 1.5" >
     We study the impacts on development of the Taiping Rebellion (1850-1864), one of the deadliest civil wars in human history and a key turning point of China toward modernity. We find that the rebellion experience, on the margin, had positive impacts in some areas, as captured by a range of outcomes, including better land property rights, improved local fiscal capacity, enhanced social capacity, stronger political efficacy, as well as fewer deaths during the Great Famine (1959-1961). We also find empirical support for the complementarity between state capacity and social capacity. The results suggest that the effects of violent conflicts on local state capacity and social capacity could partly explain large within-country variation in development.
