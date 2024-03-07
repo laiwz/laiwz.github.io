@@ -70,7 +70,7 @@ submitted <br>
     <br><br/></div>
 
 5. ["Property Rights, State Capacity, and Social Capacity: The Lasting Impacts of the Taiping Rebellion"](/assets/pdfs/taiping_draft.pdf) <br>
-with [Li Yang](https://sites.google.com/view/lyang/) and [Colin Xu](https://www.worldbank.org/en/about/people/l/l-colin-xu) <br>
+with [Li Yang](https://sites.google.com/view/lyang/) and [Colin Xu](https://english.ckgsb.edu.cn/faculty/lixin-colin-xu/) <br>
 reject & resubmit at **Journal of Economic Growth** <br>
 <small>[ <a href="#/" onclick="visib('taiping')">Abstract</a> ]</small>
 
