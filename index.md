@@ -53,7 +53,7 @@ revise & resubmit at **Journal of Economic Behavior and Organization** <br>
     <br><br/></div>
 
 3. ["Anti-Corruption and Political Trust: Evidence from China"](/assets/pdfs/trust_draft.pdf) <br>
-with [Ming Fang](https://sites.google.com/umd.edu/ming-fang) and Congling Xia <br>
+with [Ming Fang](https://94mingfang.weebly.com/) and Congling Xia <br>
 submitted <br>
 <small>[ <a href="#/" onclick="visib('anticorruption-trust')">Abstract</a> ]</small>
 
