@@ -13,7 +13,7 @@ layout: default
 # Research
 -------------------------------------------
 ## _Published or Accepted for Publication_
-2. ["The Effect of Education on Voter Turnout in China's Rural Elections"](/assets/pdfs/turnout_draft.pdf) <br>
+1. ["The Effect of Education on Voter Turnout in China's Rural Elections"](/assets/pdfs/turnout_draft.pdf) <br>
 accepted by **Journal of Economic Behavior and Organization** <br>
 <small>[ <a href="#/" onclick="visib('turnout')">Abstract</a> ]</small>
 
