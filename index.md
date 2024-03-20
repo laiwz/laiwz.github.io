@@ -87,6 +87,8 @@ reject & resubmit at **Journal of Economic Growth** <br>
     How do foreign economic influences shape domestic politics? I study this question leveraging the unique settings of Taiwan, where exports heavily rely on the Chinese market, and the major political cleavage is relations with mainland China. Using a shift-share design,  I find that townships with more exports to mainland China vote less for the Democratic Progressive Party, the major party that unequivocally supports Taiwanese independence. I offer suggestive evidence that interested voters may worry about losing economic benefits brought by exports to mainland China and so avoid choices likely to cause tensions. I do not detect impacts on party identification, identity, and attitudes toward unification or independence.
     <br><br/></div>
 
+2. Industrial Labor Relations in Urban China <br>
+with [Yu Qiu](https://jessyuqiu.github.io/)
 
 [//]: This java script is the button to show abstract
 <script>
