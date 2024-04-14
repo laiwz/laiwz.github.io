@@ -2,7 +2,6 @@
 --------------------------------------------------------
 ## _Data Sources_
 
-### _China Data_
 - [China Family Panel Study (CFPS)](http://www.isss.pku.edu.cn/cfps/)
 - [China Gearnal Social Survey (CGSS)](http://cgss.ruc.edu.cn/)
 - [China Private Enterprise Survey (CPES)](https://cpes.zkey.cc/index.jsp)
