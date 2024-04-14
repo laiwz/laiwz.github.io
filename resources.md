@@ -2,6 +2,7 @@
 --------------------------------------------------------
 ## _Data Sources_
 
+### _China Data_
 - [China Family Panel Study (CFPS)](http://www.isss.pku.edu.cn/cfps/)
 - [China Gearnal Social Survey (CGSS)](http://cgss.ruc.edu.cn/)
 - [China Private Enterprise Survey (CPES)](https://cpes.zkey.cc/index.jsp)
@@ -9,9 +10,10 @@
 - [Lee-Campbell Group](https://www.shss.ust.hk/lee-campbell-group/)
 - [NYU Shanghai Datasets](https://datascience.shanghai.nyu.edu/datasets)
 - [Modern China Biographical Database (MCBD)](https://bookdown.enpchina.eu/mcbd_usermanual/introduction.html)
-- [Taiwan Social Change Survey (TSCS)](https://www2.ios.sinica.edu.tw/sc/cht/scDownload.php)
 - [Survey Research Data Archive (Taiwan)](https://srda.sinica.edu.tw/index.php)
 - [Chinese Statistical Year Books (@Zhengzhou University)](http://www7.zzu.edu.cn/udrc/sjk.htm)
+
+## _Global Data_
 - [International Relations Resources @MSU](https://libguides.lib.msu.edu/ir)
 
 
