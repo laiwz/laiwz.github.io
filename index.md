@@ -70,7 +70,6 @@ submitted <br>
     <br><br/></div>
 
 4. ["Adverse Experience and Occupational Outcomes: Evidence from Children of the Cultural Revolution"](/assets/pdfs/cr_draft.pdf) <br>
-submitted <br>
 <small>[ <a href="#/" onclick="visib('cultural_revolution')">Abstract</a> ]</small>
 
     <div id="cultural_revolution" style="display: none; text-align: left; line-height: 1.5" >
