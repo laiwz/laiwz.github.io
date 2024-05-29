@@ -62,7 +62,7 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
 
 3. ["Anti-Corruption and Political Trust: Evidence from China"](/assets/pdfs/trust_draft.pdf) <br>
 with [Ming Fang](https://94mingfang.weebly.com/) and Congling Xia <br>
-submitted <br>
+revise & resubmit at **Journal of Economic Behavior and Organization** <br>
 <small>[ <a href="#/" onclick="visib('anticorruption-trust')">Abstract</a> ]</small>
 
     <div id="anticorruption-trust" style="display: none; text-align: left; line-height: 1.5" >
