@@ -13,7 +13,7 @@
 - [Survey Research Data Archive](https://srda.sinica.edu.tw/index.php)
 - [Taiwan Social Change Survey (TSCS)](https://www2.ios.sinica.edu.tw/sc/cht/scDownload.php)
 - [Various Concordances](https://unstats.un.org/unsd/classifications/Econ#Correspondences)
-- [World Integrated Trade Solution](https://wits.worldbank.org/)
+- [World Integrated Trade Solution (WITS)](https://wits.worldbank.org/)
 - [UN Comtrade Database](https://comtrade.un.org/data/)
 - [Classifications on economic statistics](https://unstats.un.org/unsd/classifications/Econ)
 - [Non-tariff measures](https://unctad.org/topic/trade-analysis/non-tariff-measures/NTMs-data-dissemination)
