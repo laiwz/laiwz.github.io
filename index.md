@@ -70,6 +70,13 @@ reject & resubmit at **Journal of Economic Growth** <br>
     We study the impacts on development of the Taiping Rebellion (1850-1864), one of the deadliest civil wars in human history and a key turning point of China toward modernity. We find that the rebellion experience, on the margin, had positive impacts in some areas, as captured by a range of outcomes, including better land property rights, improved local fiscal capacity, enhanced social capacity, stronger political efficacy, as well as fewer deaths during the Great Famine (1959-1961). We also find empirical support for the complementarity between state capacity and social capacity. The results suggest that the effects of violent conflicts on local state capacity and social capacity could partly explain large within-country variation in development.
     <br><br/></div>
 
+4. ["Adverse Experience and Occupational Outcomes: Evidence from Children of the Cultural Revolution"](/assets/pdfs/cr_draft.pdf) <br>
+<small>[ <a href="#/" onclick="visib('cultural_revolution')">Abstract</a> ]</small>
+
+    <div id="cultural_revolution" style="display: none; text-align: left; line-height: 1.5" >
+    This paper studies the long-term occupational effects of China's Cultural Revolution (1966--76, CR), which involved a strong sense of dislike towards professionals. Using a difference-in-differences design, I find that individuals whose fathers experienced higher levels of violence during the CR are less inclined to pursue professional occupations. However, I do not observe a significant impact of mothers' exposure. Furthermore, there is limited evidence that the CR led to constraints hindering access to professional jobs in terms of human capital, family environment, and local economic conditions. I find patterns consistent with a model of preference transmission within families. Additionally, I provide evidence indicating that the dislike towards professional occupations may persist in the third generation, especially in the patriarchal line.
+    <br><br/></div>
+
 <!--
 1. ["Human Capital Development under Trade Conflict"](/assets/pdfs/major_draft.pdf) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
@@ -79,14 +86,6 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
     This paper studies the impact of China-US trade war on human capital development in China, as captured by college major choice. We conduct both theoretical and empirical analyses. The simple model indicates that information signaling better prospects for STEM graduates can push high ability students toward STEM majors. Our empirical investigation leverages novel, detailed data on college admission statistics. We document an increased gap in admission cutoffs between STEM and non-STEM majors after the trade war broke out in 2018, implying a shift of high ability students toward STEM majors. This increase in the cutoff gap is more pronounced in provinces highly exposed to additional US tariffs. We offer evidence that the behavioral change in major choice is due to career considerations based on observed advantages of STEM graduates or attention to STEM-favorable national development plans, rather than nationalistic responses to the nation's call for tech self-sufficiency.
     <br><br/></div>
 -->
-
-4. ["Adverse Experience and Occupational Outcomes: Evidence from Children of the Cultural Revolution"](/assets/pdfs/cr_draft.pdf) <br>
-<small>[ <a href="#/" onclick="visib('cultural_revolution')">Abstract</a> ]</small>
-
-    <div id="cultural_revolution" style="display: none; text-align: left; line-height: 1.5" >
-    This paper studies the long-term occupational effects of China's Cultural Revolution (1966--76, CR), which involved a strong sense of dislike towards professionals. Using a difference-in-differences design, I find that individuals whose fathers experienced higher levels of violence during the CR are less inclined to pursue professional occupations. However, I do not observe a significant impact of mothers' exposure. Furthermore, there is limited evidence that the CR led to constraints hindering access to professional jobs in terms of human capital, family environment, and local economic conditions. I find patterns consistent with a model of preference transmission within families. Additionally, I provide evidence indicating that the dislike towards professional occupations may persist in the third generation, especially in the patriarchal line.
-    <br><br/></div>
-   
 
 ## _Work in Progress_
 1. "Foreign Economic Relations and Domestic Politics: The Case of Taiwan" (_draft coming soon!_) <br>
