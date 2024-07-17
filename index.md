@@ -13,7 +13,7 @@ layout: default
 # Research
 -------------------------------------------
 ## _Published or Accepted for Publication_
-1. ["China’s Anti-Corruption Campaign and Civil Servant Fever"](https://doi.org/10.1086/727780) <br>
+1. ["China’s Anticorruption Campaign and Civil Servant Fever"](https://doi.org/10.1086/727780) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
 **Journal of Law and Economics**, Vol.67, No.2, May 2024 <br>
 <small>[ <a href="#/" onclick="visib('civilservant')">Abstract</a> | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406) ]</small>
