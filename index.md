@@ -15,7 +15,7 @@ layout: default
 ## _Published or Accepted for Publication_
 1. ["China’s Anticorruption Campaign and Civil Servant Fever"](https://doi.org/10.1086/727780) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
-**Journal of Law and Economics**, Vol.67, No.2, May 2024 <br>
+_Journal of Law and Economics_, Vol.67, No.2, May 2024 <br>
 <small>[ <a href="#/" onclick="visib('civilservant')">Abstract</a> | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406) ]</small>
 
     <div id="civilservant" style="display: none; text-align: left; line-height: 1.5" >
@@ -23,7 +23,7 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
     <br><br/></div>
 
 1. ["The Effect of Education on Voter Turnout in China's Rural Elections"](https://doi.org/10.1016/j.jebo.2024.03.021) <br>
-**Journal of Economic Behavior and Organization**, Vol.221, May 2024 <br>
+_Journal of Economic Behavior and Organization_, Vol.221, May 2024 <br>
 <small>[ <a href="#/" onclick="visib('turnout')">Abstract</a> | [Working Paper](/assets/pdfs/turnout_draft.pdf) ]</small>
 
     <div id="turnout" style="display: none; text-align: left; line-height: 1.5" >
@@ -32,7 +32,7 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
 
 1. ["Housing Market Regulations and Strategic Divorce Propensity in China"](https://link.springer.com/article/10.1007/s00148-021-00853-2) <br>
 with [James Alm](https://liberalarts.tulane.edu/departments/economics/people/james-alm) and [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
-**Journal of Population Economics**, Vol.35, July 2022 <br>
+_Journal of Population Economics_, Vol.35, July 2022 <br>
 <small>[ <a href="#/" onclick="visib('housing-market-divorce')">Abstract</a> | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3480934) | [Slides](/assets/pdfs/Divorce_Renmin-GLO_20211212.pdf) ]</small><br>
 <small>Media coverage: [ [Caixin](https://cec.blog.caixin.com/archives/262217) ]</small>
 
@@ -43,7 +43,7 @@ with [James Alm](https://liberalarts.tulane.edu/departments/economics/people/jam
 
 2. ["Role of Professional Bureaucracy in the Policy Response to COVID-19: Does a Public Health or Medical Background Help?"](https://www.sciencedirect.com/science/article/pii/S1043951X21001516?via%3Dihub) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, and [Xi Chen](https://ysph.yale.edu/profile/xi_chen/) <br>
-**China Economic Review**, Vol.71, February 2022 <br>
+_China Economic Review_, Vol.71, February 2022 <br>
 <small>[ <a href="#/" onclick="visib('bureaucracy-covid')">Abstract</a> | [IZA Opinions](https://wol.iza.org/opinions/does-health-professionalism-among-bureaucrats-help-weather-covid-pandemic) | [IZA DP 14710](https://www.iza.org/publications/dp/14710) | [GLO DP 1002](https://ideas.repec.org/p/zbw/glodps/1002.html) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713238) ]</small>
 
     <div id="bureaucracy-covid" style="display: none; text-align: left; line-height: 1.5" >
@@ -54,7 +54,7 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, and [Xi
 ## _Working Papers_
 3. ["Anti-Corruption and Political Trust: Evidence from China"](/assets/pdfs/trust_draft.pdf) <br>
 with [Ming Fang](https://94mingfang.weebly.com/) and Congling Xia <br>
-revise & resubmit at **Journal of Economic Behavior and Organization** <br>
+revise & resubmit at _Journal of Economic Behavior and Organization_ <br>
 <small>[ <a href="#/" onclick="visib('anticorruption-trust')">Abstract</a> ]</small>
 
     <div id="anticorruption-trust" style="display: none; text-align: left; line-height: 1.5" >
@@ -63,7 +63,7 @@ revise & resubmit at **Journal of Economic Behavior and Organization** <br>
 
 5. ["Property Rights, State Capacity, and Social Capacity: The Lasting Impacts of the Taiping Rebellion"](/assets/pdfs/taiping_draft.pdf) <br>
 with [Li Yang](https://sites.google.com/view/lyang/) and [Colin Xu](https://english.ckgsb.edu.cn/faculty/lixin-colin-xu/) <br>
-reject & resubmit at **Journal of Economic Growth** <br>
+reject & resubmit at _Journal of Economic Growth_ <br>
 <small>[ <a href="#/" onclick="visib('taiping')">Abstract</a> ]</small>
 
     <div id="taiping" style="display: none; text-align: left; line-height: 1.5" >
