@@ -16,7 +16,7 @@ layout: default
 1. ["China’s Anticorruption Campaign and Civil Servant Fever"](https://doi.org/10.1086/727780) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
 _Journal of Law and Economics_, Vol.67, No.2, May 2024 <br>
-<small>[ <a href="#/" onclick="visib('civilservant')">Abstract</a> | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406) ]</small>
+<small>[ <a href="#/" onclick="visib('civilservant')">Abstract</a> | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406) | [Non-technical Summary](/assets/pdfs/Lai_and_Li_JLE2024_nontech_summary.pdf) ]</small>
 
     <div id="civilservant" style="display: none; text-align: left; line-height: 1.5" >
     What is the impact of anticorruption efforts on entry into bureaucratic jobs? This paper approaches the question theoretically and empirically through the lens of China's anticorruption campaign instituted in 2013. We leverage a novel data set of national civil service exams. Exploiting assignment and timing variations in anticorruption inspections of government departments, our difference-in-differences estimate shows that a department had significantly fewer applicants following an inspection. We provide evidence that the decline in bureaucratic entry has occurred since the campaign lowered the (expected) returns from bureaucratic jobs by improving the detection of corruption and constraining power that is likely to be abused. In contrast, we do not find evidence that the campaign affected legal income. Furthermore, simulation exercises suggest that after the anticorruption campaign, incoming bureaucrats may have lower ability but higher prosociality than before.
