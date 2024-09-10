@@ -37,7 +37,7 @@ _Journal of Economic Behavior and Organization_, Vol. 221, May 2024 <br>
     Conventional wisdom and evidence from democracies suggest that more education should increase voter turnout. This paper revisits this issue by analyzing turnout in China's rural elections. Employing an instrumental variable strategy, I find that more education reduces turnout in rural elections. I provide suggestive evidence that more educated people may face higher opportunity costs of voting, which explain about a quarter of cross-province variation in education-turnout links. I also discuss the role of other factors, including Confucian culture and election stakes.
     <br><br/></div>
 
-1. ["Housing Market Regulations and Strategic Divorce Propensity in China"](https://link.springer.com/article/10.1007/s00148-021-00853-2) <br>
+1. ["Housing Market Regulations and Strategic Divorce Propensity in China"](https://doi.org/10.1007/s00148-021-00853-2) <br>
 with [James Alm](https://liberalarts.tulane.edu/departments/economics/people/james-alm) and [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
 _Journal of Population Economics_, Vol. 35, July 2022 <br>
 <small>[ <a href="#/" onclick="visib('housing-market-divorce')">Abstract</a> | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3480934) | [Slides](/assets/pdfs/Divorce_Renmin-GLO_20211212.pdf) ]</small><br>
@@ -48,7 +48,7 @@ _Journal of Population Economics_, Vol. 35, July 2022 <br>
     <br><br/></div>
 
 
-2. ["Role of Professional Bureaucracy in the Policy Response to COVID-19: Does a Public Health or Medical Background Help?"](https://www.sciencedirect.com/science/article/pii/S1043951X21001516?via%3Dihub) <br>
+2. ["Role of Professional Bureaucracy in the Policy Response to COVID-19: Does a Public Health or Medical Background Help?"](https://doi.org/10.1016/j.chieco.2021.101733) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, and [Xi Chen](https://ysph.yale.edu/profile/xi_chen/) <br>
 _China Economic Review_, Vol. 71, February 2022 <br>
 <small>[ <a href="#/" onclick="visib('bureaucracy-covid')">Abstract</a> | [IZA Opinions](https://wol.iza.org/opinions/does-health-professionalism-among-bureaucrats-help-weather-covid-pandemic) | [IZA DP 14710](https://www.iza.org/publications/dp/14710) | [GLO DP 1002](https://ideas.repec.org/p/zbw/glodps/1002.html) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713238) ]</small>
