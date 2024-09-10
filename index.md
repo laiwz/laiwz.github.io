@@ -14,6 +14,11 @@ layout: default
 
 # Research
 -------------------------------------------
+## _Job Market Paper_
+2. "From Settlement to Stability: The Political Impact of Relaxing Migration Barriers in China" _(draft coming soon)_ <br>
+with [Yu Qiu](https://jessyuqiu.github.io/)
+
+
 ## _Published or Accepted for Publication_
 1. ["China’s Anticorruption Campaign and Civil Servant Fever"](https://doi.org/10.1086/727780) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
@@ -97,8 +102,8 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
 -->
 
 ## _Work in Progress_
-2. "Industrial Labor Relations in Urban China" <br>
-with [Yu Qiu](https://jessyuqiu.github.io/)
+2. "Feudalism and Authoritarinism" <br>
+with [Kartikeya Batra](https://sites.google.com/umd.edu/kartikeyabatra), Arseniy Braslavskiy, and [Ethan Kaplan](https://econweb.umd.edu/~kaplan/))
 
 [//]: This java script is the button to show abstract
 <script>
