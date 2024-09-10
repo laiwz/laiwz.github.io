@@ -15,7 +15,7 @@ layout: default
 # Research
 -------------------------------------------
 ## _Job Market Paper_
-2. "From Settlement to Stability: The Political Impact of Relaxing Migration Barriers in China" _(draft coming soon)_ <br>
+- "From Settlement to Stability: The Political Impact of Relaxing Migration Barriers in China" _(draft coming soon)_ <br>
 with [Yu Qiu](https://jessyuqiu.github.io/)
 
 
