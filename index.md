@@ -79,6 +79,13 @@ reject & resubmit at _Journal of Economic Growth_ <br>
     This paper studies the long-term occupational effects of China's Cultural Revolution (1966--76, CR), which involved a strong sense of dislike towards professionals. Using a difference-in-differences design, I find that individuals whose fathers experienced higher levels of violence during the CR are less inclined to pursue professional occupations. However, I do not observe a significant impact of mothers' exposure. Furthermore, there is limited evidence that the CR led to constraints hindering access to professional jobs in terms of human capital, family environment, and local economic conditions. I find patterns consistent with a model of preference transmission within families. Additionally, I provide evidence indicating that the dislike towards professional occupations may persist in the third generation, especially in the patriarchal line.
     <br><br/></div>
 
+1. ["Foreign Economic Relations and Domestic Politics: The Case of Taiwan"](/assets/pdfs/taiwan.pdf) <br>
+<small> [ <a href="#/" onclick="visib('taiwan-exports')">Abstract</a> ] </small>
+
+    <div id="taiwan-exports" style="display: none; text-align: left; line-height: 1.5" >
+    How do foreign economic influences shape domestic politics? I study this question leveraging the unique settings of Taiwan, where exports heavily rely on the Chinese market, and the major political cleavage is relations with China. Using a shift-share design,  I find that townships with more exports to China vote less for the Democratic Progressive Party, the major party that unequivocally supports Taiwanese independence. I offer suggestive evidence that interested voters may worry about losing economic benefits brought by exports to China and so avoid choices likely to cause tensions. I do not detect impacts on party identification, identity, and attitudes toward unification or independence.
+    <br><br/></div>
+
 <!--
 1. ["Human Capital Development under Trade Conflict"](/assets/pdfs/major_draft.pdf) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
@@ -90,13 +97,6 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
 -->
 
 ## _Work in Progress_
-1. "Foreign Economic Relations and Domestic Politics: The Case of Taiwan" (_draft coming soon!_) <br>
-<small> [ <a href="#/" onclick="visib('taiwan-exports')">Abstract</a> ] </small>
-
-    <div id="taiwan-exports" style="display: none; text-align: left; line-height: 1.5" >
-    How do foreign economic influences shape domestic politics? I study this question leveraging the unique settings of Taiwan, where exports heavily rely on the Chinese market, and the major political cleavage is relations with mainland China. Using a shift-share design,  I find that townships with more exports to mainland China vote less for the Democratic Progressive Party, the major party that unequivocally supports Taiwanese independence. I offer suggestive evidence that interested voters may worry about losing economic benefits brought by exports to mainland China and so avoid choices likely to cause tensions. I do not detect impacts on party identification, identity, and attitudes toward unification or independence.
-    <br><br/></div>
-
 2. "Industrial Labor Relations in Urban China" <br>
 with [Yu Qiu](https://jessyuqiu.github.io/)
 
