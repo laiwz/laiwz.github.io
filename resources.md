@@ -8,7 +8,7 @@
 - [Historical China Data by the Lee-Campbell Group @HKUST](https://leecampbellgroup.blog/projects/)
 - [Chinese Datasets @NYU Shanghai](https://library.shanghai.nyu.edu/datasets)
 - [Modern China Biographical Database (MCBD)](https://bookdown.enpchina.eu/mcbd_usermanual/introduction.html)
-- [Chinese Statistical Year Books (@Zhengzhou University)](http://www7.zzu.edu.cn/udrc/sjk.htm)
+- [Chinese Statistical Yearbooks @Zhengzhou University](http://www7.zzu.edu.cn/udrc/sjk.htm)
 - [International Relations Resources @MSU](https://libguides.lib.msu.edu/ir)
 - [Survey Research Data Archive](https://srda.sinica.edu.tw/index.php)
 - [Taiwan Social Change Survey (TSCS)](https://www2.ios.sinica.edu.tw/sc/cht/scDownload.php)
