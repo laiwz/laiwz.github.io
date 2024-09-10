@@ -17,7 +17,7 @@ layout: default
 ## _Published or Accepted for Publication_
 1. ["China’s Anticorruption Campaign and Civil Servant Fever"](https://doi.org/10.1086/727780) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
-_Journal of Law and Economics_, Vol.67, No.2, May 2024 <br>
+_Journal of Law and Economics_, Vol. 67, No. 2, May 2024 <br>
 <small>[ <a href="#/" onclick="visib('civilservant')">Abstract</a> | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3662406) | [Non-technical Summary](/assets/pdfs/Lai_and_Li_JLE2024_nontech_summary.pdf) | [Data](/assets/zips/Lai_and_Li-JLE_2024.zip) ]</small>
 
     <div id="civilservant" style="display: none; text-align: left; line-height: 1.5" >
@@ -25,7 +25,7 @@ _Journal of Law and Economics_, Vol.67, No.2, May 2024 <br>
     <br><br/></div>
 
 1. ["The Effect of Education on Voter Turnout in China's Rural Elections"](https://doi.org/10.1016/j.jebo.2024.03.021) <br>
-_Journal of Economic Behavior and Organization_, Vol.221, May 2024 <br>
+_Journal of Economic Behavior and Organization_, Vol. 221, May 2024 <br>
 <small>[ <a href="#/" onclick="visib('turnout')">Abstract</a> | [Working Paper](/assets/pdfs/turnout_draft.pdf) ]</small>
 
     <div id="turnout" style="display: none; text-align: left; line-height: 1.5" >
@@ -34,7 +34,7 @@ _Journal of Economic Behavior and Organization_, Vol.221, May 2024 <br>
 
 1. ["Housing Market Regulations and Strategic Divorce Propensity in China"](https://link.springer.com/article/10.1007/s00148-021-00853-2) <br>
 with [James Alm](https://liberalarts.tulane.edu/departments/economics/people/james-alm) and [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
-_Journal of Population Economics_, Vol.35, July 2022 <br>
+_Journal of Population Economics_, Vol. 35, July 2022 <br>
 <small>[ <a href="#/" onclick="visib('housing-market-divorce')">Abstract</a> | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3480934) | [Slides](/assets/pdfs/Divorce_Renmin-GLO_20211212.pdf) ]</small><br>
 <small>Media coverage: [ [Caixin (in Chinese)](https://cec.blog.caixin.com/archives/262217) ]</small>
 
@@ -45,7 +45,7 @@ _Journal of Population Economics_, Vol.35, July 2022 <br>
 
 2. ["Role of Professional Bureaucracy in the Policy Response to COVID-19: Does a Public Health or Medical Background Help?"](https://www.sciencedirect.com/science/article/pii/S1043951X21001516?via%3Dihub) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, and [Xi Chen](https://ysph.yale.edu/profile/xi_chen/) <br>
-_China Economic Review_, Vol.71, February 2022 <br>
+_China Economic Review_, Vol. 71, February 2022 <br>
 <small>[ <a href="#/" onclick="visib('bureaucracy-covid')">Abstract</a> | [IZA Opinions](https://wol.iza.org/opinions/does-health-professionalism-among-bureaucrats-help-weather-covid-pandemic) | [IZA DP 14710](https://www.iza.org/publications/dp/14710) | [GLO DP 1002](https://ideas.repec.org/p/zbw/glodps/1002.html) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713238) ]</small>
 
     <div id="bureaucracy-covid" style="display: none; text-align: left; line-height: 1.5" >
