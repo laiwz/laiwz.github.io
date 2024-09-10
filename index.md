@@ -103,7 +103,7 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
 
 ## _Work in Progress_
 2. "Feudalism and Authoritarinism" <br>
-with [Kartikeya Batra](https://sites.google.com/umd.edu/kartikeyabatra), Arseniy Braslavskiy, and [Ethan Kaplan](https://econweb.umd.edu/~kaplan/))
+with [Kartikeya Batra](https://sites.google.com/umd.edu/kartikeyabatra), Arseniy Braslavskiy, and [Ethan Kaplan](https://econweb.umd.edu/~kaplan/)
 
 [//]: This java script is the button to show abstract
 <script>
