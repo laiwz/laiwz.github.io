@@ -3,20 +3,22 @@ layout: default
 ---
 
 # About Me
+-------------------------------------------
 - I’m a sixth-year Ph.D. student in [economics](https://econ.umd.edu/) at the [University of Maryland](https://www.umd.edu/). Prior to Maryland, I studied economics and mathematics at [Wuhan University](https://www.whu.edu.cn/). My CV is [here](/assets/pdfs/CV.pdf). My email address is [laiwz@umd.edu](mailto:laiwz@umd.edu).
 
 - My research interest spans political economy, personnel economics of the state, and Chinese economy. I'm also broadly interested in other applied research topics.
 
 - I will be on the job market of academic year 2024-2025.
 
--------------------------------------------
+<br>
 
 # Research
+-------------------------------------------
 ## _Job Market Paper_
 - "From Settlement to Stability: The Political Impact of Relaxing Migration Barriers in China" _(draft coming soon)_ <br>
 with [Yu Qiu](https://jessyuqiu.github.io/)
 
--------------------------------------------
+<br>
 
 ## _Published or Accepted for Publication_
 1. ["China’s Anticorruption Campaign and Civil Servant Fever"](https://doi.org/10.1086/727780) <br>
@@ -56,6 +58,7 @@ _China Economic Review_, Vol. 71, February 2022 <br>
     In response to the outbreak of coronavirus disease 2019 (COVID-19), there have been substantial variations in policy response and performance for disease control and prevention within and across nations. It remains unclear to what extent these variations may be explained by bureaucrats' professionalism, as measured by their educational background or work experience in public health or medicine. To investigate the effects of officials' professionalism on their response to and performance in fighting the COVID-19 pandemic, we collect information from the résumés of government and Party officials in 294 Chinese cities, and integrate this information with other data sources, including weather conditions, city characteristics, COVID-19-related policy measures, and health outcomes. We show that, on average, cities whose top officials had public health or medical backgrounds (PHMBGs) had a significantly lower infection rate than cities whose top officials lacked such backgrounds. We test the mechanisms of these effects and find that cities whose officials had a PHMBG implemented community closure more rapidly than those lacked such backgrounds. Our findings highlight the importance of professionalism in combating the pandemic.
     <br><br/></div>
 
+<br>
 
 ## _Working Papers_
 3. ["Anti-Corruption and Political Trust: Evidence from China"](/assets/pdfs/trust_draft.pdf) <br>
@@ -99,6 +102,7 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
     This paper studies the impact of China-US trade war on human capital development in China, as captured by college major choice. We conduct both theoretical and empirical analyses. The simple model indicates that information signaling better prospects for STEM graduates can push high ability students toward STEM majors. Our empirical investigation leverages novel, detailed data on college admission statistics. We document an increased gap in admission cutoffs between STEM and non-STEM majors after the trade war broke out in 2018, implying a shift of high ability students toward STEM majors. This increase in the cutoff gap is more pronounced in provinces highly exposed to additional US tariffs. We offer evidence that the behavioral change in major choice is due to career considerations based on observed advantages of STEM graduates or attention to STEM-favorable national development plans, rather than nationalistic responses to the nation's call for tech self-sufficiency.
     <br><br/></div>
 -->
+<br>
 
 ## _Work in Progress_
 2. "Feudalism and Authoritarinism" <br>
