@@ -9,7 +9,7 @@ layout: default
 - I'm a political economist. Drawing lessons from China, my research attempts to understand how the state governs society and how it shapes citizens' beliefs and behaviors. Please check out my [CV](/assets/pdfs/CV.pdf).
 
 - I'm on the 2024-2025 job market and available for interviews. <br>
-[ [UMD JMC Profile](https://sites.google.com/umd.edu/laiwz) ]
+<small>[ [UMD JMC Profile](https://sites.google.com/umd.edu/laiwz) ] </small>
 
 <br>
 
