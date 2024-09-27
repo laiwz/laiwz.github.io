@@ -6,7 +6,7 @@ layout: default
 -------------------------------------------
 - Welcome! I’m a Ph.D. candidate in [economics](https://econ.umd.edu/) at the [University of Maryland](https://www.umd.edu/). Prior to Maryland, I studied economics and mathematics at [Wuhan University](https://www.whu.edu.cn/).
 
-- I'm a political economist. Drawing lessons from China, my research attempts to understand how the state governs society and how it shapes citizens' beliefs and behaviors. Please check out my [CV](/assets/pdfs/CV.pdf).
+- My research focuses on political economy. In particular, using the lens of historical and modern China, I study the political forces that shape citizens' beliefs and behaviors. Please check out my [CV](/assets/pdfs/CV.pdf).
 
 - I'm on the 2024-2025 job market and available for interviews. <br>
 <small>[ [UMD JMC Profile](https://sites.google.com/umd.edu/laiwz) ] </small>
