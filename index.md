@@ -2,13 +2,11 @@
 layout: default
 ---
 
-# About Me
--------------------------------------------
-- I’m a sixth-year Ph.D. student in [economics](https://econ.umd.edu/) at the [University of Maryland](https://www.umd.edu/). Prior to Maryland, I studied economics and mathematics at [Wuhan University](https://www.whu.edu.cn/). My CV is [here](/assets/pdfs/CV.pdf). My email address is [laiwz@umd.edu](mailto:laiwz@umd.edu).
+- Welcome! I’m a Ph.D. candidate in [economics](https://econ.umd.edu/) at the [University of Maryland](https://www.umd.edu/). Prior to Maryland, I studied economics and mathematics at [Wuhan University](https://www.whu.edu.cn/).
 
-- My research interest spans political economy and Chinese economy.
+- I'm a political economist. Drawing lessons from China, my research attempts to understand how the state governs society and how it shapes citizens' beliefs and behaviors. Please check out my My [CV](/assets/pdfs/CV.pdf).
 
-- I will be on the job market of academic year 2024-2025. <br>
+- I'm on the 2024-2025 job market and available for interviews. <br>
 [ [UMD JMC Profile](https://sites.google.com/umd.edu/laiwz) ]
 
 <br>
