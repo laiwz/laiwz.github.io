@@ -10,6 +10,8 @@ layout: default
 
 - I will be on the job market of academic year 2024-2025.
 
+- UMD JMC profile: [link](https://sites.google.com/umd.edu/laiwz)
+
 <br>
 
 # Research
