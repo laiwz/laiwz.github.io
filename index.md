@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# About Me
+-------------------------------------------
 - Welcome! I’m a Ph.D. candidate in [economics](https://econ.umd.edu/) at the [University of Maryland](https://www.umd.edu/). Prior to Maryland, I studied economics and mathematics at [Wuhan University](https://www.whu.edu.cn/).
 
 - I'm a political economist. Drawing lessons from China, my research attempts to understand how the state governs society and how it shapes citizens' beliefs and behaviors. Please check out my [CV](/assets/pdfs/CV.pdf).
