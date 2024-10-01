@@ -16,8 +16,13 @@ layout: default
 # Research
 -------------------------------------------
 ## _Job Market Paper_
-- "From Settlement to Stability: The Political Impact of Relaxing Migration Barriers in China" _(draft coming soon)_ <br>
+- ["From Settlement to Stability: The Political Impact of Relaxing Migration Barriers in China"](/assets/pdfs/unrest_draft) <br>
 with [Yu Qiu](https://jessyuqiu.github.io/)
+<small>[ <a href="#/" onclick="visib('hukou_unrest')">Abstract</a> ]</small>
+
+    <div id="hukou_unrest" style="display: none; text-align: left; line-height: 1.5" >
+    There are growing concerns that lax migration policy may undermine social stability. We study this issue by estimating the causal effect on labor unrest of China's recent reform to its internal migration institutions, which facilitated permanent settlement for migrants in small and medium sized cities. Using the reform's population cutoff rule as identifying variation, we find that the reform significantly reduced labor unrest. We suggest that one mechanism behind our finding is the enhancement of migrants' settlement intentions, which increases their dependence on the state and promotes more obedient behavior. Evidence shows that the reform raised the likelihood of migrants staying in their destinations. Through a novel causal mediation analysis, we find that heightened settlement intentions explain up to 27 percent of the reform's total effect on labor unrest. We find no evidence that the reform led to compositional changes among migrants, immediate deliveries of benefits to migrants, and tighter government social control. Our results highlight the influence of migration policy on stability by shaping migrants' prospects in their destinations.
+    <br><br/></div>
 
 <br>
 
