@@ -16,7 +16,7 @@ layout: default
 # Research
 -------------------------------------------
 ## _Job Market Paper_
-- ["From Settlement to Stability: The Political Impact of Relaxing Migration Barriers in China"](/assets/pdfs/unrest_draft) <br>
+- ["From Settlement to Stability: The Political Impact of Relaxing Migration Barriers in China"](/assets/pdfs/unrest_draft.pdf) <br>
 with [Yu Qiu](https://jessyuqiu.github.io/) <br>
 <small>[ <a href="#/" onclick="visib('hukou_unrest')">Abstract</a> ]</small>
 
