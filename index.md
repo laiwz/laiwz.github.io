@@ -78,7 +78,7 @@ revise & resubmit at _Journal of Economic Behavior and Organization_ <br>
 
 5. ["Property Rights, State Capacity, and Social Capacity: The Lasting Impacts of the Taiping Rebellion"](/assets/pdfs/taiping_draft.pdf) <br>
 with [Li Yang](https://sites.google.com/view/lyang/) and [Colin Xu](https://english.ckgsb.edu.cn/faculty/lixin-colin-xu/) <br>
-reject & resubmit at _Journal of Economic Growth_ <br>
+revise & resubmit at _Journal of Economic Growth_ <br>
 <small>[ <a href="#/" onclick="visib('taiping')">Abstract</a> ]</small>
 
     <div id="taiping" style="display: none; text-align: left; line-height: 1.5" >
