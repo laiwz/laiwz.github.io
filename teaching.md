@@ -7,6 +7,8 @@ layout: default
 ## _At the Unversity of Maryland_
 _Average ratings in parentheses._
 
+_My teaching has received strong evaluations from students. Please check out some comments from students [here](/assets/pdfs/students_comments.pdf)._
+
 - Instructor, Intermediate Microeconomics
   - Summer 2022 (3.83/4, [Syllabus](/assets/pdfs/ECON306_Summer1_2023_Syllabus.pdf/))
 
