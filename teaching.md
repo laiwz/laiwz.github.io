@@ -6,7 +6,7 @@ layout: default
 -------------------------------------------
 ## _At the Unversity of Maryland_
 - Instructor, Intermediate Microeconomics
-  - Summer 2022: [ Avg. rating = 3.83/4 | [Syllabus](/assets/pdfs/ECON306_Summer1_2023_Syllabus.pdf) ]
+  - Summer 2022: [ Avg. rating = 3.83/4 | [Syllabus](/assets/pdfs/ECON306_Summer1_2023_Syllabus.pdf/) ]
 
 - Teaching Assistant, Econometrics I (PhD core), Fall 2023 (3.88/4)
   - Fall 2022 [ Avg. rating = 3.88/4 ], Fall 2023 [ Avg. rating = 3.88/4 ]
