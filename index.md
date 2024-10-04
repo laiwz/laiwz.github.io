@@ -67,15 +67,6 @@ _China Economic Review_, Vol. 71, February 2022 <br>
 <br>
 
 ## _Working Papers_
-3. ["Anti-Corruption and Political Trust: Evidence from China"](/assets/pdfs/trust_draft.pdf) <br>
-with [Ming Fang](https://94mingfang.weebly.com/) and Congling Xia <br>
-revise & resubmit at _Journal of Economic Behavior and Organization_ <br>
-<small>[ <a href="#/" onclick="visib('anticorruption-trust')">Abstract</a> ]</small>
-
-    <div id="anticorruption-trust" style="display: none; text-align: left; line-height: 1.5" >
-    How can anti-corruption efforts influence political trust in government? We investigate this question through the lens of China's recent anti-corruption campaign, launched in 2013, which has disclosed many corruption investigations to the public for the first time. By analyzing a large individual panel dataset, we show that, on average, the campaign has significantly reduced political trust, particularly among groups less informed about corruption before the campaign. We document strong heterogeneity in changes in political trust, possibly driven by a pro-and-anti-government cleavage, as captured by previous unpleasant experiences with the government, pro-government indoctrination, and Confucian norms. Our results fit a model in which polarization is rationalized by different priors about the government. We also rule out several alternative explanations for our findings.
-    <br><br/></div>
-
 5. ["Property Rights, State Capacity, and Social Capacity: The Lasting Impacts of the Taiping Rebellion"](/assets/pdfs/taiping_draft.pdf) <br>
 with [Li Yang](https://sites.google.com/view/lyang/) and [Colin Xu](https://english.ckgsb.edu.cn/faculty/lixin-colin-xu/) <br>
 revise & resubmit at _Journal of Economic Growth_ <br>
@@ -83,6 +74,15 @@ revise & resubmit at _Journal of Economic Growth_ <br>
 
     <div id="taiping" style="display: none; text-align: left; line-height: 1.5" >
     We study the impacts on development of the Taiping Rebellion (1850-1864), one of the deadliest civil wars in human history and a key turning point of China toward modernity. We find that the rebellion experience, on the margin, had positive impacts in some areas, as captured by a range of outcomes, including better land property rights, improved local fiscal capacity, enhanced social capacity, stronger political efficacy, as well as fewer deaths during the Great Famine (1959-1961). We also find empirical support for the complementarity between state capacity and social capacity. The results suggest that the effects of violent conflicts on local state capacity and social capacity could partly explain large within-country variation in development.
+    <br><br/></div>
+    
+3. ["Anti-Corruption and Political Trust: Evidence from China"](/assets/pdfs/trust_draft.pdf) <br>
+with [Ming Fang](https://94mingfang.weebly.com/) and Congling Xia <br>
+revise & resubmit at _Journal of Economic Behavior and Organization_ <br>
+<small>[ <a href="#/" onclick="visib('anticorruption-trust')">Abstract</a> ]</small>
+
+    <div id="anticorruption-trust" style="display: none; text-align: left; line-height: 1.5" >
+    How can anti-corruption efforts influence political trust in government? We investigate this question through the lens of China's recent anti-corruption campaign, launched in 2013, which has disclosed many corruption investigations to the public for the first time. By analyzing a large individual panel dataset, we show that, on average, the campaign has significantly reduced political trust, particularly among groups less informed about corruption before the campaign. We document strong heterogeneity in changes in political trust, possibly driven by a pro-and-anti-government cleavage, as captured by previous unpleasant experiences with the government, pro-government indoctrination, and Confucian norms. Our results fit a model in which polarization is rationalized by different priors about the government. We also rule out several alternative explanations for our findings.
     <br><br/></div>
 
 4. ["Adverse Experience and Occupational Outcomes: Evidence from Children of the Cultural Revolution"](/assets/pdfs/cr_draft.pdf) <br>
