@@ -108,6 +108,7 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
     This paper studies the impact of China-US trade war on human capital development in China, as captured by college major choice. We conduct both theoretical and empirical analyses. The simple model indicates that information signaling better prospects for STEM graduates can push high ability students toward STEM majors. Our empirical investigation leverages novel, detailed data on college admission statistics. We document an increased gap in admission cutoffs between STEM and non-STEM majors after the trade war broke out in 2018, implying a shift of high ability students toward STEM majors. This increase in the cutoff gap is more pronounced in provinces highly exposed to additional US tariffs. We offer evidence that the behavioral change in major choice is due to career considerations based on observed advantages of STEM graduates or attention to STEM-favorable national development plans, rather than nationalistic responses to the nation's call for tech self-sufficiency.
     <br><br/></div>
 -->
+<!--
 <br>
 
 ## _Work in Progress_
@@ -125,5 +126,6 @@ with [Kartikeya Batra](https://sites.google.com/umd.edu/kartikeyabatra), Arseniy
   }
 }
 </script>
+-->
 
 [//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
