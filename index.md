@@ -26,6 +26,40 @@ with [Yu Qiu](https://jessyuqiu.github.io/) <br>
 
 <br>
 
+## _Working Papers_
+5. ["Property Rights, State Capacity, and Social Capacity: The Lasting Impacts of the Taiping Rebellion"](/assets/pdfs/taiping_draft.pdf) <br>
+with [Lixin Colin Xu](https://english.ckgsb.edu.cn/faculty/lixin-colin-xu/) and [Li Yang](https://sites.google.com/view/lyang/) <br>
+revise & resubmit at _Journal of Economic Growth_ <br>
+<small>[ <a href="#/" onclick="visib('taiping')">Abstract</a> ]</small>
+
+    <div id="taiping" style="display: none; text-align: left; line-height: 1.5" >
+    We study the impacts on development of the Taiping Rebellion (1850-1864), one of the deadliest civil wars in human history and a key turning point of China toward modernity. We find that the rebellion experience, on the margin, had positive impacts in some areas, as captured by a range of outcomes, including better land property rights, improved local fiscal capacity, enhanced social capacity, stronger political efficacy, as well as fewer deaths during the Great Famine (1959-1961). We also find empirical support for the complementarity between state capacity and social capacity. The results suggest that the effects of violent conflicts on local state capacity and social capacity could partly explain large within-country variation in development.
+    <br><br/></div>
+    
+3. ["Anti-Corruption and Political Trust: Evidence from China"](/assets/pdfs/trust_draft.pdf) <br>
+with [Ming Fang](https://94mingfang.weebly.com/) and Congling Xia <br>
+revise & resubmit at _Journal of Economic Behavior and Organization_ <br>
+<small>[ <a href="#/" onclick="visib('anticorruption-trust')">Abstract</a> ]</small>
+
+    <div id="anticorruption-trust" style="display: none; text-align: left; line-height: 1.5" >
+    How can anti-corruption efforts influence political trust in government? We investigate this question through the lens of China's recent anti-corruption campaign, launched in 2013, which has disclosed many corruption investigations to the public for the first time. By analyzing a large individual panel dataset, we show that, on average, the campaign has significantly reduced political trust, particularly among groups less informed about corruption before the campaign. We document strong heterogeneity in changes in political trust, possibly driven by a pro-and-anti-government cleavage, as captured by previous unpleasant experiences with the government, pro-government indoctrination, and Confucian norms. Our results fit a model in which polarization is rationalized by different priors about the government. We also rule out several alternative explanations for our findings.
+    <br><br/></div>
+
+4. ["Adverse Experience and Occupational Outcomes: Evidence from Children of the Cultural Revolution"](/assets/pdfs/cr_draft.pdf) <br>
+<small>[ <a href="#/" onclick="visib('cultural_revolution')">Abstract</a> ]</small>
+
+    <div id="cultural_revolution" style="display: none; text-align: left; line-height: 1.5" >
+    This paper studies the long-term occupational effects of China's Cultural Revolution (1966--76, CR), which involved a strong sense of dislike towards professionals. Using a difference-in-differences design, I find that individuals whose fathers experienced higher levels of violence during the CR are less inclined to pursue professional occupations. However, I do not observe a significant impact of mothers' exposure. Furthermore, there is limited evidence that the CR led to constraints hindering access to professional jobs in terms of human capital, family environment, and local economic conditions. I find patterns consistent with a model of preference transmission within families. Additionally, I provide evidence indicating that the dislike towards professional occupations may persist in the third generation, especially in the patriarchal line.
+    <br><br/></div>
+
+1. ["Foreign Economic Relations and Domestic Politics: The Case of Taiwan"](/assets/pdfs/taiwan_draft.pdf) <br>
+<small> [ <a href="#/" onclick="visib('taiwan-exports')">Abstract</a> ] </small>
+
+    <div id="taiwan-exports" style="display: none; text-align: left; line-height: 1.5" >
+    How do foreign economic influences shape domestic politics? I study this question leveraging the unique settings of Taiwan, where exports heavily rely on the Chinese market, and the major political cleavage is relations with China. Using a shift-share design,  I find that townships with more exports to China vote less for the Democratic Progressive Party, the major party that unequivocally supports Taiwanese independence. I offer suggestive evidence that interested voters may worry about losing economic benefits brought by exports to China and so avoid choices likely to cause tensions. I do not detect impacts on party identification, identity, and attitudes toward unification or independence.
+    <br><br/></div>
+
+
 ## _Published or Accepted for Publication_
 1. ["China’s Anticorruption Campaign and Civil Servant Fever"](https://doi.org/10.1086/727780) <br>
 with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
@@ -62,41 +96,6 @@ _China Economic Review_, Vol. 71, February 2022 <br>
 
     <div id="bureaucracy-covid" style="display: none; text-align: left; line-height: 1.5" >
     In response to the outbreak of coronavirus disease 2019 (COVID-19), there have been substantial variations in policy response and performance for disease control and prevention within and across nations. It remains unclear to what extent these variations may be explained by bureaucrats' professionalism, as measured by their educational background or work experience in public health or medicine. To investigate the effects of officials' professionalism on their response to and performance in fighting the COVID-19 pandemic, we collect information from the résumés of government and Party officials in 294 Chinese cities, and integrate this information with other data sources, including weather conditions, city characteristics, COVID-19-related policy measures, and health outcomes. We show that, on average, cities whose top officials had public health or medical backgrounds (PHMBGs) had a significantly lower infection rate than cities whose top officials lacked such backgrounds. We test the mechanisms of these effects and find that cities whose officials had a PHMBG implemented community closure more rapidly than those lacked such backgrounds. Our findings highlight the importance of professionalism in combating the pandemic.
-    <br><br/></div>
-
-<br>
-
-## _Working Papers_
-5. ["Property Rights, State Capacity, and Social Capacity: The Lasting Impacts of the Taiping Rebellion"](/assets/pdfs/taiping_draft.pdf) <br>
-with [Lixin Colin Xu](https://english.ckgsb.edu.cn/faculty/lixin-colin-xu/) and [Li Yang](https://sites.google.com/view/lyang/) <br>
-revise & resubmit at _Journal of Economic Growth_ <br>
-<small>[ <a href="#/" onclick="visib('taiping')">Abstract</a> ]</small>
-
-    <div id="taiping" style="display: none; text-align: left; line-height: 1.5" >
-    We study the impacts on development of the Taiping Rebellion (1850-1864), one of the deadliest civil wars in human history and a key turning point of China toward modernity. We find that the rebellion experience, on the margin, had positive impacts in some areas, as captured by a range of outcomes, including better land property rights, improved local fiscal capacity, enhanced social capacity, stronger political efficacy, as well as fewer deaths during the Great Famine (1959-1961). We also find empirical support for the complementarity between state capacity and social capacity. The results suggest that the effects of violent conflicts on local state capacity and social capacity could partly explain large within-country variation in development.
-    <br><br/></div>
-    
-3. ["Anti-Corruption and Political Trust: Evidence from China"](/assets/pdfs/trust_draft.pdf) <br>
-with [Ming Fang](https://94mingfang.weebly.com/) and Congling Xia <br>
-revise & resubmit at _Journal of Economic Behavior and Organization_ <br>
-<small>[ <a href="#/" onclick="visib('anticorruption-trust')">Abstract</a> ]</small>
-
-    <div id="anticorruption-trust" style="display: none; text-align: left; line-height: 1.5" >
-    How can anti-corruption efforts influence political trust in government? We investigate this question through the lens of China's recent anti-corruption campaign, launched in 2013, which has disclosed many corruption investigations to the public for the first time. By analyzing a large individual panel dataset, we show that, on average, the campaign has significantly reduced political trust, particularly among groups less informed about corruption before the campaign. We document strong heterogeneity in changes in political trust, possibly driven by a pro-and-anti-government cleavage, as captured by previous unpleasant experiences with the government, pro-government indoctrination, and Confucian norms. Our results fit a model in which polarization is rationalized by different priors about the government. We also rule out several alternative explanations for our findings.
-    <br><br/></div>
-
-4. ["Adverse Experience and Occupational Outcomes: Evidence from Children of the Cultural Revolution"](/assets/pdfs/cr_draft.pdf) <br>
-<small>[ <a href="#/" onclick="visib('cultural_revolution')">Abstract</a> ]</small>
-
-    <div id="cultural_revolution" style="display: none; text-align: left; line-height: 1.5" >
-    This paper studies the long-term occupational effects of China's Cultural Revolution (1966--76, CR), which involved a strong sense of dislike towards professionals. Using a difference-in-differences design, I find that individuals whose fathers experienced higher levels of violence during the CR are less inclined to pursue professional occupations. However, I do not observe a significant impact of mothers' exposure. Furthermore, there is limited evidence that the CR led to constraints hindering access to professional jobs in terms of human capital, family environment, and local economic conditions. I find patterns consistent with a model of preference transmission within families. Additionally, I provide evidence indicating that the dislike towards professional occupations may persist in the third generation, especially in the patriarchal line.
-    <br><br/></div>
-
-1. ["Foreign Economic Relations and Domestic Politics: The Case of Taiwan"](/assets/pdfs/taiwan_draft.pdf) <br>
-<small> [ <a href="#/" onclick="visib('taiwan-exports')">Abstract</a> ] </small>
-
-    <div id="taiwan-exports" style="display: none; text-align: left; line-height: 1.5" >
-    How do foreign economic influences shape domestic politics? I study this question leveraging the unique settings of Taiwan, where exports heavily rely on the Chinese market, and the major political cleavage is relations with China. Using a shift-share design,  I find that townships with more exports to China vote less for the Democratic Progressive Party, the major party that unequivocally supports Taiwanese independence. I offer suggestive evidence that interested voters may worry about losing economic benefits brought by exports to China and so avoid choices likely to cause tensions. I do not detect impacts on party identification, identity, and attitudes toward unification or independence.
     <br><br/></div>
 
 <!--
