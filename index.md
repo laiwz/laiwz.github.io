@@ -9,7 +9,7 @@ layout: default
 - My research focuses on political economy. In particular, I study the political forces that shape citizens' beliefs and behaviors, using the lens of historical and modern China. Please check out my [CV](/assets/pdfs/CV.pdf).
 
 - I'm on the 2024-2025 job market and available for interviews. <br>
-<small>[ [UMD JMC Profile](https://sites.google.com/umd.edu/laiwz) ] </small>
+<small>[ [UMD JMC Profile](https://sites.google.com/umd.edu/laiwz) | [Job Market Paper](/assets/pdfs/unrest_draft.pdf) ] </small>
 
 <br>
 
