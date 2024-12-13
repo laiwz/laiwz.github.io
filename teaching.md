@@ -9,16 +9,16 @@ _Average ratings in parentheses._
 
 _My teaching has received strong evaluations from students. Please check out some comments from students [here](/assets/pdfs/students_comments.pdf)._
 
-- Instructor, Intermediate Microeconomics
+- **Instructor, Intermediate Microeconomics**
   - Summer 2022 (3.83/4, [Syllabus](/assets/pdfs/ECON306_Summer1_2023_Syllabus.pdf/))
 
-- Teaching Assistant, Econometrics I (PhD core), Fall 2023 (3.88/4)
+- **Teaching Assistant, Econometrics I (PhD core)**
   - Fall 2022 (3.88/4), Fall 2023 (3.88/4)
 
-- Teaching Assistant, Econometrics II (PhD core)
+- **Teaching Assistant, Econometrics II (PhD core)**
   - Spring 2022 (3.83/4), Spring 2023 (4/4), Spring 2024 (3.80/4)
 
-- Teaching Assistant, Probability and Statistics (PhD preparatory)
+- **Teaching Assistant, Probability and Statistics (PhD preparatory)**
   - Summer 2022, Summer 2023, Summer 2024 (no official surveys for preparatory courses)
 
 [//]: This java script is the button to show abstract
