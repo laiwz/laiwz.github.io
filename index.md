@@ -6,7 +6,9 @@ layout: default
 -------------------------------------------
 - Welcome! I’m a Ph.D. candidate in [economics](https://econ.umd.edu/) at the [University of Maryland](https://www.umd.edu/). Prior to Maryland, I studied economics and mathematics at [Wuhan University](https://www.whu.edu.cn/).
 
-- I'm a political economist. I study how institutions and politics shape governance and development. My work draws evidence from modern and historical China. Please check out my [CV](/assets/pdfs/CV.pdf).
+- I'm an applied microeconomist working on political economy. My research has focused on questions about development and political preferences. I draw lessons from modern and historical China, which I view as fascinating social laboratories.
+
+- Please check out my [CV](/assets/pdfs/CV.pdf).
 
 - I'm on the 2024-2025 job market and available for interviews. <br>
 <small>[ [UMD JMC Profile](https://sites.google.com/umd.edu/laiwz) | [Job Market Paper](/assets/pdfs/unrest_draft.pdf) ] </small>
