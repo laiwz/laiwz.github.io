@@ -6,7 +6,7 @@ layout: default
 -------------------------------------------
 - Welcome! I’m a Ph.D. candidate in [economics](https://econ.umd.edu/) at the [University of Maryland](https://www.umd.edu/). Prior to Maryland, I studied economics and mathematics at [Wuhan University](https://www.whu.edu.cn/).
 
-- I'm an applied microeconomist working on political economy and development economics. My research has focused on questions about development and political preferences. Most of my work draws lessons from modern and historical China, which I view as fascinating social laboratories.
+- I'm an applied microeconomist working on the intersection of political economy, labor economics, and development economics.
 
 - Please check out my [CV](/assets/pdfs/CV.pdf).
 
