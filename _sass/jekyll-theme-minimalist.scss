@@ -20,12 +20,8 @@ p, ul, ol, table, pre, dl {
   margin:10px 0 20px;
 }
 
-h1, h2, h3 {
-  line-height:1.1;
-}
-
-small {
-  font: 11px/1.5 !important;
+h1, h2, h3, small {
+  line-height:1.1 !important;
 }
 
 h1 {
