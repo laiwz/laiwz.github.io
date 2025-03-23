@@ -58,7 +58,7 @@ hvr -> hover
   --clr-kbd-border-bottom-and-shadow: hsl(210, 8.2%, var(--L-kbd-border-bottom-and-shadow));// akbd elemnts border bottom and its shadow color
   --clr-kbd-text: hsl(210, 11.7%, var(--L-kbd-text));
   // miselainies
-  --clr-bg: hsl(0, 0%, var(--L-bg));//the bg of the page
+  --clr-bg: hsl(50, 45%, var(--L-bg)); //hsl(0, 0%, var(--L-bg));//the bg of the page
   --clr-splitter-blockquote-and-section: hsl(0, 0%, var(--L-splitter-blockquote-and-section));//a color for the lines that split tables, appear on the left pf blockquotes and mark new sections
   --clr-small-in-a: hsl(0, 0%, var(--L-small-in-a));//the color for small elements in a's this color is used on the veiw on github button above the download buttons
   --clr-table-header-and-dt: hsl(0, 0%, var(--L-table-header-and-dt)); //more info on dt's https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_dd_test
@@ -88,7 +88,7 @@ hvr -> hover
   --L-kbd-border-bottom-and-shadow: 62%;
   --L-kbd-text: 30%;
   // misilainius
-  --L-bg: 100%;
+  --L-bg: 87%;
   --L-splitter-blockquote-and-section: 90%;//for elements like hr + blockquote
   --L-small-in-a: 47%;
   --L-table-header-and-dt: 27%; //more on dt's https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_dd_test
