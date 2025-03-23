@@ -12,7 +12,7 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-remote-theme
-color-scheme: auto
+color-scheme: light
 
 sidebar:
   - name: Curriculum Vitae
