@@ -10,7 +10,7 @@ layout: default
 
 - Please check out my [CV](/assets/pdfs/CV.pdf).
 
-- I'm on the 2024-2025 job market and available for interviews. <br>
+- **I'm on the 2024-2025 job market and available for interviews.** <br>
 <small>[ [UMD JMC Profile](https://sites.google.com/umd.edu/laiwz) | [Job Market Paper](/assets/pdfs/unrest_draft.pdf) ] </small>
 
 <br>
