@@ -94,7 +94,7 @@ _Journal of Population Economics_, Vol. 35, July 2022 <br>
 
 
 2. ["Role of Professional Bureaucracy in the Policy Response to COVID-19: Does a Public Health or Medical Background Help?"](https://doi.org/10.1016/j.chieco.2021.101733) <br>
-with [Xun Li](https://sites.google.com/site/xlihomepage/), Qianqian Wan, and [Xi Chen](https://ysph.yale.edu/profile/xi_chen/) <br>
+with [Xun Li](https://sites.google.com/site/xlihomepage/), [Qianqian Wan](https://www.hkubs.hku.hk/people/qianqian-wan/), and [Xi Chen](https://ysph.yale.edu/profile/xi_chen/) <br>
 _China Economic Review_, Vol. 71, February 2022 <br>
 <small>[ <a href="#/" onclick="visib('bureaucracy-covid')">Abstract</a> | [IZA DP 14710](https://www.iza.org/publications/dp/14710) | [GLO DP 1002](https://ideas.repec.org/p/zbw/glodps/1002.html) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3713238) ]</small><br>
 <small>Media coverage: [ [IZA Opinions](https://wol.iza.org/opinions/does-health-professionalism-among-bureaucrats-help-weather-covid-pandemic) ]</small>
