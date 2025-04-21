@@ -55,7 +55,7 @@ revise & resubmit at _Journal of Economic Growth_ <br>
 
 <br>
 
-## _Published or Accepted for Publication_    
+## _Publications_    
 3. ["Anti-Corruption and Political Trust: Evidence from China"](/assets/pdfs/trust_draft.pdf) <br>
 with [Ming Fang](https://94mingfang.weebly.com/) and Congling Xia <br>
 forthcoming at _Journal of Economic Behavior and Organization_ <br>
