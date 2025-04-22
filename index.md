@@ -56,13 +56,13 @@ revise & resubmit at _Journal of Economic Growth_ <br>
 <br>
 
 ## _Publications_    
-3. ["Anti-Corruption and Political Trust: Evidence from China"](/assets/pdfs/trust_draft.pdf) <br>
+3. ["Anti-Corruption and Political Trust: Evidence from China"](https://doi.org/10.1016/j.jebo.2025.107015) <br>
 with [Ming Fang](https://94mingfang.weebly.com/) and Congling Xia <br>
-forthcoming at _Journal of Economic Behavior and Organization_ <br>
-<small>[ <a href="#/" onclick="visib('anticorruption-trust')">Abstract</a> ]</small>
+_Journal of Economic Behavior and Organization_, Vol. 234, June 2025 <br>
+<small>[ <a href="#/" onclick="visib('anticorruption-trust')">Abstract</a> | [Final Draft]((/assets/pdfs/trust_draft.pdf)) ]</small>
 
     <div id="anticorruption-trust" style="display: none; text-align: left; line-height: 1.5" >
-    How can anti-corruption efforts influence political trust in government? We investigate this question through the lens of China's recent anti-corruption campaign, launched in 2013, which has disclosed many corruption investigations to the public for the first time. By analyzing a large individual panel dataset, we show that, on average, the campaign has reduced political trust, particularly among groups less informed about corruption before the campaign. We document strong heterogeneity in changes in political trust, possibly driven by prior political attitudes, as captured by previous unpleasant experiences with the government, pro-government indoctrination, and Confucian norms. Our results fit a model in which polarization is rationalized by different priors about the government. We also rule out several alternative explanations for our findings.
+    How can anti-corruption efforts influence political trust in government? We investigate this question through the lens of China’s recent anti-corruption campaign, launched in 2013, which has disclosed many corruption investigations to the public for the first time. By analyzing a large individual panel dataset, we show that, on average, the campaign has reduced political trust, particularly among groups less informed about corruption before the campaign. We document strong heterogeneity in changes in political trust, possibly driven by prior political attitudes, as captured by previous unpleasant experiences with the government, pro-government indoctrination, and Confucian norms. Our results fit a model in which polarization is rationalized by different priors about the government. We also rule out several alternative explanations for our findings.
     <br><br/></div>
 
 1. ["China’s Anticorruption Campaign and Civil Servant Fever"](https://doi.org/10.1086/727780) <br>
