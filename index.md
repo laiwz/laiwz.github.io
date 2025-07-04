@@ -4,11 +4,11 @@ layout: default
 
 # About Me
 -------------------------------------------
-- Welcome! I’m a Visting Assistant Professor of Economics at [Bowdoin College](https://www.bowdoin.edu/economics/index.html) (AY 2025--2026). I received my Ph.D. in Economics from [the University of Maryland](https://econ.umd.edu/) in May 2025.
+- Welcome! I’m a Visting Assistant Professor of Economics at [Bowdoin College](https://www.bowdoin.edu/economics/index.html) (AY 2025--2026). I received my Ph.D. in Economics from the [University of Maryland](https://econ.umd.edu/) in May 2025.
 
-- I'm an applied microeconomist working on the intersection of development economics, political economy, and labor economics. My research has been featured in several outlets, including Journal of Law and Economics, Journal of Economic Behavior and Organization, and Journal of Population Economics.
+- I'm an applied microeconomist working on the intersection of development economics, political economy, and labor economics. My research has been featured in several outlets, including _Journal of Law and Economics_, _Journal of Economic Behavior and Organization_, and _Journal of Population Economics_.
 
-- Please check out my [CV](/assets/pdfs/CV.pdf).
+- My CV is [here](/assets/pdfs/CV.pdf).
 
 - **I'm on the AY 2025--2026 job market and available for interviews.** <br>
 <!--<small>[ [UMD JMC Profile](https://sites.google.com/umd.edu/laiwz) | [Job Market Paper](/assets/pdfs/unrest_draft.pdf) ] </small>-->
