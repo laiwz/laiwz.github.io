@@ -4,13 +4,13 @@ layout: default
 
 # About Me
 -------------------------------------------
-- Welcome! I’m a Ph.D. candidate in [economics](https://econ.umd.edu/) at the [University of Maryland](https://www.umd.edu/). Prior to Maryland, I studied economics and mathematics at [Wuhan University](https://www.whu.edu.cn/).
+- Welcome! I’m a Visting Assistant Professor of Economimcs at Bowdoin College (AY 2025--2026). I received my Ph.D. in Economics from [the University of Maryland](https://econ.umd.edu/) in May 2025.
 
-- I'm an applied microeconomist working on the intersection of development economics, political economy, and labor economics.
+- I'm an applied microeconomist working on the intersection of development economics, political economy, and labor economics. My research has been featured in several outlets, including Journal of Law and Economics, Journal of Economic Behavior and Organization, and Journal of Population Economics.
 
 - Please check out my [CV](/assets/pdfs/CV.pdf).
 
-- **I'm on the 2025-2026 job market and available for interviews.** <br>
+- **I'm on the AY 2025--2026 job market and available for interviews.** <br>
 <!--<small>[ [UMD JMC Profile](https://sites.google.com/umd.edu/laiwz) | [Job Market Paper](/assets/pdfs/unrest_draft.pdf) ] </small>-->
 
 <br>
@@ -18,7 +18,7 @@ layout: default
 # Research
 -------------------------------------------
 ## _Working Papers_
-6. - ["From Settlement to Stability: The Impact of Relaxing Migrant Integration Restrictions in China"](/assets/pdfs/unrest_draft.pdf) <br>
+6. ["From Settlement to Stability: The Impact of Relaxing Migrant Integration Restrictions in China"](/assets/pdfs/unrest_draft.pdf) <br>
 with [Yu Qiu](https://jessyuqiu.github.io/) <br>
 <small>[ <a href="#/" onclick="visib('hukou_unrest')">Abstract</a> ]</small> <br>
 
