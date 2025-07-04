@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 -------------------------------------------
-- Welcome! I’m a Visting Assistant Professor of Economimcs at Bowdoin College (AY 2025--2026). I received my Ph.D. in Economics from [the University of Maryland](https://econ.umd.edu/) in May 2025.
+- Welcome! I’m a Visting Assistant Professor of Economics at Bowdoin College (AY 2025--2026). I received my Ph.D. in Economics from [the University of Maryland](https://econ.umd.edu/) in May 2025.
 
 - I'm an applied microeconomist working on the intersection of development economics, political economy, and labor economics. My research has been featured in several outlets, including Journal of Law and Economics, Journal of Economic Behavior and Organization, and Journal of Population Economics.
 
