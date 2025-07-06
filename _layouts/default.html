@@ -25,6 +25,13 @@
 
     {% include head-custom.html %}
   </head>
+  <title>
+  {% if page.url == "/" %}
+    {{ page.title }}
+  {% else %}
+    {{ site.title }} | {{ page.title }}
+  {% endif %}
+  </title>
   <body>
     <div class="wrapper">
       <div class="sidebar">
