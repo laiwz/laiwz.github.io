@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Weizheng Lai
+title: "Weizheng Lai"
 ---
 
 # About Me
