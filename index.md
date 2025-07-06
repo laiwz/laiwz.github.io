@@ -3,24 +3,22 @@ layout: default
 title: Weizheng Lai
 ---
 
-Welcome! I received my Ph.D. in Economics from the [University of Maryland](https://econ.umd.edu/) in May 2025.
+# About Me
+-------------------------------------------
+- Welcome! I received my Ph.D. in Economics from the [University of Maryland](https://econ.umd.edu/) in May 2025.
  <!--I’m a Visting Assistant Professor of Economics at [Bowdoin College](https://www.bowdoin.edu/economics/index.html) during AY 2025--2026.-->
 
-I'm an applied microeconomist working on the intersection of development economics, political economy, and labor economics. In particular, I focus on how institutions shape individual behaviors and preferences, and how they affect the development and resilience of societies. My research has been published in academic journals such as _Journal of Law and Economics_, _Journal of Economic Behavior and Organization_, and _Journal of Population Economics_.
+- I'm an applied microeconomist working on the intersection of development economics, political economy, and labor economics. In particular, I focus on how institutions shape individual behaviors and preferences, and how they affect the development and resilience of societies. My research has been published in academic journals such as _Journal of Law and Economics_, _Journal of Economic Behavior and Organization_, and _Journal of Population Economics_.
 
-My CV is [here](/assets/pdfs/CV.pdf).
+- My CV is [here](/assets/pdfs/CV.pdf).
 
 <!-- - **I'm on the AY 2025--2026 job market and available for interviews.** <br> -->
 <!--<small>[ [UMD JMC Profile](https://sites.google.com/umd.edu/laiwz) | [Job Market Paper](/assets/pdfs/unrest_draft.pdf) ] </small>-->
 
-<!--
 <br>
 
 # Research
-
 -------------------------------------------
--->
-<br>
 
 ## _Working Papers_
 6. ["From Settlement to Stability: The Impact of Relaxing Migrant Integration Restrictions in China"](/assets/pdfs/unrest_draft.pdf) <br>
