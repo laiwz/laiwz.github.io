@@ -4,7 +4,7 @@ email: <a href="mailto:laiwz@umd.edu">laiwz@umd.edu</a>
 description: Ph.D. in Economics <br> University of Maryland
 logo: /assets/img/me_bsos.jpg
 show_downloads: false
-blank_title: true
+blank_title: false
 
 favicon: true
 plugins:
