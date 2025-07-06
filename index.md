@@ -16,8 +16,11 @@ layout: default
 <br>
 
 # Research
--->
+
 -------------------------------------------
+-->
+<br>
+
 ## _Working Papers_
 6. ["From Settlement to Stability: The Impact of Relaxing Migrant Integration Restrictions in China"](/assets/pdfs/unrest_draft.pdf) <br>
 with [Yu Qiu](https://jessyuqiu.github.io/) <br>
