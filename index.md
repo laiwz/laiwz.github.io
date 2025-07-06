@@ -12,10 +12,12 @@ layout: default
 <!-- - **I'm on the AY 2025--2026 job market and available for interviews.** <br> -->
 <!--<small>[ [UMD JMC Profile](https://sites.google.com/umd.edu/laiwz) | [Job Market Paper](/assets/pdfs/unrest_draft.pdf) ] </small>-->
 
+<!--
 <br>
 
 # Research
 -------------------------------------------
+-->
 ## _Working Papers_
 6. ["From Settlement to Stability: The Impact of Relaxing Migrant Integration Restrictions in China"](/assets/pdfs/unrest_draft.pdf) <br>
 with [Yu Qiu](https://jessyuqiu.github.io/) <br>
