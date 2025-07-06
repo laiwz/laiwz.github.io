@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Weizheng Lai
 ---
 
 Welcome! I received my Ph.D. in Economics from the [University of Maryland](https://econ.umd.edu/) in May 2025.
