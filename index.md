@@ -1,10 +1,7 @@
 ---
 layout: default
-title: "Weizheng Lai"
 ---
 
-# About Me
--------------------------------------------
 - Welcome! I received my Ph.D. in Economics from the [University of Maryland](https://econ.umd.edu/) in May 2025.
  <!--I’m a Visting Assistant Professor of Economics at [Bowdoin College](https://www.bowdoin.edu/economics/index.html) during AY 2025--2026.-->
 
