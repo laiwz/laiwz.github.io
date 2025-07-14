@@ -30,7 +30,7 @@ with [Yu Qiu](https://jessyuqiu.github.io/) <br>
     <br><br/></div>
 <!--<small><ins>Presented at:</ins> _Chinese Economists Society North America Meeting (2024), Urban Economics Association North America Meeting (2024), DC Political Economy Center Workshop (2024), Southern Economic Association Annual Meeting_ (2024)</small>-->
 
-5. (New!) ["Property Rights, Fiscal Capacity, and Social Capacity: The Lasting Impact of the Taiping Rebellion"](/assets/pdfs/taiping_draft.pdf) <br>
+5. <code style="color : LightSkyBlue">(New!)</code> ["Property Rights, Fiscal Capacity, and Social Capacity: The Lasting Impact of the Taiping Rebellion"](/assets/pdfs/taiping_draft.pdf) <br>
 with [Lixin Colin Xu](https://english.ckgsb.edu.cn/faculty/lixin-colin-xu/) and [Li Yang](https://sites.google.com/view/lyang/) <br>
 revise & resubmit at _Journal of Economic Growth_ <br>
 <small>[ <a href="#/" onclick="visib('taiping')">Abstract</a> ]</small>
