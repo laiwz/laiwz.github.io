@@ -30,13 +30,13 @@ with [Yu Qiu](https://jessyuqiu.github.io/) <br>
     <br><br/></div>
 <!--<small><ins>Presented at:</ins> _Chinese Economists Society North America Meeting (2024), Urban Economics Association North America Meeting (2024), DC Political Economy Center Workshop (2024), Southern Economic Association Annual Meeting_ (2024)</small>-->
 
-5. ["Property Rights, State Capacity, and Social Capacity: The Lasting Impacts of the Taiping Rebellion"](/assets/pdfs/taiping_draft.pdf) <br>
+5. (New!) ["Property Rights, Fiscal Capacity, and Social Capacity: The Lasting Impact of the Taiping Rebellion"](/assets/pdfs/taiping_draft.pdf) <br>
 with [Lixin Colin Xu](https://english.ckgsb.edu.cn/faculty/lixin-colin-xu/) and [Li Yang](https://sites.google.com/view/lyang/) <br>
 revise & resubmit at _Journal of Economic Growth_ <br>
 <small>[ <a href="#/" onclick="visib('taiping')">Abstract</a> ]</small>
 
     <div id="taiping" style="display: none; text-align: left; line-height: 1.5" >
-    We study the impacts on development of the Taiping Rebellion (1850-1864), one of the deadliest civil wars in human history and a key turning point of China toward modernity. We find that the rebellion experience, on the margin, had positive impacts in some areas, as captured by a range of outcomes, including better land property rights, improved local fiscal capacity, enhanced social capacity, stronger political efficacy, as well as fewer deaths during the Great Famine (1959-1961). We also find empirical support for the complementarity between state capacity and social capacity. The results suggest that the effects of violent conflicts on local state capacity and social capacity could partly explain large within-country variation in development.
+    We examine the impact on regional development of the Taiping Rebellion (1850–1864), one of the deadliest civil wars in human history and a critical juncture in China’s path toward modernity. Our analysis shows that some areas under the control of the Taiping regime experienced important institutional changes, including strengthened land property rights, improved local fiscal capacity, and enhanced social capacity. We find that these areas with institutional improvements exhibit better long-term development outcomes, as reflected by greater economic activity, higher fiscal revenue, stronger civic norms, and lower mortality during the Great Famine (1959–1961). The results suggest that violent conflicts can have lasting effects on development by shaping local institutions, and that historical variation in property rights, fiscal capacity, and social capacity could partly explain the large within-country variation in development.
     <br><br/></div>
 
 4. ["Adverse Experience and Occupational Outcomes: Evidence from Children of the Cultural Revolution"](/assets/pdfs/cr_draft.pdf) <br>
