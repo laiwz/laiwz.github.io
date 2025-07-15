@@ -59,7 +59,7 @@ revise & resubmit at _Journal of Economic Growth_ <br>
 3. ["Anti-Corruption and Political Trust: Evidence from China"](https://doi.org/10.1016/j.jebo.2025.107015) <br>
 with [Ming Fang](https://94mingfang.weebly.com/) and Congling Xia <br>
 _Journal of Economic Behavior and Organization_, Vol. 234, June 2025 <br>
-<small>[ <a href="#/" onclick="visib('anticorruption-trust')">Abstract</a> | [Final Draft](/assets/pdfs/trust_draft.pdf) ]</small>
+<small>[ <a href="#/" onclick="visib('anticorruption-trust')">Abstract</a> | [Draft](/assets/pdfs/trust_draft.pdf) ]</small>
 
     <div id="anticorruption-trust" style="display: none; text-align: left; line-height: 1.5" >
     How can anti-corruption efforts influence political trust in government? We investigate this question through the lens of China’s recent anti-corruption campaign, launched in 2013, which has disclosed many corruption investigations to the public for the first time. By analyzing a large individual panel dataset, we show that, on average, the campaign has reduced political trust, particularly among groups less informed about corruption before the campaign. We document strong heterogeneity in changes in political trust, possibly driven by prior political attitudes, as captured by previous unpleasant experiences with the government, pro-government indoctrination, and Confucian norms. Our results fit a model in which polarization is rationalized by different priors about the government. We also rule out several alternative explanations for our findings.
@@ -76,7 +76,7 @@ _Journal of Law and Economics_, Vol. 67, No. 2, May 2024 <br>
 
 1. ["The Effect of Education on Voter Turnout in China's Rural Elections"](https://doi.org/10.1016/j.jebo.2024.03.021) <br>
 _Journal of Economic Behavior and Organization_, Vol. 221, May 2024 <br>
-<small>[ <a href="#/" onclick="visib('turnout')">Abstract</a> | [Working Paper](/assets/pdfs/turnout_draft.pdf) ]</small>
+<small>[ <a href="#/" onclick="visib('turnout')">Abstract</a> | [Draft](/assets/pdfs/turnout_draft.pdf) ]</small>
 
     <div id="turnout" style="display: none; text-align: left; line-height: 1.5" >
     Conventional wisdom and evidence from democracies suggest that more education should increase voter turnout. This paper revisits this issue by analyzing turnout in China's rural elections. Employing an instrumental variable strategy, I find that more education reduces turnout in rural elections. I provide suggestive evidence that more educated people may face higher opportunity costs of voting, which explain about a quarter of cross-province variation in education-turnout links. I also discuss the role of other factors, including Confucian culture and election stakes.
