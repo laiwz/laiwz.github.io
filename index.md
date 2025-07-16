@@ -5,7 +5,7 @@ title: "Weizheng Lai"
 
 # About Me
 -------------------------------------------
-- Welcome! I'm working as a Visting Assistant Professor of Economics at [Bowdoin College](https://www.bowdoin.edu/economics/index.html) during AY 2025--2026. I received my Ph.D. in Economics from the [University of Maryland](https://econ.umd.edu/) in May 2025.
+- Welcome! I'm working as a Visting Assistant Professor of Economics at [Bowdoin College](https://www.bowdoin.edu/economics/index.html) during AY 2025--2026. I received my Ph.D. in Economics from the [University of Maryland](https://econ.umd.edu/) in 2025.
  <!--I’m a Visting Assistant Professor of Economics at [Bowdoin College](https://www.bowdoin.edu/economics/index.html) during AY 2025--2026.-->
 
 - I'm an applied microeconomist working on the intersection of development economics, political economy, and labor economics. In particular, I focus on how institutions shape individual behaviors and preferences, and how they affect the development and resilience of societies. My research has been published in academic journals such as _Journal of Law and Economics_, _Journal of Economic Behavior and Organization_, and _Journal of Population Economics_.
