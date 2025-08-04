@@ -5,8 +5,9 @@ layout: default
 # Teaching
 -------------------------------------------
 ## _At Bowdoin College_
-- [Political Economy of Development](/bowdoin_pedev_f2025/README)
+- [Political Economy of Development](/courses/bowdoin_pedev)
 
+<br>
 
 ## _At the Unversity of Maryland_
 _Average ratings in parentheses._
