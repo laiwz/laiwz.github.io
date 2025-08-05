@@ -3,7 +3,7 @@ layout: default
 title: "Weizheng Lai"
 ---
 
-<!--# About Me-->
+# About Me
 -------------------------------------------
 - I'm a Visting Assistant Professor of Economics at [Bowdoin College](https://www.bowdoin.edu/economics/index.html). I received my Ph.D. in Economics from the [University of Maryland](https://econ.umd.edu/).
 
