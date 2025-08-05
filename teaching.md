@@ -6,6 +6,7 @@ layout: default
 -------------------------------------------
 ## _At Bowdoin College_
 - [Political Economy of Development](/courses/bowdoin_pedev.md)
+- [Econometrics](/courses/bowdoin_metrics.md)
 
 <br>
 
