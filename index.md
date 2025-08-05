@@ -11,7 +11,7 @@ title: "Weizheng Lai"
 
 - My CV is [here](/assets/pdfs/CV.pdf).
 
-- Email: [w.lai@bowdoin.edu](mailto:w.lai@bowdoin.edu) || [laiwz96@gmail.com](mailto:laiwz96@gmail.com)
+- Email: [w.lai@bowdoin.edu](mailto:w.lai@bowdoin.edu) | [laiwz96@gmail.com](mailto:laiwz96@gmail.com)
 
 <!-- - **I'm on the AY 2025--2026 job market and available for interviews.**-->
 <!--<small>[ [UMD JMC Profile](https://sites.google.com/umd.edu/laiwz) | [Job Market Paper](/assets/pdfs/unrest_draft.pdf) ] </small>-->
