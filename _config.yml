@@ -1,9 +1,11 @@
 theme: jekyll-theme-minimal
 title: "Weizheng Lai"
-email: <span style="margin-left: 0.4em; line-height: 1.4;">
-        <a href="mailto:w.lai@bowdoin.edu">w.lai@bowdoin.edu</a> <br>
-        <a href="mailto:laiwz96@gmail.com">laiwz96@gmail.com</a>
-        </span>
+email: <p>
+  <span style="margin-left: 0.4em; line-height: 1.4;">
+    <a href="mailto:w.lai@bowdoin.edu">w.lai@bowdoin.edu</a><br>
+    <a href="mailto:laiwz96@gmail.com">laiwz96@gmail.com</a>
+  </span>
+</p>
 description: " " #Ph.D. in Economics <br> University of Maryland
 logo: /assets/img/me_bsos.jpg
 show_downloads: false
