@@ -7,7 +7,7 @@ title: "Weizheng Lai"
 -------------------------------------------
 - Welcome! I'm working as a Visting Assistant Professor of Economics at [Bowdoin College](https://www.bowdoin.edu/economics/index.html). I received my Ph.D. in Economics from the [University of Maryland](https://econ.umd.edu/).
 
-- I'm an applied microeconomist working on the intersection of development economics, political economy, and labor economics. Much of my research focuses on how institutions shape individual behaviors and preferences, and how they affect the development and resilience of societies. My work has been published in academic journals such as _Journal of Law and Economics_, _Journal of Economic Behavior and Organization_, and _Journal of Population Economics_.
+- I'm an applied microeconomist working on comparative political economy, development economics, and labor economics. Much of my research focuses on how political and institutional factors shape variation in preferences and behaviors among citizens, and how these factors influence the development outcomes of societies. My work has been published in academic journals such as _Journal of Law and Economics_, _Journal of Economic Behavior and Organization_, and _Journal of Population Economics_.
 
 - My CV is [here](/assets/pdfs/CV.pdf).
 
