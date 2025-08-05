@@ -20,7 +20,7 @@ title: "Weizheng Lai"
 -------------------------------------------
 
 ## _Working Papers_
-6. ["From Settlement to Stability: The Impact of Relaxing Migrant Integration Restrictions in China"](/assets/pdfs/unrest_draft.pdf) <br>
+6. ["Migrant Integration and Social Stability: Evidence from China"](/assets/pdfs/unrest_draft.pdf) <br>
 with [Yu Qiu](https://jessyuqiu.github.io/) <br>
 <small>[ <a href="#/" onclick="visib('hukou_unrest')">Abstract</a> ]</small> <br>
 
