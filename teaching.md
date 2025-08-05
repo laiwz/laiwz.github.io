@@ -5,7 +5,7 @@ layout: default
 # Teaching
 -------------------------------------------
 ## _At Bowdoin College_
-- [Political Economy of Development](/courses/bowdoin_pedev)
+- [Political Economy of Development](/courses/bowdoin_pedev.md)
 
 <br>
 
