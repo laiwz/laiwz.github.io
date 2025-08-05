@@ -10,7 +10,6 @@ title: "Weizheng Lai"
 - I'm an applied microeconomist working on comparative political economy, development economics, and labor economics. Much of my research focuses on how political and institutional factors shape variation in preferences and behaviors among citizens, and how these factors influence the development outcomes of societies. My work has been published in academic journals such as _Journal of Law and Economics_, _Journal of Economic Behavior and Organization_, and _Journal of Population Economics_.
 
 - My CV is [here](/assets/pdfs/CV.pdf).
-
 - Email: [w.laiw@bowdoin.edu](mailto:w.laiw@bowdoin.edu) \| [laiwz96@gmail.com](mailto:laiwz96@gmail.com)
 
 <!-- - **I'm on the AY 2025--2026 job market and available for interviews.**-->
