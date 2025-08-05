@@ -1,4 +1,4 @@
-Political Economy of Development
-@Bowdoin College, Fall 2025
+# Political Economy of Development
 
-- [Syllabus](/bowdoin_pedev/Econ_3510_Syllabus.pdf)
+Fall 2025
+- [Syllabus](/assets/pdfs/Econ_3510_Syllabus.pdf)
