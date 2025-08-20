@@ -21,8 +21,8 @@ My CV is [here](/assets/pdfs/CV.pdf).
 
 # Research
 -------------------------------------------
-## _Job Market Paper_
-* ["Migrant Integration and Social Stability: Evidence from China"](/assets/pdfs/unrest_draft.pdf) <br>
+## _Working Papers_
+6. ["Migrant Integration and Social Stability: Evidence from China"](/assets/pdfs/unrest_draft.pdf) <br>
 with [Yu Qiu](https://jessyuqiu.github.io/) <br>
 <small>[ <a href="#/" onclick="visib('hukou_unrest')">Abstract</a> ]</small> <br>
 
@@ -31,9 +31,6 @@ with [Yu Qiu](https://jessyuqiu.github.io/) <br>
     <br><br/></div>
 <!--<small><ins>Presented at:</ins> _Chinese Economists Society North America Meeting (2024), Urban Economics Association North America Meeting (2024), DC Political Economy Center Workshop (2024), Southern Economic Association Annual Meeting_ (2024)</small>-->
 
-<br>
-
-## _Working Papers_
 5. <code style="color : Orangered">(New!)</code> ["Property Rights, Fiscal Capacity, and Social Capacity: The Lasting Impact of the Taiping Rebellion"](/assets/pdfs/taiping_draft.pdf) <br>
 with [Lixin Colin Xu](https://english.ckgsb.edu.cn/faculty/lixin-colin-xu/) and [Li Yang](https://sites.google.com/view/lyang/) <br>
 revise & resubmit at _Journal of Economic Growth_ <br>
