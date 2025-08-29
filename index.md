@@ -3,7 +3,8 @@ layout: default
 title: "Weizheng Lai"
 ---
 
-# About Me
+<!-- # About Me -->
+<br>
 -------------------------------------------
 I'm a Visting Assistant Professor of Economics at [Bowdoin College](https://www.bowdoin.edu/economics/). I received my Ph.D. in Economics from the [University of Maryland](https://econ.umd.edu/) in May 2025.
 
@@ -19,7 +20,7 @@ My CV is [here](/assets/pdfs/CV.pdf).
 
 <br>
 
-# Research
+<!--# Research-->
 -------------------------------------------
 ## _Job Market Paper_
 * ["Migrant Integration and Social Stability: Evidence from China"](/assets/pdfs/unrest_draft.pdf) <br>
