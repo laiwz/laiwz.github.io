@@ -14,7 +14,7 @@ layout: default
 Average ratings in parentheses. Please check out some comments from students [here](/assets/pdfs/students_comments.pdf).
 
 - **Instructor, Intermediate Microeconomics:** Summer 2022 (3.83/4, [Syllabus](/assets/pdfs/ECON306_Summer1_2023_Syllabus.pdf/))
-- **Tutor, Principles of Microeconomics:** Spring 2015
+- **Tutor, Principles of Microeconomics:** Spring 2025
 - **TA, Econometrics I (PhD core):** Fall 2022 (3.88/4), Fall 2023 (3.88/4)
 - **TA, Econometrics II (PhD core):** Spring 2022 (3.83/4), Spring 2023 (4/4), Spring 2024 (3.80/4)
 - **TA, Probability and Statistics (PhD preparatory):** Summer 2022, Summer 2023, Summer 2024 (no official surveys for preparatory courses)
