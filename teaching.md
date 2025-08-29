@@ -4,13 +4,13 @@ layout: default
 
 # Teaching
 -------------------------------------------
-## _At Bowdoin College_
+## _Bowdoin College_
 - [Political Economy of Development](/courses/bowdoin_pedev.md)
 - [Econometrics](/courses/bowdoin_metrics.md)
 
 <br>
 
-## _At the Unversity of Maryland_
+## _Unversity of Maryland_
 Average ratings in parentheses. Please check out some comments from students [here](/assets/pdfs/students_comments.pdf).
 
 - **Instructor, Intermediate Microeconomics:** Summer 2022 (3.83/4, [Syllabus](/assets/pdfs/ECON306_Summer1_2023_Syllabus.pdf/))
