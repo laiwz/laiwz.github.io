@@ -19,7 +19,7 @@ My CV is [here](/assets/pdfs/CV.pdf).
 <br>
 
 <!--# Research-->
--------------------------------------------
+<!-- ------------------------------------------- -->
 ## _Job Market Paper_
 * ["Migrant Integration and Social Stability: Evidence from China"](/assets/pdfs/unrest_draft.pdf) <br>
 with [Yu Qiu](https://jessyuqiu.github.io/) <br>
@@ -28,7 +28,7 @@ with [Yu Qiu](https://jessyuqiu.github.io/) <br>
     <div id="hukou_unrest" style="display: none; text-align: left; line-height: 1.5" >
     Contemporary public discourse often raises concerns that migration may undermine social stability, giving rise to support for exclusionary integration policies. We study this issue by estimating the causal effect on labor unrest of China's recent reform to its internal migration institutions. Exploiting variation due to the reform's discontinuity rule based on population, we find that the reform significantly reduced labor unrest (e.g., strikes). We demonstrate that one key mechanism is migrants' enhanced settlement intentions, which makes them less likely to engage in unrest in order to secure the opportunity of settlement offered by the reform. We find that the reform increased the likelihood of migrants staying in migration destinations, and through a novel causal mediation analysis, we show that heightened settlement intentions can explain 63 percent of the decrease in labor unrest due to the reform. In addition, the reform's effect on labor unrest is more pronounced in places where migrants have a smaller cultural distance from the natives and thus should be more inclined to stay due to the reform. We find no evidence that the reform led to compositional changes among migrants, significant improvements in migrants' wellbeing, or governments' tighter social control.
     <br><br/></div>
-<!--<small><ins>Presented at:</ins> _Chinese Economists Society North America Meeting (2024), Urban Economics Association North America Meeting (2024), DC Political Economy Center Workshop (2024), Southern Economic Association Annual Meeting_ (2024)</small>-->
+<!--<small><ins>Presented at:</ins> _Urban Economics Association North America Meeting, DC Political Economy Center Workshop (2024), Southern Economic Association Annual Meeting, University of Queensland, West Virginia University, University of Adelaide, University of Bath_ </small>-->
 
 <br>
 
