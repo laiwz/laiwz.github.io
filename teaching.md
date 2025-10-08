@@ -5,8 +5,9 @@ layout: default
 # Teaching
 -------------------------------------------
 ## _Bowdoin College_
-- Political Economy of Development [ [Syllabus](/assets/pdfs/Econ_3510_Syllabus.pdf) | [Lecture Notes](https://github.com/laiwz/bowdoin_pedev) ]
-- Econometrics [ [Syllabus](/assets/pdfs/Econ_3516_Syllabus.pdf) ]
+- Political Economy of Development \[ [Syllabus](/assets/pdfs/Econ_3510_Syllabus.pdf) | [Lecture Notes](https://github.com/laiwz/bowdoin_pedev) \]
+
+- Econometrics \[ [Syllabus](/assets/pdfs/Econ_3516_Syllabus.pdf) \]
 
 <br>
 
