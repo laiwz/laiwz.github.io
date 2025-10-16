@@ -33,13 +33,13 @@ with [Yu Qiu](https://jessyuqiu.github.io/) <br>
 <br>
 
 ## _Working Papers_
-5. <code style="color : Orangered">(New!)</code> ["Property Rights, Fiscal Capacity, and Social Capacity: The Lasting Impact of the Taiping Rebellion"](/assets/pdfs/taiping_draft.pdf) <br>
+5. <code style="color : Orangered">(Updated!)</code> ["Property Rights, Fiscal Capacity, and Social Capacity: The Lasting Impact of the Taiping Rebellion"](/assets/pdfs/taiping_draft.pdf) <br>
 with [Lixin Colin Xu](https://english.ckgsb.edu.cn/faculty/lixin-colin-xu/) and [Li Yang](https://sites.google.com/view/lyang/) <br>
-minor revisions requested by _Journal of Economic Growth_ <br>
+minor revisions completed and resubmitted to _Journal of Economic Growth_ <br>
 <small>[ <a href="#/" onclick="visib('taiping')">Abstract</a> ]</small>
 
     <div id="taiping" style="display: none; text-align: left; line-height: 1.5" >
-    We examine the impact on regional development of the Taiping Rebellion (1850–1864), one of the deadliest civil wars in human history and a critical juncture in China’s path toward modernity. Our analysis shows that some areas under the control of the Taiping regime experienced important institutional changes, including strengthened land property rights, improved local fiscal capacity, and enhanced social capacity. We find that these areas with institutional improvements exhibit better long-term development outcomes, as reflected by greater economic activity, higher fiscal revenue, stronger civic norms, and lower mortality during the Great Famine (1959–1961). The results suggest that violent conflicts can have lasting effects on development by shaping local institutions, and that historical variation in property rights, fiscal capacity, and social capacity could partly explain the large within-country variation in development.
+   We examine the long-term regional development effects of the Taiping Rebellion (1850–1864), one of the deadliest civil wars in human history and a critical juncture in China’s path toward modernity. Our analysis shows that some areas under the control of the Taiping regime experienced important institutional changes, including stronger land property rights, greater local fiscal capacity, and enhanced social capacity. We find that these areas exhibit enduring development outcomes, reflected in higher economic activity, larger fiscal revenues, stronger civic norms, and lower mortality during the Great Famine (1959–1961). The results suggest that violent conflicts can have lasting effects on development by shaping local institutions, and that historical variation in property rights, fiscal capacity, and social capacity could partly explain China’s enduring regional disparities.
     <br><br/></div>
 
 4. ["Adverse Experience and Occupational Outcomes: Evidence from Children of the Cultural Revolution"](/assets/pdfs/cr_draft.pdf) <br>
