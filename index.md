@@ -33,9 +33,9 @@ with [Yu Qiu](https://jessyuqiu.github.io/) <br>
 <br>
 
 ## _Working Papers_
-5. <code style="color : Orangered">(Updated!)</code> ["Property Rights, Fiscal Capacity, and Social Capacity: The Lasting Impact of the Taiping Rebellion"](/assets/pdfs/taiping_draft.pdf) <br>
+5. ["Property Rights, Fiscal Capacity, and Social Capacity: The Lasting Impact of the Taiping Rebellion"](/assets/pdfs/taiping_draft.pdf) <br>
 with [Lixin Colin Xu](https://english.ckgsb.edu.cn/faculty/lixin-colin-xu/) and [Li Yang](https://sites.google.com/view/lyang/) <br>
-minor revisions completed and resubmitted to _Journal of Economic Growth_ <br>
+conditionally accepted by _Journal of Economic Growth_ <br>
 <small>[ <a href="#/" onclick="visib('taiping')">Abstract</a> ]</small>
 
     <div id="taiping" style="display: none; text-align: left; line-height: 1.5" >
@@ -120,6 +120,8 @@ with [Xun Li](https://sites.google.com/site/xlihomepage/) <br>
 ## _Work in Progress_
 1. "Feudalism and Democracy: Evidence from Weimar Germany" <br>
 with [Kartikeya Batra](https://sites.google.com/view/kartikeyabatra), [Arseniy Braslavskiy](https://arseniy.braslavskiy.com/), and [Ethan Kaplan](https://econweb.umd.edu/~kaplan/)
+
+<!-- <code style="color : Orangered">(Updated!)</code> -->
 
 [//]: This java script is the button to show abstract
 <script>
