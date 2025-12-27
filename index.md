@@ -92,7 +92,7 @@ _China Economic Review_, Vol. 71, February 2022 <br>
 <br>
 
 ## _Working Papers_
-4. ["Adverse Experiences and Occupational Outcomes: Evidence from China"](/assets/pdfs/cr_draft.pdf) <br>
+4. ["Intergenerational Effects of Early-Adulthood Shocks"](/assets/pdfs/cr_draft.pdf) <br>
 <small>[ <a href="#/" onclick="visib('cultural_revolution')">Abstract</a> ]</small>
 
     <div id="cultural_revolution" style="display: none; text-align: left; line-height: 1.5" >
