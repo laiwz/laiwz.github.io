@@ -33,10 +33,10 @@ with [Yu Qiu](https://jessyuqiu.github.io/) <br>
 <br>
 
 ## _Publications_
-5. ["Property Rights, Fiscal Capacity, and Social Capacity: The Lasting Impact of the Taiping Rebellion"](/assets/pdfs/taiping_draft.pdf) <br>
+5. ["Property Rights, Fiscal Capacity, and Social Capacity: The Lasting Impact of the Taiping Rebellion"](https://doi.org/10.1007/s10887-025-09264-4) <br>
 with [Lixin Colin Xu](https://english.ckgsb.edu.cn/faculty/lixin-colin-xu/) and [Li Yang](https://sites.google.com/view/lyang/) <br>
-Accepted by _Journal of Economic Growth_ <br>
-<small>[ <a href="#/" onclick="visib('taiping')">Abstract</a> ]</small>
+Forthcoming at _Journal of Economic Growth_ <br>
+<small>[ <a href="#/" onclick="visib('taiping')">Abstract</a> | [Draft](/assets/pdfs/taiping_draft.pdf) ]</small>
 
     <div id="taiping" style="display: none; text-align: left; line-height: 1.5" >
    We examine the long-term regional development effects of the Taiping Rebellion (1850–1864), one of the deadliest civil wars in human history and a critical juncture in China's path toward modernity. Our analysis shows that some areas under the control of the Taiping regime experienced important institutional changes, including stronger land property rights, greater local fiscal capacity, and enhanced social capacity. We find that these areas exhibit enduring development outcomes, reflected in higher economic activity, larger fiscal revenues, stronger civic norms, and lower mortality during the Great Famine (1959–1961).  The results suggest that violent conflicts have left lasting imprints on development by shaping local institutions in ways that influenced the evolution of property rights, fiscal capacity, and social cohesion, factors that could account for China's enduring regional disparities.
