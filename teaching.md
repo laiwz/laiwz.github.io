@@ -7,6 +7,8 @@ layout: default
 ## _Bowdoin College_
 - Political Economy of Development \[ [Syllabus](/assets/pdfs/Econ_3510_Syllabus.pdf) \| [Lecture Material](https://laiwz.github.io/bowdoin_pedev/) \]
 - Econometrics \[ [Syllabus](/assets/pdfs/Econ_3516_Syllabus.pdf) \]
+- Intermediate Microeconomics \[ [Syllabus](/assets/pdfs/Econ_2555A_Syllabus.pdf) \]
+- Environmental Governance in China (Independent Study) \[ [Syllabus](/assets/pdfs/Syllabus_Environmental_Governance_in_China.pdf) \]
 
 <br>
 
