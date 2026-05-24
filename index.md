@@ -100,13 +100,6 @@ _China Economic Review_, Vol. 71, February 2022 <br>
     This paper studies the long-term occupational effects of China's Cultural Revolution (1966--76, CR), which involved a strong sense of dislike towards professionals. Using a difference-in-differences design, I find that individuals whose fathers experienced higher levels of violence during the CR are less inclined to pursue professional occupations. However, I do not observe a significant impact of mothers' exposure. Furthermore, there is limited evidence that the CR led to constraints hindering access to professional jobs in terms of human capital, family environment, and local economic conditions. I find patterns consistent with a model of preference transmission within families. Additionally, I provide evidence indicating that the dislike towards professional occupations may persist in the third generation, especially in the patriarchal line.
     <br><br/></div>
 
-1. ["The Impact of Trade on Foreign Policy Preferences: The Case of Taiwan"](/assets/pdfs/taiwan_draft.pdf) <br>
-<small> [ <a href="#/" onclick="visib('taiwan-exports')">Abstract</a> ] </small>
-
-    <div id="taiwan-exports" style="display: none; text-align: left; line-height: 1.5" >
-    How do foreign economic influences shape domestic politics? I study this question leveraging the unique settings of Taiwan, where exports heavily rely on the Chinese market, and the major political cleavage is relations with China. Using a shift-share design,  I find that townships with more exports to China vote less for the Democratic Progressive Party, the major party that unequivocally supports Taiwanese independence. I offer suggestive evidence that interested voters may worry about losing economic benefits brought by exports to China and so avoid choices likely to cause tensions. I do not detect impacts on party identification, identity, and attitudes toward unification or independence.
-    <br><br/></div>
-
 <br>
 
 ## _Work in Progress_
