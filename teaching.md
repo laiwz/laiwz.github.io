@@ -4,7 +4,7 @@ layout: default
 
 # Teaching
 -------------------------------------------
-## _Bowdoin College_
+## Bowdoin College
 - Political Economy of Development \[ [Syllabus](/assets/pdfs/Econ_3510_Syllabus.pdf) \| [Lecture Material](https://laiwz.github.io/bowdoin_pedev/) \]
 - Econometrics \[ [Syllabus](/assets/pdfs/Econ_3516_Syllabus.pdf) \]
 - Intermediate Microeconomics \[ [Syllabus](/assets/pdfs/Econ_2555A_Syllabus.pdf) \]
@@ -12,7 +12,7 @@ layout: default
 
 <br>
 
-## _Unversity of Maryland_
+## Unversity of Maryland
 Average ratings in parentheses. Please check out some comments from students [here](/assets/pdfs/students_comments.pdf).
 - **Instructor, Intermediate Microeconomics:** Summer 2022 (3.83/4, [Syllabus](/assets/pdfs/ECON306_Summer1_2023_Syllabus.pdf/))
 - **Tutor, Principles of Microeconomics:** Spring 2025
