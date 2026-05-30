@@ -4,7 +4,7 @@ layout: default
 
 # Teaching
 -------------------------------------------
-## <a href="https://www.bowdoin.edu/" target="_blank">Bowdoin College</a>
+## <a href="https://www.bowdoin.edu/" target="_blank" style="color: inherit;">Bowdoin College</a>
 - Political Economy of Development \[ [Syllabus](/assets/pdfs/Econ_3510_Syllabus.pdf) \| [Lecture Material](https://laiwz.github.io/bowdoin_pedev/) \]
 - Econometrics \[ [Syllabus](/assets/pdfs/Econ_3516_Syllabus.pdf) \]
 - Intermediate Microeconomics \[ [Syllabus](/assets/pdfs/Econ_2555A_Syllabus.pdf) \]
