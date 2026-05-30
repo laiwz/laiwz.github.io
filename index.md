@@ -20,7 +20,7 @@ My CV is [here](/assets/pdfs/CV.pdf).
 
 <!--# Research-->
 <!-- ------------------------------------------- -->
-## _Job Market Paper_
+## Job Market Paper
 * ["Migrant Integration and Social Stability: Evidence from China"](/assets/pdfs/unrest_draft.pdf) <br>
 with [Yu Qiu](https://jessyuqiu.github.io/) <br>
 <small>[ <a href="#/" onclick="visib('hukou_unrest')">Abstract</a> ]</small> <br>
@@ -32,7 +32,7 @@ with [Yu Qiu](https://jessyuqiu.github.io/) <br>
 
 <br>
 
-## _Publications_
+## Publications
 5. ["Property Rights, Fiscal Capacity, and Social Capacity: The Lasting Impact of the Taiping Rebellion"](https://doi.org/10.1007/s10887-025-09264-4) <br>
 with [Lixin Colin Xu](https://english.ckgsb.edu.cn/faculty/lixin-colin-xu/) and [Li Yang](https://sites.google.com/view/lyang/) <br>
 Forthcoming at _Journal of Economic Growth_ <br>
@@ -92,7 +92,7 @@ _China Economic Review_, Vol. 71, February 2022 <br>
 
 <br>
 
-## _Onging Projects_
+## Onging Projects
 4. ["Intergenerational Effects of Early-Adulthood Shocks"](/assets/pdfs/cr_draft.pdf) <br>
 <small>[ <a href="#/" onclick="visib('cultural_revolution')">Abstract</a> ]</small>
 
