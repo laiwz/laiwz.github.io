@@ -82,3 +82,21 @@
     width: 70%;
   }
 }
+
+.theme-toggle {
+  margin-top: 14px;
+}
+
+#theme-toggle-button {
+  border: 1px solid var(--clr-splitter-blockquote-and-section);
+  background: var(--clr-bg);
+  color: var(--clr-text);
+  border-radius: 4px;
+  padding: 4px 8px;
+  font: inherit;
+  cursor: pointer;
+}
+
+#theme-toggle-button:hover {
+  color: var(--clr-a-text);
+}
