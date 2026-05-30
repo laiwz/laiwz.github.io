@@ -13,6 +13,44 @@
   gtag('config', 'G-XFBVV0NE03');
 </script>
 
+<script>
+(function () {
+  const savedTheme = localStorage.getItem("theme");
+
+  if (savedTheme === "light" || savedTheme === "dark") {
+    document.documentElement.setAttribute("data-theme", savedTheme);
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    const button = document.getElementById("theme-toggle-button");
+    if (!button) return;
+
+    function currentTheme() {
+      const explicit = document.documentElement.getAttribute("data-theme");
+      if (explicit) return explicit;
+
+      return window.matchMedia("(prefers-color-scheme: dark)").matches
+        ? "dark"
+        : "light";
+    }
+
+    function updateButtonLabel() {
+      const theme = currentTheme();
+      button.textContent = theme === "dark" ? "☀️ Light" : "🌙 Dark";
+    }
+
+    button.addEventListener("click", function () {
+      const nextTheme = currentTheme() === "dark" ? "light" : "dark";
+      document.documentElement.setAttribute("data-theme", nextTheme);
+      localStorage.setItem("theme", nextTheme);
+      updateButtonLabel();
+    });
+
+    updateButtonLabel();
+  });
+})();
+</script>
+
 <!-- You can set your favicon here -->
 {% if site.favicon %}
   <link rel="shortcut icon" type="image/x-icon" href="{{ '/img/favicon.png' | relative_url }}">
