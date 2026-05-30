@@ -14,5 +14,11 @@
       <!-- <li><a href="{{ platform.link }}"><i class="{{ platform.icon }}"></i> {{ platform.name }}</a></li> -->
        <li><a href="{{ platform.link }}">{{ platform.icon }}&nbsp;{{ platform.name }}</a></li>
       {%- endfor %}
+
+       <li class="theme-toggle">
+          <button type="button" id="theme-toggle-button" aria-label="Toggle color scheme">
+            🌙 / ☀️
+       </button>
+     </li>
     </ul>
   </div>
