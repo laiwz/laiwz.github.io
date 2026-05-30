@@ -88,7 +88,7 @@ _China Economic Review_, Vol. 71, February 2022 <br>
 
 <br>
 
-## Onging Projects
+## Ongoing Projects
 4. ["Intergenerational Effects of Early-Adulthood Shocks"](/assets/pdfs/cr_draft.pdf) <br>
 <small>[ <a href="#/" onclick="visib('cultural_revolution')">Abstract</a> ]</small>
 
