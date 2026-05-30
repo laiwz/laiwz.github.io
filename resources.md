@@ -4,9 +4,9 @@ layout: default
 
 # Resources
 --------------------------------------------------------
-## _Data Sources_
+## Data Sources
 - [China Family Panel Study (CFPS)](http://www.isss.pku.edu.cn/cfps/)
-- [China Genernal Social Survey (CGSS)](http://cgss.ruc.edu.cn/)
+- [China General Social Survey (CGSS)](http://cgss.ruc.edu.cn/)
 - [China Private Enterprise Survey (CPES)](https://cpes.zkey.cc/index.jsp)
 - [China Data Access Project (by Northwestern Kellogg)](https://www.kellogg.northwestern.edu/research/global-poverty-research-lab/research/projects/china-data-access.aspx)
 - [Historical China Data by the Lee-Campbell Group @HKUST](https://leecampbellgroup.blog/projects/)
@@ -24,7 +24,7 @@ layout: default
 
 <br>
 
-## _Miscellaneous_
+## Miscellaneous
 - [Avraham Ebenstein's webpage](https://scholars.huji.ac.il/avrahamebenstein/links?page=1)
 - [Stata color palettes](http://repec.sowi.unibe.ch/stata/palettes/getting-started.html)
 - [Stata graph scheme](https://www.stata.com/meeting/uk18/slides/uk18_Jann.pdf)
