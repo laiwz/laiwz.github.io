@@ -4,7 +4,7 @@ title: "Weizheng Lai"
 ---
 
 <!-- # About Me -->
-I'm a Visiting Assistant Professor of Economics at [Bowdoin College](https://www.bowdoin.edu/economics/). I received my Ph.D. in Economics from the [University of Maryland](https://econ.umd.edu/) in May 2025.
+I'm an Assistant Professor in Economics at [Trinity College Dublin](https://www.tcd.ie/economics/). I received my Ph.D. in Economics from the [University of Maryland](https://econ.umd.edu/) in May 2025.
 
 I'm an applied microeconomist working on development economics, labor economics, political economy, and economic history. Much of my research focuses on how political and institutional factors shape variation in citizens' preferences and behaviors, and how these factors influence the development outcomes of societies. 
 
