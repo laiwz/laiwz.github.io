@@ -82,3 +82,43 @@
     width: 70%;
   }
 }
+
+/* Prevent horizontal scrolling on smaller screens */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+img,
+video,
+iframe,
+table {
+  max-width: 100%;
+}
+
+@media screen and (max-width: 960px) {
+  .wrapper,
+  header,
+  section,
+  footer {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  header,
+  section,
+  footer {
+    float: none;
+  }
+
+  section {
+    overflow-wrap: anywhere;
+  }
+}
