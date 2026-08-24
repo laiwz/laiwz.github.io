@@ -6,7 +6,7 @@ title: "Weizheng Lai"
 <!-- # About Me -->
 I'm an Assistant Professor in Economics at [Trinity College Dublin](https://www.tcd.ie/economics/). I received my Ph.D. in Economics from the [University of Maryland](https://econ.umd.edu/) in May 2025.
 
-I'm an applied microeconomist working on development economics, labor economics, political economy, and economic history. Much of my research focuses on how political and institutional factors shape variation in citizens' preferences and behaviors, and how these factors influence the development outcomes of societies. 
+I'm an applied microeconomist working on **political economy, development economics, labor economics, and applied microeconometrics**. Much of my research focuses on how political and institutional factors shape variation in citizens' preferences and behaviors, and how these factors influence the development outcomes of societies. 
 
 <!--My work has been published in academic journals such as _Journal of Economic Growth_, _Journal of Law and Economics_, _Journal of Economic Behavior and Organization_, and _Journal of Population Economics_.-->
 
