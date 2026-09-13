@@ -4,6 +4,11 @@ layout: default
 
 # Teaching
 -------------------------------------------
+## <a href="https://www.tcd.ie/" style="color: #0569B9;" target="_blank">Trinity College Dublin</a>
+- Intermediate Microeconomics \[ [Syllabus](/assets/pdfs/ECU22011_Syllabus.pdf) \]
+
+<br>
+
 ## <a href="https://www.bowdoin.edu/" target="_blank" style="color: inherit;">Bowdoin College</a>
 - Political Economy of Development \[ [Syllabus](/assets/pdfs/Econ_3510_Syllabus.pdf) \| [Lecture Material](https://laiwz.github.io/bowdoin_pedev/) \]
 - Econometrics \[ [Syllabus](/assets/pdfs/Econ_3516_Syllabus.pdf) \]
