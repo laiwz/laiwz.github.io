@@ -18,7 +18,7 @@ layout: default
 <br>
 
 ## <a href="https://umd.edu/" style="color: #E21833;" target="_blank">University of Maryland</a>
-- Instructor, Intermediate Microeconomics: Summer 2022 ([Syllabus](/assets/pdfs/ECON306_Summer1_2023_Syllabus.pdf/))
+- Instructor, Intermediate Microeconomics: Summer 2022 [[Syllabus](/assets/pdfs/ECON306_Summer1_2023_Syllabus.pdf/)]
 - Tutor, Principles of Microeconomics: Spring 2025
 - TA, Econometrics I (PhD core): Fall 2022--2023
 - TA, Econometrics II (PhD core): Spring 2022--2024
