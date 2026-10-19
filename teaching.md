@@ -20,9 +20,9 @@ layout: default
 ## <a href="https://umd.edu/" style="color: #E21833;" target="_blank">University of Maryland</a>
 - **Instructor, Intermediate Microeconomics:** Summer 2022 ([Syllabus](/assets/pdfs/ECON306_Summer1_2023_Syllabus.pdf/))
 - **Tutor, Principles of Microeconomics:** Spring 2025
-- **TA, Econometrics I (PhD core):** Fall 2022, Fall 2023
-- **TA, Econometrics II (PhD core):** Spring 2022, Spring 2023, Spring 2024
-- **TA, Probability and Statistics (PhD preparatory):** Summer 2022, Summer 2023, Summer 2024
+- **TA, Econometrics I (PhD core):** Fall 2022--2023
+- **TA, Econometrics II (PhD core):** Spring 2022--2024
+- **TA, Probability and Statistics (PhD preparatory):** Summer 2022--2024
 
 [//]: This java script is the button to show abstract
 <script>
