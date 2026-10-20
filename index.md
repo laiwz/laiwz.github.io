@@ -94,6 +94,15 @@ with [Yu Qiu](https://jessyuqiu.github.io/) <br>
     This paper studies the long-term occupational effects of China's Cultural Revolution (1966--76, CR), which involved a strong sense of dislike towards professionals. Using a difference-in-differences design, I find that individuals whose fathers experienced higher levels of violence during the CR are less inclined to pursue professional occupations. However, I do not observe a significant impact of mothers' exposure. Furthermore, there is limited evidence that the CR led to constraints hindering access to professional jobs in terms of human capital, family environment, and local economic conditions. I find patterns consistent with a model of preference transmission within families. Additionally, I provide evidence indicating that the dislike towards professional occupations may persist in the third generation, especially in the patriarchal line.
     <br><br/></div>
 
+1. "The Impact of Trade on Foreign Policy Preferences: The Case of Taiwan" <br>
+with [Yu Qiu](https://jessyuqiu.github.io/) <br>
+_Draft in preparation_
+<small>[ <a href="#/" onclick="visib('japan')">Abstract</a> ]</small>
+
+    <div id="japan" style="display: none; text-align: left; line-height: 1.5" >
+    Geopolitical tensions may reallocate economic opportunities across countries. We study the economic and political impacts of such shifts, drawing upon the Korean War (1950--1953), one of the most intense geopolitical conflicts in recent history. We show that US military procurement in Japan during the Korean War led to employment growth, labor relocation, and increases in labor productivity in Japan. Meanwhile, we present suggestive evidence that military procurement reduced support for parties opposed to Japan's rearmament and military alliance. Our findings suggest that geopolitical tensions may generate economic opportunities for some countries and influence domestic political discourse.
+    <br><br/></div>
+
 1. "Feudalism and Democracy: Evidence from Weimar Germany" <br>
 with [Kartikeya Batra](https://sites.google.com/view/kartikeyabatra), [Arseniy Braslavskiy](https://arseniy.braslavskiy.com/), and [Ethan Kaplan](https://econweb.umd.edu/~kaplan/)
 
