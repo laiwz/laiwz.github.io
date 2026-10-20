@@ -96,7 +96,7 @@ with [Yu Qiu](https://jessyuqiu.github.io/) <br>
 
 1. "The Impact of Trade on Foreign Policy Preferences: The Case of Taiwan" <br>
 with [Yu Qiu](https://jessyuqiu.github.io/) <br>
-_Draft in preparation_
+_Draft coming soon!_ <br>
 <small>[ <a href="#/" onclick="visib('japan')">Abstract</a> ]</small>
 
     <div id="japan" style="display: none; text-align: left; line-height: 1.5" >
