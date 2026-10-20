@@ -94,8 +94,9 @@ with [Yu Qiu](https://jessyuqiu.github.io/) <br>
     This paper studies the long-term occupational effects of China's Cultural Revolution (1966--76, CR), which involved a strong sense of dislike towards professionals. Using a difference-in-differences design, I find that individuals whose fathers experienced higher levels of violence during the CR are less inclined to pursue professional occupations. However, I do not observe a significant impact of mothers' exposure. Furthermore, there is limited evidence that the CR led to constraints hindering access to professional jobs in terms of human capital, family environment, and local economic conditions. I find patterns consistent with a model of preference transmission within families. Additionally, I provide evidence indicating that the dislike towards professional occupations may persist in the third generation, especially in the patriarchal line.
     <br><br/></div>
 
-1. "Geopolitical Tensions, Economic Opportunities, and Political Responses: Evidence from Japan" _(Draft coming soon!)_ <br>
+1. "Geopolitical Tensions, Economic Opportunities, and Political Responses: Evidence from Japan" <br>
 with [Yu Qiu](https://jessyuqiu.github.io/) <br>
+_(Draft coming soon!)_ <br>
 <small>[ <a href="#/" onclick="visib('japan')">Abstract</a> ]</small>
 
     <div id="japan" style="display: none; text-align: left; line-height: 1.5" >
