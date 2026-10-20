@@ -87,7 +87,7 @@ with [Yu Qiu](https://jessyuqiu.github.io/) <br>
     Societies around the world grapple with how to design migrant integration policies, amid concerns about these policies' impacts on social stability. This paper examines the causal link between migrant integration policy and social stability. We analyze the effect of China's 2014 reform of its restrictive internal migration system on migrant labor unrest (e.g., strikes and protests), exploiting a discontinuity in reform eligibility. We find that by offering migrants a pathway to obtaining full rights in host societies, the reform reduced labor unrest. We show that the reform strengthened migrants' intentions to settle in their destinations, thereby weakening their incentives to engage in labor unrest that could undermine their chances of staying due to employer or government retaliation. We develop a novel causal mediation analysis and show that settlement intentions can account for 26--63 percent of the reform's effect on labor unrest. We find no evidence that the reform altered migrant composition, improved migrants' well-being, or prompted governments to tighten social control. Our findings highlight the role of migrants' endogenous responses to migration regimes in shaping the social consequences of migration.
     <br><br/></div>
 
-4. ["Intergenerational Effects of Early-Adulthood Shocks"](/assets/pdfs/cr_draft.pdf) <br>
+4. ["The Intergenerational Effects of Early-Adulthood Adversity"](/assets/pdfs/cr_draft.pdf) <br>
 <small>[ <a href="#/" onclick="visib('cultural_revolution')">Abstract</a> ]</small>
 
     <div id="cultural_revolution" style="display: none; text-align: left; line-height: 1.5" >
