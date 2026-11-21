@@ -79,12 +79,12 @@ _China Economic Review_, Vol. 71, February 2022 <br>
 <br>
 
 ## Ongoing Projects
-1. ["Migrant Integration and Social Stability"](/assets/pdfs/unrest_draft.pdf) <br>
+1. <code style="color : Orangered">(New Draft!)</code> ["Migrant Integration and Social Stability"](/assets/pdfs/unrest_draft.pdf) <br>
 with [Yu Qiu](https://jessyuqiu.github.io/) <br>
 <small>[ <a href="#/" onclick="visib('hukou_unrest')">Abstract</a> ]</small> <br>
 
     <div id="hukou_unrest" style="display: none; text-align: left; line-height: 1.5" >
-    Societies around the world grapple with how to design migrant integration policies, amid concerns about these policies' impacts on social stability. This paper examines the causal link between migrant integration policy and social stability. We analyze the effect of China's 2014 reform of its restrictive internal migration system on migrant labor unrest (e.g., strikes and protests), exploiting a discontinuity in reform eligibility. We find that by offering migrants a pathway to obtaining full rights in host societies, the reform reduced labor unrest. We show that the reform strengthened migrants' intentions to settle in their destinations, thereby weakening their incentives to engage in labor unrest that could undermine their chances of staying due to employer or government retaliation. We develop a novel causal mediation analysis and show that settlement intentions can account for 26--63 percent of the reform's effect on labor unrest. We find no evidence that the reform altered migrant composition, improved migrants' well-being, or prompted governments to tighten social control. Our findings highlight the role of migrants' endogenous responses to migration regimes in shaping the social consequences of migration.
+    Societies around the world grapple with how to design migrant integration policies, amid concerns about these policies' impacts on social stability. This paper examines whether and how prospects of future integration can promote social stability. We analyze the effect of China's 2014 reform of its restrictive internal migration system on migrant labor unrest (e.g., strikes and protests), exploiting a discontinuity in reform eligibility. We find that by opening pathways for migrants to obtain full rights in their destinations, the reform reduced annual labor unrest by 1.419 incidents per million working-age population, equivalent to 42 percent of the control mean. We show that the reform strengthened migrants' intentions to settle in their destinations, thereby weakening their incentives to engage in labor unrest that could undermine their chances of staying due to employer or government retaliation. A novel causal mediation analysis implies that intentions to settle in destinations can explain 26--63 percent of the reform's effect on labor unrest. We find no evidence that the reform affected population growth or migrant composition, improved migrants' well-being, or prompted governments to tighten social control. Our findings highlight how prospects of future integration can themselves shape migrants' current behavior, even before material circumstances change.
     <br><br/></div>
 
 4. ["The Intergenerational Effects of Early-Adulthood Adversity"](/assets/pdfs/cr_draft.pdf) <br>
@@ -105,8 +105,6 @@ _(Draft coming soon!)_ <br>
 
 1. "Feudalism and Democracy: Evidence from Weimar Germany" <br>
 with [Kartikeya Batra](https://sites.google.com/view/kartikeyabatra), [Arseniy Braslavskiy](https://arseniy.braslavskiy.com/), and [Ethan Kaplan](https://econweb.umd.edu/~kaplan/)
-
-<!-- <code style="color : Orangered">(Updated!)</code> -->
 
 <!--
 1. ["Human Capital Development under Trade Conflict"](/assets/pdfs/major_draft.pdf) <br>
