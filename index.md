@@ -79,7 +79,7 @@ _China Economic Review_, Vol. 71, February 2022 <br>
 <br>
 
 ## Ongoing Projects
-1. <span style="color: orangered;">`New Draft!`</span> ["Migrant Integration and Social Stability"](/assets/pdfs/unrest_draft.pdf) <br>
+1. ["Migrant Integration and Social Stability"](/assets/pdfs/unrest_draft.pdf) <span style="color: orangered;">`New Draft!`</span> <br>
 with [Yu Qiu](https://jessyuqiu.github.io/) <br>
 <small>[ <a href="#/" onclick="visib('hukou_unrest')">Abstract</a> ]</small> <br>
 
